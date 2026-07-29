@@ -43,7 +43,9 @@ test/test-app.mjs        Playwright の動作確認
 
 ```bash
 npm run build   # index.html を作り直す（データ検証 → sw.js の VERSION 更新まで自動）
-npm test        # Playwright で27項目を検証
+npm test        # アプリ27項目 + GAS33項目を検証
+npm run test:app  # アプリだけ（Playwright）
+npm run test:gas  # GASだけ（SpreadsheetApp のスタブ上で Code.gs を実行）
 npm run icons   # アイコンを作り直す（普段は不要）
 npm run serve   # ローカルで確認（http://localhost:8898）
 ```
@@ -100,8 +102,13 @@ npm run serve   # ローカルで確認（http://localhost:8898）
 
 ## 変更するときの確認
 
-**`npm test` を必ず通してからコミットする。** 27項目（描画・採点・永続化・
-送信レコードの形・オフライン起動・再接続時の再送）を検証する。
+**`npm test` を必ず通してからコミットする。**
+
+- `test/test-app.mjs`（27項目）… 描画・採点・永続化・送信レコードの形・
+  オフライン起動・再接続時の再送
+- `test/test-gas.mjs`（33項目）… `gas/Code.gs` を SpreadsheetApp のスタブ上で
+  実際に実行する。追記・列入れかえ耐性・集計値・べき等性・異常系。
+  **Apps Script 側を直したらこちらも通す**
 
 - Chromium は既に入っているものを `executablePath` に指定して使う。
   **`playwright install` は実行しない**。`/opt/pw-browsers/chromium` →

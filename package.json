@@ -7,7 +7,9 @@
   "scripts": {
     "build": "python3 src/build.py",
     "icons": "python3 src/icons.py",
-    "test": "node test/test-app.mjs",
+    "test": "node test/test-app.mjs && node test/test-gas.mjs",
+    "test:app": "node test/test-app.mjs",
+    "test:gas": "node test/test-gas.mjs",
     "serve": "python3 -m http.server 8898"
   },
   "devDependencies": {

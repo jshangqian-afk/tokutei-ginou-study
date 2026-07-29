@@ -31,7 +31,7 @@ icon-*.png               アイコン
 .nojekyll                GitHub Pages の Jekyll 処理を止める
 gas/Code.gs              スプレッドシート側のスクリプト
 src/                     編集元（template.html / data_*.json / build.py）
-test/                    Playwright の動作確認
+test/                    動作確認（アプリ / GAS）
 ```
 
 **`index.html` は直接編集しません。** `src/` を直して `npm run build` します。
@@ -41,7 +41,7 @@ test/                    Playwright の動作確認
 ```bash
 npm install     # 初回のみ（Playwright）
 npm run build   # src/ から index.html を作り直す
-npm test        # 27項目の動作確認
+npm test        # 動作確認（アプリ27項目 + GAS33項目）
 npm run serve   # ローカル確認 http://localhost:8898
 ```
 

@@ -103,9 +103,10 @@ npm run serve   # ローカルで確認（http://localhost:8898）
 **`npm test` を必ず通してからコミットする。** 27項目（描画・採点・永続化・
 送信レコードの形・オフライン起動・再接続時の再送）を検証する。
 
-- Chromium は `/opt/pw-browsers/chromium` を `executablePath` に指定して使う。
-  **`playwright install` は実行しない**（この環境には既に入っている）。
-  別環境なら `CHROME_PATH` 環境変数で差しかえる
+- Chromium は既に入っているものを `executablePath` に指定して使う。
+  **`playwright install` は実行しない**。`/opt/pw-browsers/chromium` →
+  macOS の Google Chrome → Chromium の順に自動で探す。
+  見つからない環境なら `CHROME_PATH` 環境変数で差しかえる
 - 機能を足したら、その機能のテストも `test/test-app.mjs` に足す
 - 問題データを増やしたら、`npm run build` の出力で件数が想定どおりか確認する
 

@@ -12,8 +12,8 @@
  *   5. モックのGASサーバーに正しい形のレコードが届く
  *   6. オフラインでアプリが起動し、回答がキューに残り、再接続で送信される
  *
- * ※ このコンテナには Chromium が入っているので `playwright install` は実行しない。
- *    別環境で動かす場合は CHROME_PATH を指定するか、この定数を消す。
+ * ※ `playwright install` は実行しない。既に入っている Chromium / Chrome を使う。
+ *    見つからない環境では CHROME_PATH に実行ファイルのパスを指定する。
  */
 import { chromium } from 'playwright';
 import http from 'http';
@@ -22,7 +22,17 @@ import path from 'path';
 import { fileURLToPath } from 'url';
 
 const ROOT = path.dirname(path.dirname(fileURLToPath(import.meta.url)));
-const CHROME = process.env.CHROME_PATH || '/opt/pw-browsers/chromium';
+// 実行環境ごとに Chromium の場所が違う。CHROME_PATH があればそれを最優先し、
+// なければ既知の場所を上から順に探す（`playwright install` は実行しない）。
+const CHROME = process.env.CHROME_PATH || [
+  '/opt/pw-browsers/chromium',
+  '/Applications/Google Chrome.app/Contents/MacOS/Google Chrome',
+  '/Applications/Chromium.app/Contents/MacOS/Chromium'
+].find(p => fs.existsSync(p));
+if (!CHROME) {
+  console.error('Chromium が見つかりません。CHROME_PATH に実行ファイルのパスを指定してください。');
+  process.exit(1);
+}
 const MIME = {
   '.html': 'text/html; charset=utf-8',
   '.js': 'text/javascript; charset=utf-8',

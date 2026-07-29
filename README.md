@@ -69,16 +69,13 @@ git add -A && git commit -m "..." && git push
 
 ## 記録の集約（GAS）
 
-`gas/Code.gs` をスプレッドシートの Apps Script に貼り、`setup` を実行してから
-ウェブアプリとしてデプロイし、発行された URL を `src/template.html` の
+**設定ずみです。** 記録は
+[特定技能1号 学習記録](https://docs.google.com/spreadsheets/d/1XoUSXPpvgX9TNAoIgLxSK5q2yrwpp6hfij3ERVJLI2c/edit)
+に集まります（送信先は `src/template.html` の `GAS_URL` に埋め込みずみ）。
 
-```js
-const GAS_URL = "";
-```
-
-（205行目あたり）に貼って `npm run build` します。
-**`index.html` を直接書きかえてはいけません**（Service Worker の VERSION がズレて
-古いキャッシュが残ります）。詳細は `セットアップ手順.md` を参照。
+`gas/Code.gs` を直したときは、Apps Script に貼り直したうえで
+**新しいデプロイを作り直す**必要があります（既存デプロイは古いコードのまま動きます）。
+詳細は `セットアップ手順.md` を参照。
 
 ### スプレッドシート側
 

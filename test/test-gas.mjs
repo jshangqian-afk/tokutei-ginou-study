@@ -84,14 +84,22 @@ class Spreadsheet {
 
 const ss = new Spreadsheet('特定技能1号 学習記録');
 const alerts = [];
+// Apps Script エディタから実行すると getUi() は
+// 「Cannot call SpreadsheetApp.getUi() from this context.」で落ちる。
+// 実際にそうなったので、既定ではエディタ実行を再現する
+let uiAvailable = false;
 
 const sandbox = {
+  Logger: { log: () => {} },
   SpreadsheetApp: {
     getActiveSpreadsheet: () => ss,
-    getUi: () => ({
-      alert: (m) => alerts.push(m),
-      createMenu: () => { const m = { addItem: () => m, addToUi: () => {} }; return m; }
-    }),
+    getUi: () => {
+      if (!uiAvailable) throw new Error('Cannot call SpreadsheetApp.getUi() from this context.');
+      return {
+        alert: (m) => alerts.push(m),
+        createMenu: () => { const m = { addItem: () => m, addToUi: () => {} }; return m; }
+      };
+    },
     newConditionalFormatRule: () => {
       const rule = {};
       const api = {
@@ -134,14 +142,25 @@ const rowsOf = (name) => {
 
 /* ============================ テスト ============================ */
 
-console.log('\n[1] 初期設定');
-sandbox.setup();
+console.log('\n[1] 初期設定（Apps Script エディタから実行＝getUi() が使えない状況）');
+let setupErr = null;
+try { sandbox.setup(); } catch (e) { setupErr = e; }
+ok('setup が例外を投げずに終わる', setupErr === null, String(setupErr));
 ok('4つのシートができる',
   ['回答ログ', '模試結果', '学習者サマリー', '分野別サマリー'].every(n => ss.getSheetByName(n)),
   ss.sheets.map(s => s.name).join(','));
 ok('回答ログにヘッダーが入る',
   ss.getSheetByName('回答ログ').getRange(1, 1, 1, 10).getValues()[0][0] === '日時');
-ok('セットアップ完了の案内が出る', alerts.length === 1);
+
+console.log('\n[1b] 初期設定（スプレッドシートのメニューから実行＝getUi() が使える）');
+{
+  uiAvailable = true;
+  sandbox.setup();
+  ok('完了の案内がダイアログで出る', alerts.length === 1, `${alerts.length}件`);
+  ok('作り直しても4シートのまま',
+    ss.sheets.filter(s => ['回答ログ', '模試結果', '学習者サマリー', '分野別サマリー'].includes(s.name)).length === 4);
+  uiAvailable = false;
+}
 
 console.log('\n[2] 回答の受信');
 let res = post({

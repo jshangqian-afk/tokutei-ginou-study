@@ -4,7 +4,7 @@
         アイコンなどはキャッシュ優先。
         GAS（別ドメイン）へのリクエストには一切さわらない。 */
 
-const VERSION = 'tk1-c15d81ab28';
+const VERSION = 'tk1-0a5d9b920f';
 const ASSETS = [
   './',
   './index.html',

@@ -1,0 +1,866 @@
+{
+  "questions": [
+    {
+      "id": "A01",
+      "chapter": "第2章 食品衛生",
+      "topic": "5S",
+      "type": "gakka",
+      "q": "５Ｓの「{整理|せいり}（Seiri）」とは{何|なん}ですか。",
+      "q_en": "What does 'Seiri' (sorting) of the 5S mean?",
+      "choices": [
+        "{使|つか}わないものをなくして、{使|つか}うものだけにすること",
+        "{器具|きぐ}や{道具|どうぐ}を、{必要|ひつよう}なときにすぐ{取|と}り{出|だ}せるようにすること",
+        "{設備|せつび}や{器具|きぐ}を{洗|あら}ったり{拭|ふ}いたりして、きれいな{状態|じょうたい}にすること"
+      ],
+      "choices_en": [
+        "Removing things you do not use, and keeping only what you use",
+        "Arranging tools so you can take them out quickly when needed",
+        "Washing and wiping equipment and utensils to make them clean"
+      ],
+      "answer": 0,
+      "explain": "{整理|せいり}は、いらない{器具|きぐ}や{道具|どうぐ}をなくして、{必要|ひつよう}な{器具|きぐ}や{道具|どうぐ}だけにすることです。",
+      "explain_en": "Seiri means getting rid of unnecessary tools and keeping only the ones you need.",
+      "page": 15
+    },
+    {
+      "id": "A02",
+      "chapter": "第2章 食品衛生",
+      "topic": "5S",
+      "type": "gakka",
+      "q": "５Ｓの「{整頓|せいとん}（Seiton）」の{説明|せつめい}として{正|ただ}しいものはどれですか。",
+      "q_en": "Which is the correct explanation of 'Seiton' (setting in order)?",
+      "choices": [
+        "{器具|きぐ}や{道具|どうぐ}を、{必要|ひつよう}なときにすぐ{取|と}り{出|だ}せるようにすること",
+        "{使|つか}わないものをなくして、{使|つか}うものだけにすること",
+        "{決|き}められたことを{決|き}められたとおりにできるようになること"
+      ],
+      "choices_en": [
+        "Making tools easy to take out immediately when they are needed",
+        "Removing what you do not use and keeping only what you use",
+        "Being able to do decided things exactly as they were decided"
+      ],
+      "answer": 0,
+      "explain": "{整頓|せいとん}では、{場所|ばしょ}を{決|き}めて{置|お}いたり、{使|つか}いやすい{順序|じゅんじょ}に{並|なら}べたり、{名前|なまえ}や{数量|すうりょう}を{表示|ひょうじ}したりします。",
+      "explain_en": "For Seiton you decide fixed places, line items up in an easy-to-use order, and label names and quantities.",
+      "page": 15
+    },
+    {
+      "id": "A03",
+      "chapter": "第2章 食品衛生",
+      "topic": "5S",
+      "type": "gakka",
+      "q": "５Ｓの「{清掃|せいそう}（Seisou）」とは{何|なん}ですか。",
+      "q_en": "What does 'Seisou' (cleaning) mean?",
+      "choices": [
+        "{設備|せつび}や{器具|きぐ}、{道具|どうぐ}を{洗|あら}ったり、{磨|みが}いたり、{拭|ふ}いたりして{汚|よご}れを{取|と}り{除|のぞ}くこと",
+        "{見|み}た{目|め}がきれいで、{食品衛生|しょくひんえいせい}にも{問題|もんだい}がないこと",
+        "{使|つか}いやすい{順序|じゅんじょ}に{並|なら}べて、{名前|なまえ}や{数量|すうりょう}を{表示|ひょうじ}すること"
+      ],
+      "choices_en": [
+        "Washing, polishing and wiping equipment and tools to remove dirt",
+        "Looking clean and also having no food hygiene problem",
+        "Lining things up in an easy order and labelling names and quantities"
+      ],
+      "answer": 0,
+      "explain": "{清掃|せいそう}は、{設備|せつび}や{器具|きぐ}、{道具|どうぐ}をきれいな{状態|じょうたい}にして、{汚|よご}れを{取|と}り{除|のぞ}くことです。",
+      "explain_en": "Seisou means making equipment and tools clean and removing dirt.",
+      "page": 15
+    },
+    {
+      "id": "A04",
+      "chapter": "第2章 食品衛生",
+      "topic": "5S",
+      "type": "gakka",
+      "q": "５Ｓの「{清潔|せいけつ}（Seiketsu）」の{説明|せつめい}として{正|ただ}しいものはどれですか。",
+      "q_en": "Which is the correct explanation of 'Seiketsu' (cleanliness)?",
+      "choices": [
+        "{見|み}た{目|め}がきれいで、{設備|せつび}や{器具|きぐ}が{病原性微生物|びょうげんせいびせいぶつ}に{汚染|おせん}されていないこと",
+        "{使|つか}わない{器具|きぐ}や{道具|どうぐ}をなくすこと",
+        "{決|き}められたルールをそのとおりに{実行|じっこう}できること"
+      ],
+      "choices_en": [
+        "Looking clean, and equipment and utensils are not contaminated with pathogenic microorganisms",
+        "Getting rid of tools you do not use",
+        "Being able to follow the decided rules exactly"
+      ],
+      "answer": 0,
+      "explain": "{清潔|せいけつ}は、{整理|せいり}・{整頓|せいとん}・{清掃|せいそう}をして{見|み}た{目|め}がきれいで、{食品衛生|しょくひんえいせい}にも{問題|もんだい}がない{状態|じょうたい}です。",
+      "explain_en": "Seiketsu means that after sorting, ordering and cleaning, things look clean and there is no food hygiene problem.",
+      "page": 15
+    },
+    {
+      "id": "A05",
+      "chapter": "第2章 食品衛生",
+      "topic": "5S",
+      "type": "gakka",
+      "q": "５Ｓの「{習慣付|しゅうかんづ}け（しつけ）」とは{何|なん}ですか。",
+      "q_en": "What does 'Shukanzuke / Shitsuke' (habit, discipline) mean?",
+      "choices": [
+        "{決|き}められたことを{決|き}められたとおりにできること",
+        "{汚|よご}れを{取|と}り{除|のぞ}いて、きれいな{状態|じょうたい}にすること",
+        "{必要|ひつよう}な{器具|きぐ}だけを{残|のこ}して、いらないものをなくすこと"
+      ],
+      "choices_en": [
+        "Being able to do decided things exactly as decided",
+        "Removing dirt and making things clean",
+        "Keeping only necessary tools and removing unneeded ones"
+      ],
+      "answer": 0,
+      "explain": "{習慣付|しゅうかんづ}け（しつけ）は、{整理|せいり}・{整頓|せいとん}・{清掃|せいそう}・{清潔|せいけつ}のルールを、そのとおりに{実行|じっこう}できるようになることです。",
+      "explain_en": "It means becoming able to carry out the rules of sorting, ordering, cleaning and cleanliness exactly as they are.",
+      "page": 15
+    },
+    {
+      "id": "A06",
+      "chapter": "第2章 食品衛生",
+      "topic": "5S",
+      "type": "gakka",
+      "q": "５Ｓは{食品衛生|しょくひんえいせい}のためだけでなく、{何|なに}のためにも{役立|やくだ}ちますか。",
+      "q_en": "Besides food hygiene, what else is 5S useful for?",
+      "choices": [
+        "{労働安全|ろうどうあんぜん}（{作業場|さぎょうば}で{病気|びょうき}になったりケガをしないこと）",
+        "{製品|せいひん}の{値段|ねだん}を{安|やす}くすること",
+        "{原材料|げんざいりょう}を{長|なが}く{保管|ほかん}できるようにすること"
+      ],
+      "choices_en": [
+        "Occupational safety (not getting sick or injured in the workplace)",
+        "Making the product price cheaper",
+        "Making it possible to store raw materials for a long time"
+      ],
+      "answer": 0,
+      "explain": "５Ｓは{労働安全|ろうどうあんぜん}にも{役立|やくだ}つので、{日本|にほん}や{世界|せかい}のさまざまな{工場|こうじょう}や{作業場|さぎょうば}でおこなわれています。",
+      "explain_en": "5S also helps occupational safety, so it is used in many factories and workplaces in Japan and around the world.",
+      "page": 16
+    },
+    {
+      "id": "A07",
+      "chapter": "第2章 食品衛生",
+      "topic": "施設・設備・器具などの衛生管理",
+      "type": "gakka",
+      "q": "「{交差汚染|こうさおせん}」とは{何|なん}ですか。",
+      "q_en": "What is 'cross contamination'?",
+      "choices": [
+        "{清潔|せいけつ}な{人|ひと}や{物|もの}が、{清潔|せいけつ}ではない{人|ひと}や{物|もの}に{触|ふ}れて、{危害要因|きがいよういん}に{汚染|おせん}されること",
+        "{食品|しょくひん}を{長|なが}い{時間|じかん}{保管|ほかん}して、{品質|ひんしつ}が{悪|わる}くなること",
+        "{食品|しょくひん}の{温度|おんど}が{上|あ}がって、{微生物|びせいぶつ}が{増|ふ}えること"
+      ],
+      "choices_en": [
+        "Clean people or things touch unclean people or things and become contaminated with a hazard",
+        "Food is stored for a long time and its quality gets worse",
+        "The temperature of food rises and microorganisms increase"
+      ],
+      "answer": 0,
+      "explain": "{交差汚染|こうさおせん}を{防止|ぼうし}するには、{施設|しせつ}、{設備|せつび}、{器具|きぐ}などを{正|ただ}しく{使|つか}い{分|わ}けることと、{清潔|せいけつ}に{保|たも}つことが{重要|じゅうよう}です。",
+      "explain_en": "To prevent cross contamination it is important to use facilities, equipment and utensils separately in the right way, and to keep them clean.",
+      "page": 16
+    },
+    {
+      "id": "A08",
+      "chapter": "第2章 食品衛生",
+      "topic": "区分衛生管理（ゾーニング）",
+      "type": "gakka",
+      "q": "「{区分衛生管理|くぶんえいせいかんり}（ゾーニング）」とは{何|なん}ですか。",
+      "q_en": "What is 'zoning' (area-based hygiene management)?",
+      "choices": [
+        "{作業場|さぎょうば}を{区域|くいき}に{分|わ}けて{衛生管理|えいせいかんり}をすること",
+        "{作業者|さぎょうしゃ}を{年齢|ねんれい}で{分|わ}けて{管理|かんり}すること",
+        "{原材料|げんざいりょう}を{種類|しゅるい}ごとに{注文|ちゅうもん}すること"
+      ],
+      "choices_en": [
+        "Dividing the workplace into areas and managing hygiene for each area",
+        "Managing workers by dividing them by age",
+        "Ordering raw materials separately by type"
+      ],
+      "answer": 0,
+      "explain": "{食品製造工場|しょくひんせいぞうこうじょう}の{中|なか}は、{通常|つうじょう}、{清潔作業区域|せいけつさぎょうくいき}、{準清潔作業区域|じゅんせいけつさぎょうくいき}、{汚染作業区域|おせんさぎょうくいき}などに{区分|くぶん}されています。",
+      "explain_en": "A food factory is usually divided into a clean area, a semi-clean area and a contaminated (dirty) area.",
+      "page": 16
+    },
+    {
+      "id": "A09",
+      "chapter": "第2章 食品衛生",
+      "topic": "区分衛生管理（ゾーニング）",
+      "type": "gakka",
+      "q": "「{清潔作業区域|せいけつさぎょうくいき}」では、どのような{食品|しょくひん}を{取|と}り{扱|あつか}いますか。",
+      "q_en": "What kind of food is handled in the 'clean working area'?",
+      "choices": [
+        "{加熱|かねつ}や{薬剤|やくざい}による{殺菌|さっきん}が{終|お}わった{食品|しょくひん}",
+        "{殺菌|さっきん}する{前|まえ}の{原材料|げんざいりょう}",
+        "{受|う}け{入|い}れたばかりの{原材料|げんざいりょう}"
+      ],
+      "choices_en": [
+        "Food for which heating or chemical sterilization has finished",
+        "Raw materials before sterilization",
+        "Raw materials that have just been received"
+      ],
+      "answer": 0,
+      "explain": "{惣菜製造業|そうざいせいぞうぎょう}では、トッピング、{盛|も}り{付|つ}け、{包装|ほうそう}などの{作業|さぎょう}をおこなう{区域|くいき}です。",
+      "explain_en": "In prepared-food manufacturing it is the area for topping, plating and packaging.",
+      "page": 16
+    },
+    {
+      "id": "A10",
+      "chapter": "第2章 食品衛生",
+      "topic": "区分衛生管理（ゾーニング）",
+      "type": "gakka",
+      "q": "{下処理|したしょり}や{加熱調理|かねつちょうり}をおこなう{区域|くいき}はどれですか。",
+      "q_en": "Which area is used for preparation and heat cooking?",
+      "choices": [
+        "{準清潔作業区域|じゅんせいけつさぎょうくいき}",
+        "{清潔作業区域|せいけつさぎょうくいき}",
+        "{汚染作業区域|おせんさぎょうくいき}"
+      ],
+      "choices_en": [
+        "Semi-clean working area",
+        "Clean working area",
+        "Contaminated working area"
+      ],
+      "answer": 0,
+      "explain": "{準清潔作業区域|じゅんせいけつさぎょうくいき}では{殺菌|さっきん}する{前|まえ}の{原材料|げんざいりょう}を{扱|あつか}います。{作業中|さぎょうちゅう}の{食品|しょくひん}が{作業前|さぎょうまえ}の{原材料|げんざいりょう}と{触|ふ}れないようにします。",
+      "explain_en": "The semi-clean area handles raw materials before sterilization. Food being processed must not touch raw materials that have not been processed yet.",
+      "page": 16
+    },
+    {
+      "id": "A11",
+      "chapter": "第2章 食品衛生",
+      "topic": "区分衛生管理（ゾーニング）",
+      "type": "gakka",
+      "q": "{出荷|しゅっか}するために{段|だん}ボール{箱|ばこ}に{詰|つ}めた{製品|せいひん}を{取|と}り{扱|あつか}う{区域|くいき}は、どの{区域|くいき}ですか。",
+      "q_en": "Which area is used for handling products packed in cardboard boxes for shipping?",
+      "choices": [
+        "{汚染作業区域|おせんさぎょうくいき}",
+        "{清潔作業区域|せいけつさぎょうくいき}",
+        "{準清潔作業区域|じゅんせいけつさぎょうくいき}"
+      ],
+      "choices_en": [
+        "Contaminated working area",
+        "Clean working area",
+        "Semi-clean working area"
+      ],
+      "answer": 0,
+      "explain": "{原材料|げんざいりょう}の{受入|うけい}れなど、{作業場|さぎょうば}の{外|そと}から{持|も}ち{込|こ}まれた{原材料|げんざいりょう}を{扱|あつか}う{区域|くいき}も{汚染作業区域|おせんさぎょうくいき}です。",
+      "explain_en": "The area where raw materials brought in from outside are received is also a contaminated working area.",
+      "page": 16
+    },
+    {
+      "id": "A12",
+      "chapter": "第2章 食品衛生",
+      "topic": "区分衛生管理（ゾーニング）",
+      "type": "gakka",
+      "q": "{原材料|げんざいりょう}を{段|だん}ボール{箱|ばこ}やコンテナのまま{準清潔作業区域|じゅんせいけつさぎょうくいき}や{清潔作業区域|せいけつさぎょうくいき}に{持|も}ち{込|こ}んではいけないのは、なぜですか。",
+      "q_en": "Why must raw materials not be brought into the semi-clean or clean areas still in their cardboard boxes or containers?",
+      "choices": [
+        "{段|だん}ボール{箱|ばこ}やコンテナが、{土|つち}やほこり、{虫|むし}や{微生物|びせいぶつ}などで{汚染|おせん}している{場合|ばあい}があるから",
+        "{段|だん}ボール{箱|ばこ}が{重|おも}くて、ケガをすることがあるから",
+        "{段|だん}ボール{箱|ばこ}の{中|なか}の{原材料|げんざいりょう}の{温度|おんど}が{上|あ}がるから"
+      ],
+      "choices_en": [
+        "The boxes or containers may be contaminated with soil, dust, insects or microorganisms",
+        "Cardboard boxes are heavy and can cause injury",
+        "The temperature of the raw materials inside the box rises"
+      ],
+      "answer": 0,
+      "explain": "{外|そと}から{持|も}ち{込|こ}まれた{段|だん}ボール{箱|ばこ}やコンテナは{汚|よご}れているおそれがあるため、{中身|なかみ}だけを{移|うつ}して{入|い}れます。",
+      "explain_en": "Boxes and containers brought from outside may be dirty, so only the contents are moved in.",
+      "page": 17
+    },
+    {
+      "id": "A13",
+      "chapter": "第2章 食品衛生",
+      "topic": "清掃・洗浄・消毒",
+      "type": "gakka",
+      "q": "{排水溝|はいすいこう}や{大|おお}きな{機械|きかい}の{下|した}に{特|とく}に{注意|ちゅうい}が{必要|ひつよう}なのは、なぜですか。",
+      "q_en": "Why do drains and the space under large machines need special attention?",
+      "choices": [
+        "{虫|むし}の{発生源|はっせいげん}になりやすいから",
+        "{機械|きかい}が{壊|こわ}れやすいから",
+        "{床|ゆか}がすべりやすくなるから"
+      ],
+      "choices_en": [
+        "They easily become a source of insects",
+        "Machines break easily there",
+        "The floor becomes slippery"
+      ],
+      "answer": 0,
+      "explain": "{排水溝|はいすいこう}は{蓋|ふた}を{外|はず}して{洗|あら}います。また、{微生物|びせいぶつ}が{増|ふ}えやすいので、{作業場|さぎょうば}の{床|ゆか}は{濡|ぬ}れたままにしてはいけません。",
+      "explain_en": "Take off the drain cover and wash inside. Also, do not leave the workplace floor wet, because microorganisms grow easily.",
+      "page": 17
+    },
+    {
+      "id": "A14",
+      "chapter": "第2章 食品衛生",
+      "topic": "清掃・洗浄・消毒",
+      "type": "gakka",
+      "q": "ミキサーやスライサーなどの{機械|きかい}の{洗浄|せんじょう}について、{正|ただ}しいものはどれですか。",
+      "q_en": "Which is correct about washing machines such as mixers and slicers?",
+      "choices": [
+        "{汚|よご}れが{目立|めだ}たなくても{毎日|まいにち}{洗浄|せんじょう}する",
+        "{汚|よご}れが{目立|めだ}ったときだけ{洗浄|せんじょう}する",
+        "{原材料|げんざいりょう}をかえるときは{洗浄|せんじょう}しなくてよい"
+      ],
+      "choices_en": [
+        "Wash every day, even if dirt is not visible",
+        "Wash only when dirt is clearly visible",
+        "No washing is needed when changing raw materials"
+      ],
+      "answer": 0,
+      "explain": "{機械|きかい}は、{原材料|げんざいりょう}をかえたときと{作業|さぎょう}が{終|お}わったときに{必|かなら}ず{洗浄|せんじょう}します。{分解|ぶんかい}できる{部分|ぶぶん}は{分解|ぶんかい}して{洗浄|せんじょう}し、{刃|は}など{食品|しょくひん}に{直接触|ちょくせつふ}れる{部分|ぶぶん}は{洗浄|せんじょう}の{後|あと}に{消毒|しょうどく}します。",
+      "explain_en": "Machines must be washed when raw materials are changed and when work finishes. Parts that can be taken apart are washed separately, and parts that touch food directly, such as blades, are disinfected after washing.",
+      "page": 17
+    },
+    {
+      "id": "A15",
+      "chapter": "第2章 食品衛生",
+      "topic": "清掃・洗浄・消毒",
+      "type": "gakka",
+      "q": "{包丁|ほうちょう}やまな{板|いた}などの{器具|きぐ}を{使|つか}ったあと、{正|ただ}しい{保管|ほかん}の{方法|ほうほう}はどれですか。",
+      "q_en": "After using utensils such as knives and cutting boards, what is the correct way to store them?",
+      "choices": [
+        "{決|き}められた{方法|ほうほう}で{洗|あら}い、{水分|すいぶん}が{残|のこ}らないように{乾燥|かんそう}させてから{保管|ほかん}する",
+        "{洗|あら}ったあと、{濡|ぬ}れたまますぐに{保管|ほかん}する",
+        "{汚|よご}れが{見|み}えないときは、{洗|あら}わずに{保管|ほかん}する"
+      ],
+      "choices_en": [
+        "Wash by the decided method and dry so no water is left, then store",
+        "After washing, store immediately while still wet",
+        "If no dirt is visible, store without washing"
+      ],
+      "answer": 0,
+      "explain": "{器具|きぐ}に{汚|よご}れが{残|のこ}っていたり{水分|すいぶん}がついていたりすると、{微生物|びせいぶつ}が{増|ふ}える{原因|げんいん}になります。たわしやスポンジなどの{清掃用具|せいそうようぐ}も、{汚|よご}れたまま・{濡|ぬ}れたままにしてはいけません。",
+      "explain_en": "Leftover dirt or water on utensils makes microorganisms grow. Cleaning tools such as brushes and sponges must also not be left dirty or wet.",
+      "page": 17
+    },
+    {
+      "id": "A16",
+      "chapter": "第2章 食品衛生",
+      "topic": "薬剤の管理",
+      "type": "gakka",
+      "q": "{殺菌剤|さっきんざい}や{洗浄剤|せんじょうざい}などの{薬剤|やくざい}の{保管|ほかん}について、{正|ただ}しいものはどれですか。",
+      "q_en": "Which is correct about storing chemicals such as sanitizers and detergents?",
+      "choices": [
+        "{決|き}められた{場所|ばしょ}に{保管|ほかん}し、{原材料|げんざいりょう}と{同|おな}じ{保管庫|ほかんこ}には{入|い}れない",
+        "{使|つか}いやすいように{原材料|げんざいりょう}と{同|おな}じ{保管庫|ほかんこ}に{入|い}れる",
+        "{名称|めいしょう}の{表示|ひょうじ}はしなくてもよい"
+      ],
+      "choices_en": [
+        "Store in the decided place, never in the same store as raw materials",
+        "Store together with raw materials so they are easy to use",
+        "There is no need to label the name"
+      ],
+      "answer": 0,
+      "explain": "{薬剤|やくざい}が{食品|しょくひん}に{混入|こんにゅう}すると{病気|びょうき}の{原因|げんいん}になり、{目|め}や{皮膚|ひふ}につくと{危険|きけん}です。{薬剤|やくざい}は{名称|めいしょう}が{分|わ}かるように{表示|ひょうじ}しなければいけません。",
+      "explain_en": "If chemicals get into food they can cause illness, and they are dangerous for eyes and skin. Chemicals must be labelled with their name.",
+      "page": 18
+    },
+    {
+      "id": "A17",
+      "chapter": "第2章 食品衛生",
+      "topic": "作業者の衛生管理",
+      "type": "gakka",
+      "q": "{作業|さぎょう}を{始|はじ}める{前|まえ}の「{健康|けんこう}チェック」では、{何|なに}を{確認|かくにん}しますか。",
+      "q_en": "What is checked in the 'health check' before starting work?",
+      "choices": [
+        "{下痢|げり}、{発熱|はつねつ}、{吐|は}き{気|け}などの{症状|しょうじょう}や{手指|てゆび}の{傷|きず}がないこと",
+        "{前|まえ}の{日|ひ}の{睡眠時間|すいみんじかん}と{体重|たいじゅう}",
+        "{作業服|さぎょうふく}のサイズと{洗濯|せんたく}した{日|ひ}"
+      ],
+      "choices_en": [
+        "That there is no diarrhea, fever, nausea, or cuts on the hands and fingers",
+        "Sleeping hours of the previous day and body weight",
+        "The size of the uniform and the day it was washed"
+      ],
+      "answer": 0,
+      "explain": "これらの{症状|しょうじょう}などがある{人|ひと}は、{必|かなら}ず{責任者|せきにんしゃ}へ{報告|ほうこく}しなければいけません。",
+      "explain_en": "Anyone with these symptoms must report to the supervisor.",
+      "page": 18
+    },
+    {
+      "id": "A18",
+      "chapter": "第2章 食品衛生",
+      "topic": "作業者の衛生管理",
+      "type": "gakka",
+      "q": "{作業者|さぎょうしゃ}は、{職場|しょくば}で{決|き}まっている{何|なに}を{受|う}けなければいけませんか。",
+      "q_en": "What must workers receive as decided by their workplace?",
+      "choices": [
+        "{定期的|ていきてき}な{健康診断|けんこうしんだん}や{検便|けんべん}",
+        "{毎日|まいにち}の{体力|たいりょく}テスト",
+        "{年|ねん}に１{回|かい}の{視力検査|しりょくけんさ}だけ"
+      ],
+      "choices_en": [
+        "Regular health checkups and stool (feces) tests",
+        "A daily physical fitness test",
+        "Only an eyesight test once a year"
+      ],
+      "answer": 0,
+      "explain": "{作業者|さぎょうしゃ}は、{職場|しょくば}で{決|き}まっている{定期的|ていきてき}な{健康診断|けんこうしんだん}や{検便|けんべん}を{受|う}けなければいけません。",
+      "explain_en": "Workers must take the regular health checkups and stool tests decided by the workplace.",
+      "page": 19
+    },
+    {
+      "id": "A19",
+      "chapter": "第2章 食品衛生",
+      "topic": "作業服",
+      "type": "gakka",
+      "q": "{作業場|さぎょうば}に{入|はい}るときの{身|み}だしなみについて、{正|ただ}しいものはどれですか。",
+      "q_en": "Which is correct about personal appearance when entering the workplace?",
+      "choices": [
+        "{爪|つめ}は{短|みじか}く{切|き}り、つけ{爪|づめ}やマニキュア、{指輪|ゆびわ}や{腕時計|うでどけい}はしない",
+        "{指輪|ゆびわ}は{手袋|てぶくろ}の{下|した}にすれば{入|はい}ってもよい",
+        "ヘアピンやつけまつげは{小|ちい}さいので{入|はい}ってもよい"
+      ],
+      "choices_en": [
+        "Keep nails short; no false nails, nail polish, rings or watches",
+        "Rings are OK if you wear them under gloves",
+        "Hairpins and false eyelashes are OK because they are small"
+      ],
+      "answer": 0,
+      "explain": "{指輪|ゆびわ}、{腕輪|うでわ}、{腕時計|うでどけい}、アクセサリー（イヤリング、ネックレス、ピアス）、ヘアピン、つけまつげなどをして{作業場|さぎょうば}に{入|はい}ってはいけません。",
+      "explain_en": "Rings, bracelets, watches, accessories (earrings, necklaces, piercings), hairpins and false eyelashes must not be worn into the workplace.",
+      "page": 19
+    },
+    {
+      "id": "A20",
+      "chapter": "第2章 食品衛生",
+      "topic": "作業服",
+      "type": "gakka",
+      "q": "{作業服|さぎょうふく}の{一般的|いっぱんてき}な{着用|ちゃくよう}の{順序|じゅんじょ}として{正|ただ}しいものはどれですか。",
+      "q_en": "Which is the correct general order for putting on the work clothes?",
+      "choices": [
+        "ブラッシング → ヘアーネット → {帽子|ぼうし} → {作業服|さぎょうふく} → {確認|かくにん}",
+        "{作業服|さぎょうふく} → {帽子|ぼうし} → ヘアーネット → ブラッシング → {確認|かくにん}",
+        "ヘアーネット → ブラッシング → {作業服|さぎょうふく} → {帽子|ぼうし} → {確認|かくにん}"
+      ],
+      "choices_en": [
+        "Brushing hair, hair net, cap, work clothes, then check",
+        "Work clothes, cap, hair net, brushing, then check",
+        "Hair net, brushing, work clothes, cap, then check"
+      ],
+      "answer": 0,
+      "explain": "{最後|さいご}に{鏡|かがみ}で、マスクから{鼻|はな}が{出|で}ていないこと、{帽子|ぼうし}やヘアーネットから{耳|みみ}や{髪|かみ}の{毛|け}が{出|で}ていないことなどを{確認|かくにん}します。",
+      "explain_en": "At the end, use a mirror to check that the nose is not out of the mask and that ears and hair are not out of the cap or hair net.",
+      "page": 20
+    },
+    {
+      "id": "A21",
+      "chapter": "第2章 食品衛生",
+      "topic": "作業服",
+      "type": "gakka",
+      "q": "マスクの{正|ただ}しい{着|つ}け{方|かた}はどれですか。",
+      "q_en": "Which is the correct way to wear a mask?",
+      "choices": [
+        "{鼻|はな}からあごまでかかるようにして、{針金|はりがね}を{折|お}り{鼻|はな}との{間|あいだ}に{隙間|すきま}をつくらない",
+        "{息|いき}が{苦|くる}しいので{鼻|はな}は{出|だ}してもよい",
+        "あごの{下|した}にかけておき、{話|はな}すときだけ{上|あ}げる"
+      ],
+      "choices_en": [
+        "Cover from nose to chin, bend the wire so there is no gap at the nose",
+        "The nose may be left out because breathing is hard",
+        "Keep it under the chin and pull it up only when speaking"
+      ],
+      "answer": 0,
+      "explain": "マスクは{鼻|はな}からあごまでかかり、ほほとの{間|あいだ}にも{隙間|すきま}をつくらないようにします。{作業中|さぎょうちゅう}にマスクを{外|はず}してはいけません。",
+      "explain_en": "The mask must cover from nose to chin with no gap at the cheeks. Do not take the mask off during work.",
+      "page": 23
+    },
+    {
+      "id": "A22",
+      "chapter": "第2章 食品衛生",
+      "topic": "手洗い",
+      "type": "gakka",
+      "q": "{正|ただ}しい{手洗|てあら}いで、せっけんをつけて{洗|あら}う{時間|じかん}の{目安|めやす}はどれですか。",
+      "q_en": "In correct handwashing, about how long should you wash with soap?",
+      "choices": [
+        "３０{秒間程度|びょうかんていど}",
+        "１０{秒間程度|びょうかんていど}",
+        "６０{秒間程度|びょうかんていど}"
+      ],
+      "choices_en": [
+        "About 30 seconds",
+        "About 10 seconds",
+        "About 60 seconds"
+      ],
+      "answer": 0,
+      "explain": "せっけんで{手|て}や{指|ゆび}、{手首|てくび}まで３０{秒間程度|びょうかんていど}{洗|あら}い、{流水|りゅうすい}で２０{秒間程度|びょうかんていど}{洗|あら}い{流|なが}します。そのあと{使|つか}い{捨|す}てのペーパータオルかエアータオルで{手|て}を{乾|かわ}かし、{消毒用|しょうどくよう}アルコールを{両手|りょうて}にすりこみます。",
+      "explain_en": "Wash hands, fingers and wrists with soap for about 30 seconds, rinse with running water for about 20 seconds, dry with a disposable paper towel or air towel, then rub alcohol sanitizer into both hands.",
+      "page": 25
+    },
+    {
+      "id": "A23",
+      "chapter": "第2章 食品衛生",
+      "topic": "作業者の衛生管理",
+      "type": "jitsugi",
+      "q": "{作業中|さぎょうちゅう}に{手指|てゆび}を{切|き}ってケガをしました。まず{何|なに}をしますか。",
+      "q_en": "You cut your finger during work. What do you do first?",
+      "choices": [
+        "すぐに{作業|さぎょう}を{止|と}めて、{責任者|せきにんしゃ}へ{報告|ほうこく}する",
+        "ばんそうこうを{貼|は}って、そのまま{作業|さぎょう}を{続|つづ}ける",
+        "{作業|さぎょう}が{終|お}わってから{責任者|せきにんしゃ}へ{報告|ほうこく}する"
+      ],
+      "choices_en": [
+        "Stop work immediately and report to the supervisor",
+        "Put on a plaster and continue working",
+        "Report to the supervisor after work is finished"
+      ],
+      "answer": 0,
+      "explain": "{作業中|さぎょうちゅう}にお{腹|なか}が{痛|いた}くなったり、ケガをしたりしたときは、{作業|さぎょう}を{続|つづ}けてはいけません。すぐに{作業|さぎょう}を{止|と}めて{責任者|せきにんしゃ}へ{報告|ほうこく}します。",
+      "explain_en": "If you get a stomachache or an injury during work, do not continue. Stop at once and report to the supervisor.",
+      "page": 18
+    },
+    {
+      "id": "A24",
+      "chapter": "第2章 食品衛生",
+      "topic": "薬剤の管理",
+      "type": "jitsugi",
+      "q": "{名称|めいしょう}の{表示|ひょうじ}がない{薬剤|やくざい}の{容器|ようき}を{見|み}つけました。どうしますか。",
+      "q_en": "You find a chemical container with no name label. What do you do?",
+      "choices": [
+        "すぐに{責任者|せきにんしゃ}へ{報告|ほうこく}する",
+        "{中身|なかみ}の{臭|にお}いをかいで、{自分|じぶん}で{名前|なまえ}を{書|か}く",
+        "{使|つか}わないので、そのままにしておく"
+      ],
+      "choices_en": [
+        "Report to the supervisor at once",
+        "Smell the contents and write the name yourself",
+        "Leave it as it is because you will not use it"
+      ],
+      "answer": 0,
+      "explain": "{薬剤|やくざい}は{名称|めいしょう}が{分|わ}かるように{表示|ひょうじ}しなければいけません。{表示|ひょうじ}のないものを{見|み}つけたら、すぐに{責任者|せきにんしゃ}へ{報告|ほうこく}します。",
+      "explain_en": "Chemicals must be labelled with their name. If you find an unlabelled one, report it to the supervisor immediately.",
+      "page": 18
+    },
+    {
+      "id": "A25",
+      "chapter": "第2章 食品衛生",
+      "topic": "作業服",
+      "type": "jitsugi",
+      "q": "{作業場|さぎょうば}が{暑|あつ}くて{汗|あせ}をかいています。{正|ただ}しい{行動|こうどう}はどれですか。",
+      "q_en": "The workplace is hot and you are sweating. What is the correct action?",
+      "choices": [
+        "{帽子|ぼうし}やマスクは{外|はず}さず、{袖|そで}もまくらないで{作業|さぎょう}を{続|つづ}ける",
+        "{暑|あつ}いので{帽子|ぼうし}を{脱|ぬ}いで{作業|さぎょう}する",
+        "{作業服|さぎょうふく}の{袖|そで}をまくって{作業|さぎょう}する"
+      ],
+      "choices_en": [
+        "Keep the cap and mask on, do not roll up sleeves, and continue working",
+        "Take off the cap because it is hot",
+        "Roll up the sleeves of the work clothes"
+      ],
+      "answer": 0,
+      "explain": "{作業服|さぎょうふく}は{作業中|さぎょうちゅう}もいつも{正|ただ}しく{着用|ちゃくよう}していなければいけません。{暑|あつ}くても{帽子|ぼうし}を{脱|ぬ}いだり、{袖|そで}をまくったり、マスクを{外|はず}したりしてはいけません。",
+      "explain_en": "Work clothes must always be worn correctly during work. Even if it is hot, do not remove the cap, roll up sleeves, or take off the mask.",
+      "page": 20
+    },
+    {
+      "id": "A26",
+      "chapter": "第2章 食品衛生",
+      "topic": "手袋・エプロン",
+      "type": "jitsugi",
+      "q": "{生|なま}の{肉|にく}を{調理|ちょうり}したあとに、{野菜|やさい}を{調理|ちょうり}します。{正|ただ}しい{行動|こうどう}はどれですか。",
+      "q_en": "After preparing raw meat you will prepare vegetables. What is the correct action?",
+      "choices": [
+        "{手袋|てぶくろ}を{交換|こうかん}してから{野菜|やさい}を{調理|ちょうり}する",
+        "{同|おな}じ{手袋|てぶくろ}を{水|みず}で{洗|あら}って、そのまま{使|つか}う",
+        "{手袋|てぶくろ}は{破|やぶ}れていないので、そのまま{野菜|やさい}を{調理|ちょうり}する"
+      ],
+      "choices_en": [
+        "Change gloves before handling the vegetables",
+        "Rinse the same gloves with water and keep using them",
+        "Keep the same gloves because they are not torn"
+      ],
+      "answer": 0,
+      "explain": "{取|と}り{扱|あつか}う{原材料|げんざいりょう}をかえるときは{手袋|てぶくろ}を{交換|こうかん}します。{先|さき}に{取|と}り{扱|あつか}った{原材料|げんざいりょう}の{危害要因|きがいよういん}（{病原性微生物|びょうげんせいびせいぶつ}やアレルギー{物質|ぶっしつ}）を{次|つぎ}の{原材料|げんざいりょう}につけないためです。",
+      "explain_en": "Change gloves when you change the raw material you handle, so that hazards from the first material (pathogens or allergens) do not move to the next one.",
+      "page": 26
+    },
+    {
+      "id": "A27",
+      "chapter": "第2章 食品衛生",
+      "topic": "区分衛生管理と作業服",
+      "type": "jitsugi",
+      "q": "{作業中|さぎょうちゅう}にトイレに{行|い}きます。{正|ただ}しい{行動|こうどう}はどれですか。",
+      "q_en": "You are going to the toilet during work. What is the correct action?",
+      "choices": [
+        "トイレ{用|よう}の{履物|はきもの}に{履|は}き{替|か}え、{戻|もど}るときは{手洗|てあら}いをする",
+        "{作業場|さぎょうば}で{使|つか}っている{靴|くつ}のままトイレに{入|はい}る",
+        "{作業服|さぎょうふく}や{帽子|ぼうし}のまま{作業場|さぎょうば}の{外|そと}に{出|で}てもよい"
+      ],
+      "choices_en": [
+        "Change into toilet footwear, and wash your hands before returning",
+        "Enter the toilet wearing the shoes used in the workplace",
+        "It is fine to go outside the workplace in your work clothes and cap"
+      ],
+      "answer": 0,
+      "explain": "トイレでは、トイレ{用|よう}の{履物|はきもの}に{履|は}き{替|か}えなければいけません。また、{作業場|さぎょうば}で{使|つか}っている{作業服|さぎょうふく}、{帽子|ぼうし}や{靴|くつ}のまま{作業場|さぎょうば}の{外|そと}に{出|で}てはいけません。{外|そと}の{土|つち}やほこり、{虫|むし}や{微生物|びせいぶつ}を{持|も}ち{込|こ}んでしまうからです。トイレのあとは{手洗|てあら}いをします。",
+      "explain_en": "You must change into toilet footwear. Also, do not go outside the workplace in work clothes, cap or shoes, because you would bring soil, dust, insects and microorganisms back in. Wash hands after using the toilet.",
+      "page": 21
+    },
+    {
+      "id": "A28",
+      "chapter": "第2章 食品衛生",
+      "topic": "作業者が守らなければならないこと",
+      "type": "jitsugi",
+      "q": "{作業中|さぎょうちゅう}に、つい{髪|かみ}の{毛|け}や{鼻|はな}を{触|さわ}ってしまいました。どうしますか。",
+      "q_en": "During work you accidentally touched your hair or nose. What do you do?",
+      "choices": [
+        "もう{一度|いちど}{手洗|てあら}いをするか、{手袋|てぶくろ}を{交換|こうかん}する",
+        "{作業服|さぎょうふく}で{手|て}を{拭|ふ}いてから{作業|さぎょう}を{続|つづ}ける",
+        "{何|なに}もつけていないので、そのまま{作業|さぎょう}を{続|つづ}ける"
+      ],
+      "choices_en": [
+        "Wash your hands again, or change your gloves",
+        "Wipe your hands on your work clothes and continue",
+        "Continue as usual because nothing is stuck on your hands"
+      ],
+      "answer": 0,
+      "explain": "{髪|かみ}の{毛|け}や{目|め}、{鼻|はな}、{口|くち}の{周|まわ}りを{触|さわ}った{手|て}で{作業|さぎょう}をしてはいけません。また、{作業服|さぎょうふく}で{手|て}を{拭|ふ}いてはいけません。",
+      "explain_en": "Do not work with hands that have touched hair, eyes, nose or mouth. Also, never wipe your hands on your work clothes.",
+      "page": 26
+    },
+    {
+      "id": "A29",
+      "chapter": "第2章 食品衛生",
+      "topic": "作業者が守らなければならないこと",
+      "type": "jitsugi",
+      "q": "{作業|さぎょう}を{始|はじ}める{前|まえ}に、{作業者|さぎょうしゃ}がしなければならないことはどれですか。",
+      "q_en": "What must a worker do before starting work?",
+      "choices": [
+        "{作業手順書|さぎょうてじゅんしょ}を{見|み}て{作業|さぎょう}を{確認|かくにん}し、{機械|きかい}・{装置|そうち}・{器具|きぐ}に{汚|よご}れや{不備|ふび}がないか{確認|かくにん}する",
+        "{機械|きかい}を{動|うご}かしてから、{作業手順書|さぎょうてじゅんしょ}を{読|よ}む",
+        "{前|まえ}の{日|ひ}と{同|おな}じ{作業|さぎょう}なので、{確認|かくにん}しないで{始|はじ}める"
+      ],
+      "choices_en": [
+        "Read the work procedure manual and check machines, devices and utensils for dirt or defects",
+        "Start the machine first, then read the procedure manual",
+        "Start without checking because the work is the same as yesterday"
+      ],
+      "answer": 0,
+      "explain": "{作業|さぎょう}の{前|まえ}に{作業手順書|さぎょうてじゅんしょ}を{見|み}て、どこでどんな{作業|さぎょう}をするのか{確認|かくにん}します。{使|つか}う{機械|きかい}・{装置|そうち}・{器具|きぐ}などに{汚|よご}れや{不備|ふび}がないかも{確認|かくにん}します。",
+      "explain_en": "Before work, read the procedure manual to check where and what work you will do, and check the machines, devices and utensils for dirt or problems.",
+      "page": 26
+    },
+    {
+      "id": "A30",
+      "chapter": "第2章 食品衛生",
+      "topic": "作業者が守らなければならないこと",
+      "type": "jitsugi",
+      "q": "{作業場|さぎょうば}に{持|も}ち{込|こ}んでよいものはどれですか。",
+      "q_en": "Which of these may be brought into the workplace?",
+      "choices": [
+        "どれも{持|も}ち{込|こ}んではいけない",
+        "ポケットに{入|い}れたスマートフォンや{財布|さいふ}",
+        "ホチキスの{針|はり}やクリップがついた{書類|しょるい}、シャープペン"
+      ],
+      "choices_en": [
+        "None of them may be brought in",
+        "A smartphone or wallet kept in your pocket",
+        "Documents with staples or clips, and a mechanical pencil"
+      ],
+      "answer": 0,
+      "explain": "{作業|さぎょう}に{関係|かんけい}のない{持|も}ち{物|もの}（{時計|とけい}、スマートフォン、{財布|さいふ}、{写真|しゃしん}、たばこなど）を{持|も}ち{込|こ}んではいけません。ホチキスの{針|はり}やクリップ、{鉛筆|えんぴつ}やシャープペンの{折|お}れた{芯|しん}は{異物混入|いぶつこんにゅう}の{原因|げんいん}になります。{香水|こうすい}など{強|つよ}い{臭|にお}いがするものも{持|も}ち{込|こ}んではいけません。",
+      "explain_en": "Personal items not related to work (watch, smartphone, wallet, photos, cigarettes) must not be brought in. Staples, clips and broken pencil leads cause foreign-object contamination. Strongly scented items such as perfume are also not allowed.",
+      "page": 26
+    }
+  ],
+  "terms": [
+    {
+      "term": "５Ｓ",
+      "reading": "ごえす",
+      "en": "5S",
+      "def": "「Ｓ」で{始|はじ}まる５つの{活動|かつどう}（{整理|せいり}・{整頓|せいとん}・{清掃|せいそう}・{清潔|せいけつ}・{習慣付|しゅうかんづ}け／しつけ）のこと。{一般衛生管理|いっぱんえいせいかんり}の{基本|きほん}となる{考|かんが}え{方|かた}。",
+      "def_en": "Five activities starting with 'S' (sorting, order, cleaning, cleanliness, habit/discipline). The basic idea of general hygiene management.",
+      "page": 15
+    },
+    {
+      "term": "{整理|せいり}",
+      "reading": "せいり",
+      "en": "Seiri / Sorting",
+      "def": "{使|つか}わないものをなくして、{使|つか}うものだけにすること。",
+      "def_en": "Removing unnecessary items and keeping only what is used.",
+      "page": 15
+    },
+    {
+      "term": "{整頓|せいとん}",
+      "reading": "せいとん",
+      "en": "Seiton / Setting in order",
+      "def": "{器具|きぐ}や{道具|どうぐ}を、{必要|ひつよう}なときにすぐ{取|と}り{出|だ}せるようにすること。{場所|ばしょ}を{決|き}め、{名前|なまえ}や{数量|すうりょう}を{表示|ひょうじ}する。",
+      "def_en": "Making tools easy to take out when needed: fixed places, labels for names and quantities.",
+      "page": 15
+    },
+    {
+      "term": "{清掃|せいそう}",
+      "reading": "せいそう",
+      "en": "Seisou / Cleaning",
+      "def": "{設備|せつび}や{器具|きぐ}、{道具|どうぐ}を{洗|あら}ったり{磨|みが}いたり{拭|ふ}いたりして、{汚|よご}れを{取|と}り{除|のぞ}くこと。",
+      "def_en": "Washing, polishing and wiping equipment and tools to remove dirt.",
+      "page": 15
+    },
+    {
+      "term": "{清潔|せいけつ}",
+      "reading": "せいけつ",
+      "en": "Seiketsu / Cleanliness",
+      "def": "{整理|せいり}・{整頓|せいとん}・{清掃|せいそう}をして{見|み}た{目|め}がきれいで、{設備|せつび}や{器具|きぐ}が{病原性微生物|びょうげんせいびせいぶつ}に{汚染|おせん}されていないこと。",
+      "def_en": "After sorting, ordering and cleaning, things look clean and equipment is not contaminated with pathogenic microorganisms.",
+      "page": 15
+    },
+    {
+      "term": "{習慣付|しゅうかんづ}け（しつけ）",
+      "reading": "しゅうかんづけ（しつけ）",
+      "en": "Shukanzuke / Shitsuke (habit, discipline)",
+      "def": "{決|き}められたことを{決|き}められたとおりにできること。５Ｓのルールをそのとおりに{実行|じっこう}できるようになること。",
+      "def_en": "Being able to do decided things exactly as decided, and to follow the 5S rules every time.",
+      "page": 15
+    },
+    {
+      "term": "{一般衛生管理|いっぱんえいせいかんり}",
+      "reading": "いっぱんえいせいかんり",
+      "en": "General hygiene management",
+      "def": "「{施設|しせつ}、{設備|せつび}、{器具|きぐ}などの{衛生管理|えいせいかんり}」「{作業者|さぎょうしゃ}の{衛生管理|えいせいかんり}」「{原材料|げんざいりょう}・{食品|しょくひん}の{衛生管理|えいせいかんり}」の３つに{分|わ}けられる{衛生管理|えいせいかんり}。",
+      "def_en": "Hygiene management divided into three parts: facilities/equipment/utensils, workers, and raw materials/food.",
+      "page": 15
+    },
+    {
+      "term": "{労働安全|ろうどうあんぜん}",
+      "reading": "ろうどうあんぜん",
+      "en": "Occupational safety",
+      "def": "{作業場|さぎょうば}で{病気|びょうき}になったりケガをしないこと。５Ｓは{労働安全|ろうどうあんぜん}にも{役立|やくだ}つ。",
+      "def_en": "Not getting sick or injured at the workplace. 5S also helps occupational safety.",
+      "page": 16
+    },
+    {
+      "term": "{交差汚染|こうさおせん}",
+      "reading": "こうさおせん",
+      "en": "Cross contamination",
+      "def": "{清潔|せいけつ}な{人|ひと}や{物|もの}が、{清潔|せいけつ}ではない{人|ひと}や{物|もの}に{触|ふ}れて、{危害要因|きがいよういん}に{汚染|おせん}されること。",
+      "def_en": "Clean people or things becoming contaminated with hazards by touching unclean people or things.",
+      "page": 16
+    },
+    {
+      "term": "{区分衛生管理|くぶんえいせいかんり}（ゾーニング）",
+      "reading": "くぶんえいせいかんり",
+      "en": "Zoning (area-based hygiene management)",
+      "def": "{作業場|さぎょうば}を{区域|くいき}に{分|わ}けて{衛生管理|えいせいかんり}をすること。{交差汚染|こうさおせん}を{防止|ぼうし}するためにおこなう。",
+      "def_en": "Dividing the workplace into areas and managing hygiene in each, to prevent cross contamination.",
+      "page": 16
+    },
+    {
+      "term": "{清潔作業区域|せいけつさぎょうくいき}",
+      "reading": "せいけつさぎょうくいき",
+      "en": "Clean working area",
+      "def": "{加熱|かねつ}や{薬剤|やくざい}による{殺菌|さっきん}が{終|お}わった{食品|しょくひん}を{取|と}り{扱|あつか}う{区域|くいき}。トッピング、{盛|も}り{付|つ}け、{包装|ほうそう}など。",
+      "def_en": "Area for food after heat or chemical sterilization: topping, plating, packaging.",
+      "page": 16
+    },
+    {
+      "term": "{準清潔作業区域|じゅんせいけつさぎょうくいき}",
+      "reading": "じゅんせいけつさぎょうくいき",
+      "en": "Semi-clean working area",
+      "def": "{殺菌|さっきん}する{前|まえ}の{原材料|げんざいりょう}を{取|と}り{扱|あつか}う{区域|くいき}。{下処理|したしょり}、{加熱調理|かねつちょうり}など。",
+      "def_en": "Area for raw materials before sterilization: preparation and heat cooking.",
+      "page": 16
+    },
+    {
+      "term": "{汚染作業区域|おせんさぎょうくいき}",
+      "reading": "おせんさぎょうくいき",
+      "en": "Contaminated (dirty) working area",
+      "def": "{原材料|げんざいりょう}の{受入|うけい}れなど、{作業場|さぎょうば}の{外|そと}から{持|も}ち{込|こ}まれた{原材料|げんざいりょう}を{扱|あつか}う{区域|くいき}。{段|だん}ボール{箱|ばこ}に{詰|つ}めた{製品|せいひん}を{扱|あつか}う{区域|くいき}も{含|ふく}む。",
+      "def_en": "Area for raw materials brought in from outside (receiving), and for products packed in cardboard boxes.",
+      "page": 16
+    },
+    {
+      "term": "{洗浄|せんじょう}",
+      "reading": "せんじょう",
+      "en": "Washing",
+      "def": "{機械|きかい}や{器具|きぐ}の{汚|よご}れを{洗|あら}って{落|お}とすこと。{原材料|げんざいりょう}をかえたときや{作業|さぎょう}が{終|お}わったときは{必|かなら}ずおこなう。",
+      "def_en": "Washing off dirt from machines and utensils. Always done when raw materials change and when work ends.",
+      "page": 17
+    },
+    {
+      "term": "{消毒|しょうどく}",
+      "reading": "しょうどく",
+      "en": "Disinfection",
+      "def": "{微生物|びせいぶつ}を{減|へ}らすためにおこなう{処理|しょり}。{刃|は}など{食品|しょくひん}に{直接触|ちょくせつふ}れる{部分|ぶぶん}は、{洗浄|せんじょう}の{後|あと}に{消毒|しょうどく}する。",
+      "def_en": "Treatment to reduce microorganisms. Parts touching food directly, such as blades, are disinfected after washing.",
+      "page": 17
+    },
+    {
+      "term": "{薬剤|やくざい}の{管理|かんり}",
+      "reading": "やくざいのかんり",
+      "en": "Chemical management",
+      "def": "{殺菌剤|さっきんざい}・{洗浄剤|せんじょうざい}などを{決|き}められた{場所|ばしょ}に{保管|ほかん}し、{原材料|げんざいりょう}と{同|おな}じ{保管庫|ほかんこ}に{入|い}れず、{名称|めいしょう}を{表示|ひょうじ}すること。",
+      "def_en": "Storing sanitizers and detergents in the decided place, never with raw materials, and labelling their names.",
+      "page": 18
+    },
+    {
+      "term": "{健康|けんこう}チェック",
+      "reading": "けんこうチェック",
+      "en": "Health check",
+      "def": "{作業|さぎょう}を{始|はじ}める{前|まえ}に、{下痢|げり}、{発熱|はつねつ}、{吐|は}き{気|け}などの{症状|しょうじょう}や{手指|てゆび}の{傷|きず}がないことを{確認|かくにん}すること。",
+      "def_en": "Checking before work that there is no diarrhea, fever, nausea, or cuts on hands and fingers.",
+      "page": 18
+    },
+    {
+      "term": "{検便|けんべん}",
+      "reading": "けんべん",
+      "en": "Stool (feces) test",
+      "def": "{作業者|さぎょうしゃ}が{職場|しょくば}の{決|き}まりにしたがって{定期的|ていきてき}に{受|う}ける{検査|けんさ}。{健康診断|けんこうしんだん}とあわせて{受|う}ける。",
+      "def_en": "A test workers take regularly as decided by the workplace, together with health checkups.",
+      "page": 19
+    },
+    {
+      "term": "ヘアーネット",
+      "reading": "へあーねっと",
+      "en": "Hair net",
+      "def": "{頭髪|とうはつ}が{外|そと}に{出|で}ないようにかぶるもの。{帽子|ぼうし}の{内側|うちがわ}に{着用|ちゃくよう}する。",
+      "def_en": "Worn so that hair does not come out; put on inside the cap.",
+      "page": 20
+    },
+    {
+      "term": "{粘着|ねんちゃく}ローラー",
+      "reading": "ねんちゃくろーらー",
+      "en": "Sticky roller (lint roller)",
+      "def": "{作業場|さぎょうば}に{入|はい}る{前|まえ}に、{作業服|さぎょうふく}についている{髪|かみ}の{毛|け}やほこりを{取|と}るための{道具|どうぐ}。",
+      "def_en": "A tool used before entering the workplace to remove hair and dust from work clothes.",
+      "page": 21
+    },
+    {
+      "term": "エアーシャワー",
+      "reading": "えあーしゃわー",
+      "en": "Air shower",
+      "def": "{作業場|さぎょうば}に{入|はい}る{前|まえ}に、{風|かぜ}で{作業服|さぎょうふく}の{髪|かみ}の{毛|け}やほこりを{取|と}る{設備|せつび}。",
+      "def_en": "Equipment that blows air to remove hair and dust from work clothes before entering the workplace.",
+      "page": 21
+    },
+    {
+      "term": "{手洗|てあら}い",
+      "reading": "てあらい",
+      "en": "Handwashing",
+      "def": "{流水|りゅうすい}で{汚|よご}れを{落|お}とし、せっけんで{手首|てくび}まで３０{秒間程度|びょうかんていど}{洗|あら}い、{流水|りゅうすい}で２０{秒間程度|びょうかんていど}{流|なが}し、{手|て}を{乾|かわ}かして{消毒用|しょうどくよう}アルコールをすりこむこと。",
+      "def_en": "Rinse off dirt, wash with soap up to the wrists for about 30 seconds, rinse for about 20 seconds, dry hands, then rub in alcohol sanitizer.",
+      "page": 25
+    },
+    {
+      "term": "{手袋|てぶくろ}の{交換|こうかん}",
+      "reading": "てぶくろのこうかん",
+      "en": "Changing gloves",
+      "def": "{原材料|げんざいりょう}をかえるとき、トイレや{休憩|きゅうけい}の{後|あと}、{手袋|てぶくろ}が{破|やぶ}れたときなどに{手袋|てぶくろ}を{新|あたら}しくすること。",
+      "def_en": "Putting on new gloves when changing raw materials, after the toilet or a break, or when gloves are torn.",
+      "page": 26
+    },
+    {
+      "term": "{作業手順書|さぎょうてじゅんしょ}",
+      "reading": "さぎょうてじゅんしょ",
+      "en": "Work procedure manual",
+      "def": "どこでどんな{作業|さぎょう}をするのかが{書|か}かれた{書類|しょるい}。{作業|さぎょう}の{前|まえ}に{見|み}て{確認|かくにん}する。",
+      "def_en": "A document showing where and what work to do. Check it before starting work.",
+      "page": 26
+    },
+    {
+      "term": "{異物混入|いぶつこんにゅう}",
+      "reading": "いぶつこんにゅう",
+      "en": "Foreign object contamination",
+      "def": "{食品|しょくひん}に{入|はい}ってはいけないものが{混|ま}じること。ホチキスの{針|はり}やクリップ、{鉛筆|えんぴつ}の{折|お}れた{芯|しん}などが{原因|げんいん}になる。",
+      "def_en": "Something that must not be in food getting mixed in, e.g. staples, clips or broken pencil lead.",
+      "page": 27
+    }
+  ]
+}

@@ -1,0 +1,858 @@
+{
+  "questions": [
+    {
+      "id": "B01",
+      "chapter": "第2章 食品衛生",
+      "topic": "原材料の保管",
+      "type": "gakka",
+      "q": "{生鮮魚介類|せいせんぎょかいるい}の{保管|ほかん}{温度|おんど}は{何|なん}{度|ど}{以下|いか}ですか。",
+      "q_en": "At what temperature or below should fresh fish and shellfish be stored?",
+      "choices": [
+        "5℃{以下|いか}",
+        "10℃{以下|いか}",
+        "15℃{以下|いか}"
+      ],
+      "choices_en": [
+        "5 degrees C or below",
+        "10 degrees C or below",
+        "15 degrees C or below"
+      ],
+      "answer": 0,
+      "explain": "テキストの{保管|ほかん}{温度|おんど}{表|ひょう}では、{生鮮魚介類|せいせんぎょかいるい}は5℃{以下|いか}です。{食肉|しょくにく}やゆでだこは10℃{以下|いか}、{米穀類|べいこくるい}は15℃{以下|いか}です。",
+      "explain_en": "In the storage temperature table, fresh fish and shellfish are 5 degrees C or below. Meat and boiled octopus are 10 degrees C or below; rice and grains are 15 degrees C or below.",
+      "page": 29
+    },
+    {
+      "id": "B02",
+      "chapter": "第2章 食品衛生",
+      "topic": "原材料の保管",
+      "type": "gakka",
+      "q": "{冷凍|れいとう}{食品|しょくひん}や{冷凍|れいとう}{水産物|すいさんぶつ}の{保管|ほかん}{温度|おんど}は{何|なん}{度|ど}{以下|いか}ですか。",
+      "q_en": "At what temperature or below should frozen foods and frozen seafood be stored?",
+      "choices": [
+        "－10℃{以下|いか}",
+        "－15℃{以下|いか}",
+        "－18℃{以下|いか}"
+      ],
+      "choices_en": [
+        "-10 degrees C or below",
+        "-15 degrees C or below",
+        "-18 degrees C or below"
+      ],
+      "answer": 2,
+      "explain": "{冷凍|れいとう}{水産物|すいさんぶつ}・{冷凍|れいとう}{食品|しょくひん}・{凍結卵|とうけつらん}は－18℃{以下|いか}です。{冷凍|れいとう}{食肉|しょくにく}と{冷凍|れいとう}{食肉|しょくにく}{製品|せいひん}は－15℃{以下|いか}なので{注意|ちゅうい}します。",
+      "explain_en": "Frozen seafood, frozen foods and frozen eggs are -18 degrees C or below. Note that frozen meat and frozen meat products are -15 degrees C or below.",
+      "page": 29
+    },
+    {
+      "id": "B03",
+      "chapter": "第2章 食品衛生",
+      "topic": "冷蔵庫・冷凍庫の管理",
+      "type": "gakka",
+      "q": "{冷蔵庫|れいぞうこ}に{原材料|げんざいりょう}を{隙間|すきま}なく{詰|つ}め{込|こ}んではいけないのはなぜですか。",
+      "q_en": "Why should you not pack materials into a refrigerator with no gaps?",
+      "choices": [
+        "{冷気|れいき}が{冷蔵庫|れいぞうこ}{内|ない}{全体|ぜんたい}に{回|まわ}らなくなるから",
+        "{電気代|でんきだい}が{高|たか}くなるから",
+        "{原材料|げんざいりょう}の{形|かたち}がくずれるから"
+      ],
+      "choices_en": [
+        "Cold air cannot circulate through the whole refrigerator",
+        "The electricity bill goes up",
+        "The shape of the materials is damaged"
+      ],
+      "answer": 0,
+      "explain": "{隙間|すきま}がないと{冷気|れいき}が{全体|ぜんたい}に{回|まわ}らず、{原材料|げんざいりょう}を{十分|じゅうぶん}に{冷|ひ}やすことができません。",
+      "explain_en": "Without gaps, cold air cannot circulate, so the materials cannot be cooled enough.",
+      "page": 30
+    },
+    {
+      "id": "B04",
+      "chapter": "第2章 食品衛生",
+      "topic": "冷蔵庫・冷凍庫の管理",
+      "type": "gakka",
+      "q": "{冷凍庫|れいとうこ}に{冷凍|れいとう}{食品|しょくひん}を8〜9{割|わり}{詰|つ}めた{方|ほう}がよいのはなぜですか。",
+      "q_en": "Why is it better to fill a freezer to 80-90 percent?",
+      "choices": [
+        "{在庫|ざいこ}が{多|おお}く{置|お}けるから",
+        "{互|たが}いに{冷|ひ}やし{合|あ}って{節電|せつでん}につながるから",
+        "{扉|とびら}が{開|あ}きにくくなるから"
+      ],
+      "choices_en": [
+        "More stock can be kept",
+        "The foods cool each other, which saves electricity",
+        "The door becomes harder to open"
+      ],
+      "answer": 1,
+      "explain": "{冷凍庫|れいとうこ}の{場合|ばあい}は8〜9{割|わり}{詰|つ}めた{方|ほう}が{互|たが}いに{冷|ひ}やし{合|あ}って、{節電|せつでん}につながります。{冷蔵庫|れいぞうこ}とは{考|かんが}え{方|かた}が{違|ちが}います。",
+      "explain_en": "In a freezer, filling it to 80-90 percent lets the items cool each other and saves electricity. This is different from a refrigerator.",
+      "page": 30
+    },
+    {
+      "id": "B05",
+      "chapter": "第2章 食品衛生",
+      "topic": "冷蔵庫・冷凍庫の管理",
+      "type": "gakka",
+      "q": "{食品|しょくひん}{衛生法|えいせいほう}で{決|き}められている{冷凍庫|れいとうこ}と{冷蔵庫|れいぞうこ}の{温度|おんど}はどれですか。",
+      "q_en": "What freezer and refrigerator temperatures are set by the Food Sanitation Act?",
+      "choices": [
+        "{冷凍庫|れいとうこ}－18℃{以下|いか}、{冷蔵庫|れいぞうこ}5℃{以下|いか}",
+        "{冷凍庫|れいとうこ}－15℃{以下|いか}、{冷蔵庫|れいぞうこ}10℃{以下|いか}",
+        "{冷凍庫|れいとうこ}－10℃{以下|いか}、{冷蔵庫|れいぞうこ}15℃{以下|いか}"
+      ],
+      "choices_en": [
+        "Freezer -18 or below, refrigerator 5 or below",
+        "Freezer -15 or below, refrigerator 10 or below",
+        "Freezer -10 or below, refrigerator 15 or below"
+      ],
+      "answer": 1,
+      "explain": "{食品|しょくひん}{衛生法|えいせいほう}では、{冷凍庫|れいとうこ}が－15℃{以下|いか}、{冷蔵庫|れいぞうこ}が10℃{以下|いか}と{決|き}められています。{温度|おんど}は{毎日|まいにち}{測定|そくてい}して{記録|きろく}します。",
+      "explain_en": "The Food Sanitation Act sets freezers at -15 degrees C or below and refrigerators at 10 degrees C or below. Temperatures must be measured and recorded every day.",
+      "page": 30
+    },
+    {
+      "id": "B06",
+      "chapter": "第2章 食品衛生",
+      "topic": "期限表示",
+      "type": "gakka",
+      "q": "{原材料|げんざいりょう}の「{使用|しよう}{期限|きげん}」を{決|き}めるのは{誰|だれ}ですか。",
+      "q_en": "Who decides the 'use-by period' of a raw material?",
+      "choices": [
+        "その{原材料|げんざいりょう}を{使|つか}う{食品|しょくひん}{製造|せいぞう}{工場|こうじょう}",
+        "その{原材料|げんざいりょう}を{運|はこ}んだ{運送|うんそう}{会社|がいしゃ}",
+        "{国|くに}や{都道府県|とどうふけん}の{役所|やくしょ}"
+      ],
+      "choices_en": [
+        "The food factory that uses the material",
+        "The transport company that delivered it",
+        "The national or local government office"
+      ],
+      "answer": 0,
+      "explain": "{使用|しよう}{期限|きげん}はそれぞれの{原材料|げんざいりょう}で{決|き}められ、{決|き}めるのはその{原材料|げんざいりょう}を{使|つか}う{食品|しょくひん}{製造|せいぞう}{工場|こうじょう}です。{一方|いっぽう}、{賞味|しょうみ}{期限|きげん}・{消費|しょうひ}{期限|きげん}は、その{加工|かこう}{食品|しょくひん}を{製造|せいぞう}した{企業|きぎょう}が{表示|ひょうじ}します。",
+      "explain_en": "The use-by period is set for each material by the food factory that uses it. The best-before date and the expiry date are shown by the company that made that processed food.",
+      "page": 30
+    },
+    {
+      "id": "B07",
+      "chapter": "第2章 食品衛生",
+      "topic": "期限表示",
+      "type": "gakka",
+      "q": "「{賞味|しょうみ}{期限|きげん}」の{説明|せつめい}として{正|ただ}しいのはどれですか。",
+      "q_en": "Which is the correct explanation of the 'best-before date'?",
+      "choices": [
+        "{未|み}{開封|かいふう}の{加工|かこう}{食品|しょくひん}を{決|き}められた{条件|じょうけん}で{保存|ほぞん}した{場合|ばあい}に、{美味|おい}しく{食|た}べられる{期間|きかん}の{最後|さいご}の{日|ひ}",
+        "{開封|かいふう}した{後|あと}に{食|た}べられる{期間|きかん}の{最後|さいご}の{日|ひ}",
+        "{工場|こうじょう}が{原材料|げんざいりょう}を{使|つか}ってもよい{最後|さいご}の{日|ひ}"
+      ],
+      "choices_en": [
+        "The last day the unopened food, kept in the set conditions, still tastes good",
+        "The last day you can eat it after opening",
+        "The last day a factory may use the raw material"
+      ],
+      "answer": 0,
+      "explain": "{賞味|しょうみ}{期限|きげん}は{未|み}{開封|かいふう}・{決|き}められた{条件|じょうけん}での{保存|ほぞん}が{前提|ぜんてい}です。{過|す}ぎても{食|た}べることはできますが、{食品|しょくひん}{製造|せいぞう}{工場|こうじょう}では{一般的|いっぱんてき}に{使|つか}いません。",
+      "explain_en": "The best-before date assumes the food is unopened and kept in the set conditions. Food past this date can still be eaten, but factories generally do not use it.",
+      "page": 30
+    },
+    {
+      "id": "B08",
+      "chapter": "第2章 食品衛生",
+      "topic": "期限表示",
+      "type": "gakka",
+      "q": "「{消費|しょうひ}{期限|きげん}」を{過|す}ぎた{食品|しょくひん}（{原材料|げんざいりょう}）はどうしますか。",
+      "q_en": "What should you do with food (raw material) past its expiry date?",
+      "choices": [
+        "{加熱|かねつ}すれば{使|つか}ってよい",
+        "{責任者|せきにんしゃ}が{許可|きょか}すれば{使|つか}ってよい",
+        "{絶対|ぜったい}に{使|つか}わない"
+      ],
+      "choices_en": [
+        "It can be used if heated",
+        "It can be used if the supervisor allows it",
+        "It must never be used"
+      ],
+      "answer": 2,
+      "explain": "{消費|しょうひ}{期限|きげん}を{過|す}ぎた{食品|しょくひん}は{食中毒|しょくちゅうどく}の{原因|げんいん}になる{可能性|かのうせい}が{高|たか}くなるので、{絶対|ぜったい}に{使|つか}いません。",
+      "explain_en": "Food past its expiry date is much more likely to cause food poisoning, so it must never be used.",
+      "page": 31
+    },
+    {
+      "id": "B09",
+      "chapter": "第2章 食品衛生",
+      "topic": "先入れ先出し",
+      "type": "gakka",
+      "q": "「{先入|さきい}れ、{先出|さきだ}し」とはどのような{方法|ほうほう}ですか。",
+      "q_en": "What does 'first in, first out' mean?",
+      "choices": [
+        "{先|さき}に{納品|のうひん}されたものから{先|さき}に{使|つか}う",
+        "{後|あと}から{納品|のうひん}されたものから{先|さき}に{使|つか}う",
+        "{量|りょう}の{多|おお}いものから{先|さき}に{使|つか}う"
+      ],
+      "choices_en": [
+        "Use the items delivered earliest first",
+        "Use the newest deliveries first",
+        "Use the item with the largest quantity first"
+      ],
+      "answer": 0,
+      "explain": "{先|さき}に{納品|のうひん}（{受入|うけい}れ）されたものの{方|ほう}が、{賞味|しょうみ}{期限|きげん}や{消費|しょうひ}{期限|きげん}の「{最後|さいご}の{日|ひ}」が{先|さき}に{来|く}るからです。{出荷|しゅっか}・{配送|はいそう}でも{同|おな}じ{考|かんが}え{方|かた}です。",
+      "explain_en": "Items received earlier usually reach their last date earlier. The same idea applies to shipping and delivery.",
+      "page": 31
+    },
+    {
+      "id": "B10",
+      "chapter": "第2章 食品衛生",
+      "topic": "加熱殺菌",
+      "type": "gakka",
+      "q": "{一般的|いっぱんてき}な{食中毒菌|しょくちゅうどくきん}をやっつける{加熱|かねつ}{条件|じょうけん}はどれですか。",
+      "q_en": "Which heating condition kills common food poisoning bacteria?",
+      "choices": [
+        "{中心|ちゅうしん}{温度|おんど}75℃で1{分間|ふんかん}{以上|いじょう}",
+        "{中心|ちゅうしん}{温度|おんど}85℃で90{秒間|びょうかん}{以上|いじょう}",
+        "{中心|ちゅうしん}{温度|おんど}120℃で4{分間|ふんかん}{以上|いじょう}"
+      ],
+      "choices_en": [
+        "Core temperature 75 C for 1 minute or more",
+        "Core temperature 85 C for 90 seconds or more",
+        "Core temperature 120 C for 4 minutes or more"
+      ],
+      "answer": 0,
+      "explain": "テキストの{例|れい}では、{一般的|いっぱんてき}な{食中毒菌|しょくちゅうどくきん}は{中心|ちゅうしん}{温度|おんど}75℃で1{分間|ふんかん}{以上|いじょう}、ノロウイルスは85℃〜90℃で90{秒間|びょうかん}{以上|いじょう}、{芽胞菌|がほうきん}は120℃で4{分間|ふんかん}{以上|いじょう}です。",
+      "explain_en": "The text gives: common food poisoning bacteria 75 C for 1 minute or more; norovirus 85-90 C for 90 seconds or more; spore-forming bacteria 120 C for 4 minutes or more.",
+      "page": 33
+    },
+    {
+      "id": "B11",
+      "chapter": "第2章 食品衛生",
+      "topic": "加熱殺菌",
+      "type": "gakka",
+      "q": "{芽胞|がほう}をつくる{細菌|さいきん}の{組|く}み{合|あ}わせとして{正|ただ}しいのはどれですか。",
+      "q_en": "Which group are all spore-forming bacteria?",
+      "choices": [
+        "セレウス{菌|きん}・ウェルシュ{菌|きん}・ボツリヌス{菌|きん}",
+        "サルモネラ{属菌|ぞくきん}・カンピロバクター{属菌|ぞくきん}・{大腸菌|だいちょうきん}",
+        "{黄色|おうしょく}ブドウ{球菌|きゅうきん}・ノロウイルス・{大腸菌群|だいちょうきんぐん}"
+      ],
+      "choices_en": [
+        "Bacillus cereus, Clostridium perfringens, Clostridium botulinum",
+        "Salmonella, Campylobacter, E. coli",
+        "Staphylococcus aureus, norovirus, coliforms"
+      ],
+      "answer": 0,
+      "explain": "セレウス{菌|きん}、ウェルシュ{菌|きん}、ボツリヌス{菌|きん}は{芽胞|がほう}をつくる{細菌|さいきん}で、100℃{以上|いじょう}でも{死|し}なない{熱|ねつ}に{強|つよ}い{微生物|びせいぶつ}です。",
+      "explain_en": "Bacillus cereus, Clostridium perfringens and Clostridium botulinum form spores and survive even at 100 C or higher.",
+      "page": 33
+    },
+    {
+      "id": "B12",
+      "chapter": "第2章 食品衛生",
+      "topic": "冷却",
+      "type": "gakka",
+      "q": "{加熱|かねつ}{調理|ちょうり}が{終|お}わった{食品|しょくひん}の{冷却|れいきゃく}の{基準|きじゅん}として{正|ただ}しいのはどれですか。",
+      "q_en": "Which is the correct cooling standard for food after heating?",
+      "choices": [
+        "30{分間|ふんかん}{以内|いない}に{中心|ちゅうしん}{温度|おんど}を20℃、または60{分間|ふんかん}{以内|いない}に10℃まで{下|さ}げる",
+        "60{分間|ふんかん}{以内|いない}に{中心|ちゅうしん}{温度|おんど}を20℃、または90{分間|ふんかん}{以内|いない}に10℃まで{下|さ}げる",
+        "30{分間|ふんかん}{以内|いない}に{中心|ちゅうしん}{温度|おんど}を10℃、または60{分間|ふんかん}{以内|いない}に5℃まで{下|さ}げる"
+      ],
+      "choices_en": [
+        "Core temp to 20 C within 30 min, or to 10 C within 60 min",
+        "Core temp to 20 C within 60 min, or to 10 C within 90 min",
+        "Core temp to 10 C within 30 min, or to 5 C within 60 min"
+      ],
+      "answer": 0,
+      "explain": "{加熱|かねつ}が{終|お}わってから30{分間|ふんかん}{以内|いない}に{中心|ちゅうしん}{温度|おんど}を20℃まで{下|さ}げるか、60{分間|ふんかん}{以内|いない}に10℃まで{下|さ}げることが{必要|ひつよう}です。ゆっくり{冷|ひ}えると{生|い}き{残|のこ}った{病原性|びょうげんせい}{微生物|びせいぶつ}が{増|ふ}えるからです。",
+      "explain_en": "After heating, the core temperature must reach 20 C within 30 minutes, or 10 C within 60 minutes, because surviving pathogens grow while food cools slowly.",
+      "page": 34
+    },
+    {
+      "id": "B13",
+      "chapter": "第2章 食品衛生",
+      "topic": "薬剤による殺菌",
+      "type": "gakka",
+      "q": "{次亜塩素酸|じあえんそさん}ナトリウム{溶液|ようえき}での{殺菌|さっきん}{条件|じょうけん}として{正|ただ}しいのはどれですか。",
+      "q_en": "Which is a correct sanitizing condition using sodium hypochlorite solution?",
+      "choices": [
+        "200ppmで5{分間|ふんかん}、または100ppmで10{分間|ふんかん}",
+        "200ppmで10{分間|ふんかん}、または100ppmで5{分間|ふんかん}",
+        "100ppmで1{分間|ふんかん}、または50ppmで5{分間|ふんかん}"
+      ],
+      "choices_en": [
+        "200 ppm for 5 minutes, or 100 ppm for 10 minutes",
+        "200 ppm for 10 minutes, or 100 ppm for 5 minutes",
+        "100 ppm for 1 minute, or 50 ppm for 5 minutes"
+      ],
+      "answer": 0,
+      "explain": "{薬剤|やくざい}による{殺菌|さっきん}では{濃度|のうど}と{処理|しょり}{時間|じかん}が{重要|じゅうよう}です。{次亜塩素酸|じあえんそさん}ナトリウム{溶液|ようえき}は{濃度|のうど}200ppmで5{分間|ふんかん}、100ppmの{場合|ばあい}は10{分間|ふんかん}{処理|しょり}します。",
+      "explain_en": "For chemical sanitizing, concentration and time both matter: 200 ppm for 5 minutes, or 100 ppm for 10 minutes.",
+      "page": 34
+    },
+    {
+      "id": "B14",
+      "chapter": "第2章 食品衛生",
+      "topic": "検査",
+      "type": "gakka",
+      "q": "{金属|きんぞく}{探知機|たんちき}の{管理|かんり}で{重要|じゅうよう}なことは{何|なん}ですか。",
+      "q_en": "What is important in managing a metal detector?",
+      "choices": [
+        "{毎日|まいにち}{同|おな}じ{時間|じかん}に{電源|でんげん}を{入|い}れること",
+        "テストピースで{正|ただ}しく{探知|たんち}できることを{確認|かくにん}してから{検査|けんさ}を{始|はじ}めること",
+        "{製品|せいひん}を1{個|こ}ずつ{手|て}で{持|も}って{通|とお}すこと"
+      ],
+      "choices_en": [
+        "Turning it on at the same time every day",
+        "Checking with a test piece that it detects correctly before starting inspection",
+        "Passing products through one by one by hand"
+      ],
+      "answer": 1,
+      "explain": "テストピースを{使|つか}って{金属|きんぞく}を{正|ただ}しく{探知|たんち}できていることを{確認|かくにん}してから{検査|けんさ}を{始|はじ}め、{製造|せいぞう}が{終|お}わったときにも{最後|さいご}まで{正常|せいじょう}に{機能|きのう}していたことを{確認|かくにん}します。",
+      "explain_en": "Check with a test piece that the detector works before starting, and check again at the end of production that it worked the whole time.",
+      "page": 35
+    },
+    {
+      "id": "B15",
+      "chapter": "第2章 食品衛生",
+      "topic": "検査",
+      "type": "gakka",
+      "q": "X{線|せん}{異物|いぶつ}{検出機|けんしゅつき}について{正|ただ}しいのはどれですか。",
+      "q_en": "Which is correct about the X-ray foreign object detector?",
+      "choices": [
+        "プラスチックはX{線|せん}では{見|み}つけにくい",
+        "プラスチックはX{線|せん}で{一番|いちばん}よく{見|み}つかる",
+        "{石|いし}やガラスはX{線|せん}では{見|み}つけられない"
+      ],
+      "choices_en": [
+        "Plastic is hard to find with X-rays",
+        "Plastic is the easiest thing to find with X-rays",
+        "Stones and glass cannot be found with X-rays"
+      ],
+      "answer": 0,
+      "explain": "X{線|せん}{異物|いぶつ}{検出機|けんしゅつき}は{石|いし}やガラスなど{金属|きんぞく}{探知機|たんちき}で{見|み}つけられない{硬質|こうしつ}{異物|いぶつ}を{検出|けんしゅつ}できますが、プラスチックは{見|み}つけにくいので、{機械|きかい}や{設備|せつび}からプラスチックが{混入|こんにゅう}しないようにすることが{大切|たいせつ}です。",
+      "explain_en": "The X-ray detector finds hard objects such as stones and glass that a metal detector cannot, but plastic is hard to see, so plastic must be kept out of the food in the first place.",
+      "page": 36
+    },
+    {
+      "id": "B16",
+      "chapter": "第2章 食品衛生",
+      "topic": "HACCP",
+      "type": "gakka",
+      "q": "HACCPの7{原則|げんそく}のうち、{最初|さいしょ}におこなう{原則|げんそく}1はどれですか。",
+      "q_en": "Which is Principle 1, the first of the 7 HACCP principles?",
+      "choices": [
+        "{危害|きがい}{要因|よういん}{分析|ぶんせき}（ハザード{分析|ぶんせき}）",
+        "{重要|じゅうよう}{管理点|かんりてん}の{決定|けってい}",
+        "{管理|かんり}{基準|きじゅん}の{設定|せってい}"
+      ],
+      "choices_en": [
+        "Hazard analysis",
+        "Deciding critical control points",
+        "Setting critical limits"
+      ],
+      "answer": 0,
+      "explain": "{原則|げんそく}1は{危害|きがい}{要因|よういん}{分析|ぶんせき}（ハザード{分析|ぶんせき}）で、{危害|きがい}{要因|よういん}を{分析|ぶんせき}し、どのような{管理|かんり}が{必要|ひつよう}かを{判断|はんだん}します。",
+      "explain_en": "Principle 1 is hazard analysis: analyse hazards and decide what control is needed.",
+      "page": 38
+    },
+    {
+      "id": "B17",
+      "chapter": "第2章 食品衛生",
+      "topic": "HACCP",
+      "type": "gakka",
+      "q": "HACCPの7{原則|げんそく}で、{原則|げんそく}5にあたるのはどれですか。",
+      "q_en": "Which is Principle 5 of the 7 HACCP principles?",
+      "choices": [
+        "{監視|かんし}（モニタリング）の{方法|ほうほう}の{設定|せってい}",
+        "{改善|かいぜん}{措置|そち}の{設定|せってい}",
+        "{検証|けんしょう}{方法|ほうほう}の{設定|せってい}"
+      ],
+      "choices_en": [
+        "Setting the monitoring method",
+        "Setting corrective actions",
+        "Setting the verification method"
+      ],
+      "answer": 1,
+      "explain": "{原則|げんそく}4が{監視|かんし}（モニタリング）の{方法|ほうほう}の{設定|せってい}、{原則|げんそく}5が{改善|かいぜん}{措置|そち}の{設定|せってい}、{原則|げんそく}6が{検証|けんしょう}{方法|ほうほう}の{設定|せってい}、{原則|げんそく}7が{記録|きろく}です。",
+      "explain_en": "Principle 4 is monitoring, Principle 5 is corrective actions, Principle 6 is verification, and Principle 7 is records.",
+      "page": 38
+    },
+    {
+      "id": "B18",
+      "chapter": "第2章 食品衛生",
+      "topic": "HACCP",
+      "type": "gakka",
+      "q": "{食品|しょくひん}を{製造|せいぞう}する{場合|ばあい}に{重要|じゅうよう}{管理点|かんりてん}となる{代表的|だいひょうてき}な{工程|こうてい}に{含|ふく}まれないのはどれですか。",
+      "q_en": "Which is NOT one of the typical processes that become critical control points?",
+      "choices": [
+        "{加熱|かねつ}{殺菌|さっきん}したあとの{冷却|れいきゃく}",
+        "{金属|きんぞく}{探知機|たんちき}",
+        "{原材料|げんざいりょう}の{開封|かいふう}"
+      ],
+      "choices_en": [
+        "Cooling after heat sterilization",
+        "Metal detector",
+        "Opening raw material packages"
+      ],
+      "answer": 2,
+      "explain": "{代表的|だいひょうてき}な5つは、{加熱|かねつ}{殺菌|さっきん}、{加熱|かねつ}{殺菌|さっきん}したあとの{冷却|れいきゃく}、{薬剤|やくざい}による{殺菌|さっきん}、{金属|きんぞく}{探知機|たんちき}、X{線|せん}{異物|いぶつ}{検出機|けんしゅつき}です。",
+      "explain_en": "The five typical CCPs are heat sterilization, cooling after heat sterilization, chemical sanitizing, metal detector and X-ray foreign object detector.",
+      "page": 39
+    },
+    {
+      "id": "B19",
+      "chapter": "第2章 食品衛生",
+      "topic": "HACCP",
+      "type": "gakka",
+      "q": "「{管理|かんり}{基準|きじゅん}からの{逸脱|いつだつ}」とはどのようなことですか。",
+      "q_en": "What does 'deviation from the critical limit' mean?",
+      "choices": [
+        "{決|き}めた{管理|かんり}{基準|きじゅん}が{実際|じっさい}には{守|まも}られていないこと",
+        "{管理|かんり}{基準|きじゅん}を{新|あたら}しく{決|き}め{直|なお}すこと",
+        "{管理|かんり}{基準|きじゅん}より{厳|きび}しく{管理|かんり}すること"
+      ],
+      "choices_en": [
+        "The set critical limit was not actually kept",
+        "Setting a new critical limit",
+        "Managing more strictly than the limit"
+      ],
+      "answer": 0,
+      "explain": "{例|れい}えば「75℃で1{分間|ふんかん}{以上|いじょう}」と{決|き}めたのに{実際|じっさい}は「70℃で1{分間|ふんかん}」しか{加熱|かねつ}していなかった{場合|ばあい}などが{逸脱|いつだつ}です。",
+      "explain_en": "For example, if the rule is 75 C for 1 minute or more but the food was only heated to 70 C for 1 minute, that is a deviation.",
+      "page": 39
+    },
+    {
+      "id": "B20",
+      "chapter": "第2章 食品衛生",
+      "topic": "HACCP",
+      "type": "gakka",
+      "q": "「{改善|かいぜん}{措置|そち}」に{必要|ひつよう}な2つの{措置|そち}は{何|なん}ですか。",
+      "q_en": "What are the two actions needed as 'corrective action'?",
+      "choices": [
+        "また{同|おな}じ{逸脱|いつだつ}をしないようにすることと、それまでに{作|つく}った{食品|しょくひん}をどうするか{決|き}めること",
+        "{責任者|せきにんしゃ}を{交代|こうたい}させることと、{作業|さぎょう}を{中止|ちゅうし}すること",
+        "{記録|きろく}を{書|か}き{直|なお}すことと、{管理|かんり}{基準|きじゅん}を{下|さ}げること"
+      ],
+      "choices_en": [
+        "Stop the same deviation happening again, and decide what to do with the food already made",
+        "Change the supervisor, and stop the work",
+        "Rewrite the records, and lower the critical limit"
+      ],
+      "answer": 0,
+      "explain": "{改善|かいぜん}{措置|そち}は、{同|おな}じような{逸脱|いつだつ}をしないようにすることと、それまでに{作|つく}った{食品|しょくひん}を{捨|す}てるのか{作|つく}り{直|なお}すのかを{決|き}めることの2つです。",
+      "explain_en": "Corrective action means (1) preventing the same deviation again and (2) deciding whether to discard or remake the food already produced.",
+      "page": 40
+    },
+    {
+      "id": "B21",
+      "chapter": "第2章 食品衛生",
+      "topic": "HACCP",
+      "type": "gakka",
+      "q": "HACCPの{記録|きろく}についてあらかじめ{決|き}めておかなければならない{手順|てじゅん}はどれですか。",
+      "q_en": "What must be decided in advance about HACCP records?",
+      "choices": [
+        "「いつ」「{誰|だれ}が」「どのように{記録|きろく}するのか」",
+        "「どこに{保管|ほかん}するか」だけ",
+        "「{何年間|なんねんかん}{保存|ほぞん}するか」だけ"
+      ],
+      "choices_en": [
+        "When, who, and how to record",
+        "Only where to store them",
+        "Only how many years to keep them"
+      ],
+      "answer": 0,
+      "explain": "{一般|いっぱん}{衛生|えいせい}{管理|かんり}でも{重要|じゅうよう}{管理点|かんりてん}でも、「いつ」「{誰|だれ}が」「どのように{記録|きろく}するのか」の{手順|てじゅん}をあらかじめ{決|き}めなければいけません。",
+      "explain_en": "For both general hygiene control and CCPs, the procedure of when, who and how to record must be decided in advance.",
+      "page": 40
+    },
+    {
+      "id": "B22",
+      "chapter": "第3章 労働安全",
+      "topic": "労働災害",
+      "type": "gakka",
+      "q": "{食品|しょくひん}{製造|せいぞう}{工場|こうじょう}で{起|お}きる{労働|ろうどう}{災害|さいがい}のうち、{最|もっと}も{多|おお}いのはどれですか。",
+      "q_en": "Which type of workplace accident is the most common in food factories?",
+      "choices": [
+        "{転倒|てんとう}",
+        "はさまれ、{巻|ま}き{込|こ}まれ",
+        "{切|き}れ、こすれ"
+      ],
+      "choices_en": [
+        "Falls (slips and trips)",
+        "Caught in or between machinery",
+        "Cuts and scrapes"
+      ],
+      "answer": 0,
+      "explain": "{多|おお}い{順|じゅん}に、（1）{転倒|てんとう}、（2）はさまれ・{巻|ま}き{込|こ}まれ、（3）{切|き}れ・こすれで、この3つで{全体|ぜんたい}の{約|やく}60％になります。{未熟練|みじゅくれん}{作業者|さぎょうしゃ}（{経験|けいけん}が3{年|ねん}{未満|みまん}）の{割合|わりあい}は{約半分|やくはんぶん}です。",
+      "explain_en": "In order: (1) falls, (2) caught in machinery, (3) cuts and scrapes. These three make up about 60 percent. About half of victims are inexperienced workers (less than 3 years).",
+      "page": 43
+    },
+    {
+      "id": "B23",
+      "chapter": "第2章 食品衛生",
+      "topic": "解凍",
+      "type": "jitsugi",
+      "q": "{流水|りゅうすい}{解凍|かいとう}をしようとしたら、{原材料|げんざいりょう}を{密閉|みっぺい}している{袋|ふくろ}に{小|ちい}さな{穴|あな}が{開|あ}いていました。どうしますか。",
+      "q_en": "Before running-water thawing you find a small hole in the bag sealing the raw material. What do you do?",
+      "choices": [
+        "そのまま{水|みず}をあてて{早|はや}く{解凍|かいとう}する",
+        "{別|べつ}の{袋|ふくろ}に{移|うつ}し{替|か}えて、{密閉|みっぺい}してから{解凍|かいとう}する",
+        "{穴|あな}をテープでふさいで{冷蔵庫|れいぞうこ}で{解凍|かいとう}する"
+      ],
+      "choices_en": [
+        "Thaw it in the water as it is, to be quick",
+        "Move it to another bag, seal it, then thaw",
+        "Cover the hole with tape and thaw in the refrigerator"
+      ],
+      "answer": 1,
+      "explain": "{袋|ふくろ}に{穴|あな}や{破|やぶ}れがあると{原材料|げんざいりょう}の{一部|いちぶ}が{流水|りゅうすい}に{流|なが}れ{出|だ}してしまいます。テキストどおり、{別|べつ}の{袋|ふくろ}に{移|うつ}し{替|か}えて{密閉|みっぺい}してから{解凍|かいとう}します。",
+      "explain_en": "If the bag has a hole or tear, part of the material washes away. The text says to move it into another bag, seal it, and then thaw.",
+      "page": 32
+    },
+    {
+      "id": "B24",
+      "chapter": "第2章 食品衛生",
+      "topic": "HACCP",
+      "type": "jitsugi",
+      "q": "「{中心|ちゅうしん}{温度|おんど}75℃で1{分間|ふんかん}{以上|いじょう}」と{決|き}めていたのに、{実際|じっさい}は「70℃で1{分間|ふんかん}」しか{加熱|かねつ}していなかったことが{分|わ}かりました。まず{何|なに}をしますか。",
+      "q_en": "The rule was core 75 C for 1 minute or more, but the food was only heated to 70 C for 1 minute. What do you do first?",
+      "choices": [
+        "すぐに{責任者|せきにんしゃ}へ{報告|ほうこく}する",
+        "{自分|じぶん}の{判断|はんだん}でもう{一度|いちど}{加熱|かねつ}してから{記録|きろく}する",
+        "{次|つぎ}の{製造|せいぞう}のときに{気|き}をつければよいので{何|なに}もしない"
+      ],
+      "choices_en": [
+        "Report to the supervisor immediately",
+        "Reheat it on your own judgement and then record it",
+        "Do nothing, just be careful next time"
+      ],
+      "answer": 0,
+      "explain": "{重要|じゅうよう}{管理点|かんりてん}が{管理|かんり}{基準|きじゅん}から{逸脱|いつだつ}したことを{知|し}ったときは、すぐに{責任者|せきにんしゃ}へ{報告|ほうこく}しなければいけません。{改善|かいぜん}{措置|そち}は{必|かなら}ず{責任者|せきにんしゃ}の{指示|しじ}に{従|したが}います。",
+      "explain_en": "When you learn a CCP has deviated from its critical limit, report to the supervisor at once. Corrective action must follow the supervisor's instructions.",
+      "page": 39
+    },
+    {
+      "id": "B25",
+      "chapter": "第2章 食品衛生",
+      "topic": "HACCP",
+      "type": "jitsugi",
+      "q": "{製造|せいぞう}{終了時|しゅうりょうじ}のテストピース{確認|かくにん}で、{金属|きんぞく}{探知機|たんちき}が{正常|せいじょう}に{機能|きのう}していなかったことが{分|わ}かりました。{改善|かいぜん}{措置|そち}として{適切|てきせつ}なのはどれですか。",
+      "q_en": "At the end of production, the test piece shows the metal detector was not working properly. What is the right corrective action?",
+      "choices": [
+        "{機械|きかい}を{調整|ちょうせい}し、{調整|ちょうせい}した{金属|きんぞく}{探知機|たんちき}でもう{一度|いちど}{検査|けんさ}する",
+        "{機械|きかい}を{調整|ちょうせい}して、{次|つぎ}の{日|ひ}から{正|ただ}しく{使|つか}えばよい",
+        "X{線|せん}{異物|いぶつ}{検出機|けんしゅつき}を{通|とお}していれば{検査|けんさ}は{不要|ふよう}"
+      ],
+      "choices_en": [
+        "Adjust the machine and re-inspect the products with the adjusted detector",
+        "Adjust the machine and just use it correctly from the next day",
+        "No re-inspection is needed if the products passed the X-ray detector"
+      ],
+      "answer": 0,
+      "explain": "{金属|きんぞく}{探知機|たんちき}が{正常|せいじょう}に{機能|きのう}していなかった{場合|ばあい}は、{機械|きかい}を{調整|ちょうせい}することと、{調整|ちょうせい}した{金属|きんぞく}{探知機|たんちき}でもう{一度|いちど}{検査|けんさ}することが{改善|かいぜん}{措置|そち}です。{正常|せいじょう}{確認|かくにん}の{時点|じてん}から{異常|いじょう}が{分|わ}かった{時点|じてん}までの{製品|せいひん}には{金属|きんぞく}が{入|はい}っているかもしれません。",
+      "explain_en": "If the detector was not working, adjust it and re-inspect with the adjusted detector. Products made between the last good check and the failure may contain metal.",
+      "page": 40
+    },
+    {
+      "id": "B26",
+      "chapter": "第2章 食品衛生",
+      "topic": "HACCP",
+      "type": "jitsugi",
+      "q": "コンベアの{加熱|かねつ}ゾーンを{通|とお}る{速度|そくど}が{速|はや}すぎて{中心|ちゅうしん}{温度|おんど}が{十分|じゅうぶん}に{高|たか}くなっていませんでした。{改善|かいぜん}{措置|そち}の{組|く}み{合|あ}わせとして{適切|てきせつ}なのはどれですか。",
+      "q_en": "The conveyor moved too fast through the heating zone, so the core temperature was too low. Which pair of corrective actions is right?",
+      "choices": [
+        "コンベアの{速度|そくど}を{遅|おそ}く{調整|ちょうせい}し、{加熱|かねつ}{不足|ぶそく}のものを{廃棄|はいき}する",
+        "コンベアの{速度|そくど}を{速|はや}くし、{加熱|かねつ}{温度|おんど}の{記録|きろく}を{直|なお}す",
+        "{管理|かんり}{基準|きじゅん}の{温度|おんど}を{下|さ}げ、{製品|せいひん}はそのまま{出荷|しゅっか}する"
+      ],
+      "choices_en": [
+        "Slow the conveyor down and discard the under-heated products",
+        "Speed the conveyor up and correct the temperature records",
+        "Lower the critical limit and ship the products as they are"
+      ],
+      "answer": 0,
+      "explain": "テキストの{例|れい}のとおり、コンベアの{速度|そくど}を{遅|おそ}くする{調整|ちょうせい}（{同|おな}じ{逸脱|いつだつ}をしないための{措置|そち}）と、{加熱|かねつ}{不足|ぶそく}のものの{廃棄|はいき}（{作|つく}った{食品|しょくひん}の{処置|しょち}）の2つが{改善|かいぜん}{措置|そち}です。",
+      "explain_en": "As in the text, the two corrective actions are slowing the conveyor (to prevent the same deviation) and discarding the under-heated products (dealing with food already made).",
+      "page": 40
+    },
+    {
+      "id": "B27",
+      "chapter": "第2章 食品衛生",
+      "topic": "記録",
+      "type": "jitsugi",
+      "q": "{冷蔵庫|れいぞうこ}の{温度|おんど}をはかりましたが、{作業|さぎょう}が{忙|いそが}しくて{記録用紙|きろくようし}が{手元|てもと}にありません。どうするのが{正|ただ}しいですか。",
+      "q_en": "You measured the refrigerator temperature but you are busy and the record sheet is not at hand. What is correct?",
+      "choices": [
+        "はかったときにすぐ{記録|きろく}する",
+        "{仕事|しごと}が{終|お}わってから{一日分|いちにちぶん}をまとめて{記録|きろく}する",
+        "いつもと{同|おな}じ{数字|すうじ}なので{先|さき}に{記録|きろく}しておく"
+      ],
+      "choices_en": [
+        "Record it immediately when you measure it",
+        "Record the whole day at the end of the shift",
+        "Write the usual number in advance"
+      ],
+      "answer": 0,
+      "explain": "{温度|おんど}や{濃度|のうど}や{時間|じかん}は、はかったとき、{確認|かくにん}したときにすぐ{記録|きろく}します。{後|あと}でまとめて{記録|きろく}したり、はかる{前|まえ}に{記録|きろく}したりしてはいけません。",
+      "explain_en": "Temperature, concentration and time must be recorded as soon as they are measured or checked. Never record later in a batch, and never record before measuring.",
+      "page": 40
+    },
+    {
+      "id": "B28",
+      "chapter": "第2章 食品衛生",
+      "topic": "記録",
+      "type": "jitsugi",
+      "q": "{昨日|きのう}の{記録用紙|きろくようし}に{書|か}き{間違|まちが}いを{見|み}つけました。どうしますか。",
+      "q_en": "You find a mistake in yesterday's record sheet. What do you do?",
+      "choices": [
+        "{自分|じぶん}だけの{判断|はんだん}で{正|ただ}しい{数字|すうじ}に{直|なお}す",
+        "{事実|じじつ}でないことは{記録|きろく}できないので、{自分|じぶん}だけの{判断|はんだん}で{修正|しゅうせい}せず{責任者|せきにんしゃ}に{報告|ほうこく}する",
+        "{分|わ}からないので{記録用紙|きろくようし}を{捨|す}てて{新|あたら}しく{書|か}き{直|なお}す"
+      ],
+      "choices_en": [
+        "Correct the number yourself",
+        "Do not change it on your own judgement; report it to the supervisor",
+        "Throw away the sheet and write a new one"
+      ],
+      "answer": 1,
+      "explain": "{事実|じじつ}でないことを{記録|きろく}することは{絶対|ぜったい}にしてはいけません。また、{自分|じぶん}だけの{判断|はんだん}で{修正|しゅうせい}してもいけません。",
+      "explain_en": "Never record anything that is not a fact, and never correct records on your own judgement alone.",
+      "page": 41
+    },
+    {
+      "id": "B29",
+      "chapter": "第2章 食品衛生",
+      "topic": "製造設備の洗浄",
+      "type": "jitsugi",
+      "q": "アレルギー{物質|ぶっしつ}を{含|ふく}む{食品|しょくひん}を{製造|せいぞう}したあと、{設備|せつび}についてどうしますか。",
+      "q_en": "After making a food containing an allergen, what do you do with the equipment?",
+      "choices": [
+        "アレルギー{物質|ぶっしつ}が{残|のこ}らないよう、{製造|せいぞう}に{使|つか}った{設備|せつび}の{洗浄|せんじょう}をていねいにおこなう",
+        "アレルギー{物質|ぶっしつ}は{加熱|かねつ}で{分解|ぶんかい}するので{洗浄|せんじょう}はいつもどおりでよい",
+        "{次|つぎ}の{製造|せいぞう}が{同|おな}じ{商品|しょうひん}なら{洗浄|せんじょう}しなくてよい"
+      ],
+      "choices_en": [
+        "Wash the equipment carefully so no allergen remains",
+        "Normal washing is enough because heat breaks down allergens",
+        "No washing is needed if the next product is the same"
+      ],
+      "answer": 0,
+      "explain": "アレルギー{物質|ぶっしつ}が{設備|せつび}に{残|のこ}らないよう、ていねいに{洗浄|せんじょう}します。{一日|いちにち}の{終|お}わりに{製造|せいぞう}して、その{後|あと}でていねいに{洗浄|せんじょう}することもあります。",
+      "explain_en": "Wash carefully so no allergen stays on the equipment. Sometimes such products are made at the end of the day and the equipment is then washed carefully.",
+      "page": 33
+    },
+    {
+      "id": "B30",
+      "chapter": "第2章 食品衛生",
+      "topic": "原材料の受入れ・保管",
+      "type": "jitsugi",
+      "q": "{冷蔵庫|れいぞうこ}に{原材料|げんざいりょう}を{保管|ほかん}する{計画|けいかく}を{立|た}てます。{適切|てきせつ}なのはどれですか。",
+      "q_en": "You are planning how to store raw materials in the refrigerator. Which is appropriate?",
+      "choices": [
+        "{隙間|すきま}をつくって{詰|つ}め、{温度|おんど}を{毎日|まいにち}{測定|そくてい}して{結果|けっか}を{記録|きろく}する",
+        "{隙間|すきま}なく{詰|つ}めて、{温度|おんど}は{週|しゅう}に1{回|かい}{測定|そくてい}する",
+        "ドアを{開|あ}けたままにして{作業|さぎょう}し、{温度|おんど}は{異常|いじょう}があったときだけ{記録|きろく}する"
+      ],
+      "choices_en": [
+        "Leave gaps when stacking, and measure and record the temperature every day",
+        "Pack it with no gaps, and measure the temperature once a week",
+        "Work with the door left open, and record the temperature only when something is wrong"
+      ],
+      "answer": 0,
+      "explain": "{冷蔵庫|れいぞうこ}は{隙間|すきま}なく{詰|つ}め{込|こ}まず、ドアを{開|あ}けたままにしません。{温度|おんど}は{毎日|まいにち}{正|ただ}しい{温度|おんど}に{保|たも}たれているか{定期的|ていきてき}に{測定|そくてい}して、その{結果|けっか}を{記録|きろく}します。",
+      "explain_en": "Do not pack a refrigerator with no gaps and do not leave the door open. Measure the temperature regularly every day and record the result.",
+      "page": 30
+    }
+  ],
+  "terms": [
+    {
+      "term": "{危害|きがい}{要因|よういん}{分析|ぶんせき}（ハザード{分析|ぶんせき}）",
+      "reading": "きがいよういんぶんせき",
+      "en": "Hazard analysis",
+      "def": "{食品|しょくひん}の{原材料|げんざいりょう}や{製造|せいぞう}{工程|こうてい}を{調|しら}べて、どのような{危害|きがい}{要因|よういん}があり、どう{管理|かんり}すれば{含|ふく}まないように{製造|せいぞう}できるかを{分析|ぶんせき}すること。HACCPの{原則|げんそく}1。",
+      "def_en": "Studying the raw materials and processes to find what hazards exist and what control is needed to keep them out of the food. HACCP Principle 1.",
+      "page": 37
+    },
+    {
+      "term": "{重要|じゅうよう}{管理点|かんりてん}（CCP）",
+      "reading": "じゅうようかんりてん",
+      "en": "Critical Control Point (CCP)",
+      "def": "{危害|きがい}{要因|よういん}を{取|と}り{除|のぞ}くために{最|もっと}も{重要|じゅうよう}な{工程|こうてい}。{一|ひと}つではなく{二|ふた}つ{以上|いじょう}になる{食品|しょくひん}もある。HACCPの{原則|げんそく}2で{決定|けってい}する。",
+      "def_en": "The most important process for removing a hazard. Some foods have two or more. Decided in HACCP Principle 2.",
+      "page": 37
+    },
+    {
+      "term": "{管理|かんり}{基準|きじゅん}",
+      "reading": "かんりきじゅん",
+      "en": "Critical limit",
+      "def": "{重要|じゅうよう}{管理点|かんりてん}の{工程|こうてい}を{管理|かんり}する{基準|きじゅん}。HACCPの{原則|げんそく}3で{設定|せってい}し、{重要|じゅうよう}{管理点|かんりてん}では{必|かなら}ず{守|まも}らなければならない。",
+      "def_en": "The standard used to control a CCP process. Set in HACCP Principle 3, and it must always be kept at a CCP.",
+      "page": 37
+    },
+    {
+      "term": "{監視|かんし}（モニタリング）",
+      "reading": "かんし",
+      "en": "Monitoring",
+      "def": "{一般|いっぱん}{衛生|えいせい}{管理|かんり}と{重要|じゅうよう}{管理点|かんりてん}の{管理|かんり}が{正|ただ}しく{実行|じっこう}されているかを{見|み}て{確|たし}かめること。HACCPの{原則|げんそく}4でその{方法|ほうほう}を{決|き}める。",
+      "def_en": "Watching and checking that general hygiene control and CCP control are carried out correctly. The method is set in HACCP Principle 4.",
+      "page": 38
+    },
+    {
+      "term": "{改善|かいぜん}{措置|そち}",
+      "reading": "かいぜんそち",
+      "en": "Corrective action",
+      "def": "{管理|かんり}{基準|きじゅん}から{逸脱|いつだつ}したときに、また{同|おな}じ{逸脱|いつだつ}をしないようにすることと、それまでに{作|つく}った{食品|しょくひん}を{捨|す}てるのか{作|つく}り{直|なお}すのかを{決|き}めることの2つの{措置|そち}。HACCPの{原則|げんそく}5。",
+      "def_en": "Two actions after a deviation: preventing the same deviation again, and deciding whether to discard or remake the food already produced. HACCP Principle 5.",
+      "page": 40
+    },
+    {
+      "term": "{検証|けんしょう}{方法|ほうほう}",
+      "reading": "けんしょうほうほう",
+      "en": "Verification method",
+      "def": "{原則|げんそく}5までに{決|き}めたやり{方|かた}が{危害|きがい}{要因|よういん}の{除去|じょきょ}や{低減|ていげん}に{有効|ゆうこう}であること、{計画|けいかく}どおり{実行|じっこう}されていることを{確認|かくにん}する{方法|ほうほう}。HACCPの{原則|げんそく}6。",
+      "def_en": "The way to confirm that the methods set up to Principle 5 really remove or reduce hazards and are carried out as planned. HACCP Principle 6.",
+      "page": 38
+    },
+    {
+      "term": "{記録|きろく}",
+      "reading": "きろく",
+      "en": "Records",
+      "def": "{原則|げんそく}1から{原則|げんそく}6までに{決|き}めた{内容|ないよう}と、{実際|じっさい}に{確認|かくにん}した{結果|けっか}を{文書|ぶんしょ}に{残|のこ}すこと。HACCPの{原則|げんそく}7。はかったとき・{確認|かくにん}したときにすぐ{記録|きろく}する。",
+      "def_en": "Writing down what was decided in Principles 1 to 6 and the results actually checked. HACCP Principle 7. Record immediately when you measure or check.",
+      "page": 38
+    },
+    {
+      "term": "{管理|かんり}{基準|きじゅん}からの{逸脱|いつだつ}",
+      "reading": "かんりきじゅんからのいつだつ",
+      "en": "Deviation from the critical limit",
+      "def": "{決|き}めた{管理|かんり}{基準|きじゅん}が{実際|じっさい}には{守|まも}られていないこと。{知|し}ったときはすぐに{責任者|せきにんしゃ}へ{報告|ほうこく}する。",
+      "def_en": "When the set critical limit was not actually kept. Report to the supervisor immediately when you find it.",
+      "page": 39
+    },
+    {
+      "term": "{加熱|かねつ}{殺菌|さっきん}",
+      "reading": "かねつさっきん",
+      "en": "Heat sterilization",
+      "def": "{適切|てきせつ}に{加熱|かねつ}することで、{原材料|げんざいりょう}に{含|ふく}まれる{生物的|せいぶつてき}{危害|きがい}{要因|よういん}（{病原性|びょうげんせい}{微生物|びせいぶつ}など）を{取|と}り{除|のぞ}くこと。{中心|ちゅうしん}{温度|おんど}で{管理|かんり}する。",
+      "def_en": "Removing biological hazards such as pathogens by heating properly. It is controlled by core temperature.",
+      "page": 33
+    },
+    {
+      "term": "{中心|ちゅうしん}{温度|おんど}",
+      "reading": "ちゅうしんおんど",
+      "en": "Core temperature",
+      "def": "{食品|しょくひん}の{一番|いちばん}{内側|うちがわ}の{温度|おんど}。{加熱|かねつ}{殺菌|さっきん}はこの{温度|おんど}で{管理|かんり}し、{肉|にく}のかたまりなど{大|おお}きな{原材料|げんざいりょう}では{必|かなら}ず{確|たし}かめる。",
+      "def_en": "The temperature at the centre of the food. Heat sterilization is controlled by this, and it must always be checked for large items such as blocks of meat.",
+      "page": 33
+    },
+    {
+      "term": "{芽胞菌|がほうきん}",
+      "reading": "がほうきん",
+      "en": "Spore-forming bacteria",
+      "def": "{芽胞|がほう}をつくる{細菌|さいきん}。セレウス{菌|きん}、ウェルシュ{菌|きん}、ボツリヌス{菌|きん}など。100℃{以上|いじょう}でも{死|し}なない{熱|ねつ}に{強|つよ}い{微生物|びせいぶつ}。",
+      "def_en": "Bacteria that form spores, such as Bacillus cereus, Clostridium perfringens and Clostridium botulinum. They survive even above 100 C.",
+      "page": 33
+    },
+    {
+      "term": "{薬剤|やくざい}による{殺菌|さっきん}",
+      "reading": "やくざいによるさっきん",
+      "en": "Chemical sanitizing",
+      "def": "{加熱|かねつ}しない{食品|しょくひん}で、{薬剤|やくざい}を{使|つか}って{病原性|びょうげんせい}{微生物|びせいぶつ}をやっつけること。{次亜塩素酸|じあえんそさん}ナトリウム{溶液|ようえき}200ppmで5{分間|ふんかん}、または100ppmで10{分間|ふんかん}{処理|しょり}する。",
+      "def_en": "Killing pathogens with a chemical when food is not heated. Sodium hypochlorite solution at 200 ppm for 5 minutes, or 100 ppm for 10 minutes.",
+      "page": 34
+    },
+    {
+      "term": "{金属|きんぞく}{探知機|たんちき}",
+      "reading": "きんぞくたんちき",
+      "en": "Metal detector",
+      "def": "{硬質|こうしつ}{異物|いぶつ}のうち{金属|きんぞく}を{見|み}つける{機械|きかい}。テストピースで{正|ただ}しく{探知|たんち}できることを{確認|かくにん}してから{検査|けんさ}を{始|はじ}める。",
+      "def_en": "A machine that finds metal among hard foreign objects. Check with a test piece that it detects correctly before starting inspection.",
+      "page": 35
+    },
+    {
+      "term": "X{線|せん}{異物|いぶつ}{検出機|けんしゅつき}",
+      "reading": "えっくすせんいぶつけんしゅつき",
+      "en": "X-ray foreign object detector",
+      "def": "{石|いし}やガラスなど、{金属|きんぞく}{探知機|たんちき}では{見|み}つけられない{硬質|こうしつ}{異物|いぶつ}を{検出|けんしゅつ}する{機械|きかい}。プラスチックは{見|み}つけにくい。",
+      "def_en": "A machine that detects hard foreign objects such as stones and glass that a metal detector cannot find. Plastic is hard to see.",
+      "page": 36
+    },
+    {
+      "term": "{使用|しよう}{期限|きげん}",
+      "reading": "しようきげん",
+      "en": "Use-by period (set by the factory)",
+      "def": "{原材料|げんざいりょう}を{使|つか}っても{良|よ}い{期間|きかん}の{最後|さいご}の{日|ひ}。それぞれの{原材料|げんざいりょう}について、その{原材料|げんざいりょう}を{使|つか}う{食品|しょくひん}{製造|せいぞう}{工場|こうじょう}が{決|き}める。",
+      "def_en": "The last day a raw material may be used. It is set for each material by the food factory that uses it.",
+      "page": 30
+    },
+    {
+      "term": "{賞味|しょうみ}{期限|きげん}",
+      "reading": "しょうみきげん",
+      "en": "Best-before date",
+      "def": "{未|み}{開封|かいふう}の{加工|かこう}{食品|しょくひん}を{決|き}められた{条件|じょうけん}で{保存|ほぞん}した{場合|ばあい}に、{美味|おい}しく{食|た}べられる{期間|きかん}の{最後|さいご}の{日|ひ}。{過|す}ぎても{食|た}べられるが、{工場|こうじょう}では{一般的|いっぱんてき}に{使|つか}わない。",
+      "def_en": "The last day an unopened processed food kept in the set conditions still tastes good. It can still be eaten after that, but factories generally do not use it.",
+      "page": 30
+    },
+    {
+      "term": "{消費|しょうひ}{期限|きげん}",
+      "reading": "しょうひきげん",
+      "en": "Expiry (use-by) date",
+      "def": "{未|み}{開封|かいふう}の{加工|かこう}{食品|しょくひん}を{決|き}められた{条件|じょうけん}で{保存|ほぞん}した{場合|ばあい}に、{食|た}べたり{使|つか}ったりできる{期間|きかん}の{最後|さいご}の{日|ひ}。{過|す}ぎた{食品|しょくひん}は{絶対|ぜったい}に{使|つか}わない。",
+      "def_en": "The last day an unopened processed food kept in the set conditions can be eaten or used. Never use food past this date.",
+      "page": 31
+    },
+    {
+      "term": "{先入|さきい}れ、{先出|さきだ}し",
+      "reading": "さきいれさきだし",
+      "en": "First in, first out",
+      "def": "{先|さき}に{納品|のうひん}（{受入|うけい}れ）されたものから{先|さき}に{使|つか}うこと。{製品|せいひん}{倉庫|そうこ}からの{出荷|しゅっか}でも{同|おな}じ{考|かんが}え{方|かた}を{使|つか}う。",
+      "def_en": "Using the items received earliest first. The same idea is used when shipping from the product warehouse.",
+      "page": 31
+    },
+    {
+      "term": "ドリップ",
+      "reading": "どりっぷ",
+      "en": "Drip",
+      "def": "{解凍|かいとう}するときに{肉|にく}や{魚|さかな}から{出|で}てくる{汁|しる}。{他|ほか}の{食品|しょくひん}や{原材料|げんざいりょう}につかないよう、トレーなどに{入|い}れて{解凍|かいとう}する。",
+      "def_en": "The liquid that comes out of meat or fish while thawing. Thaw in a tray so it does not touch other foods or materials.",
+      "page": 32
+    },
+    {
+      "term": "{流水|りゅうすい}{解凍|かいとう}",
+      "reading": "りゅうすいかいとう",
+      "en": "Running-water thawing",
+      "def": "{水道|すいどう}などから{流|なが}れる{水|みず}をあてて{解凍|かいとう}する{方法|ほうほう}。{解凍|かいとう}{前|まえ}に{袋|ふくろ}に{穴|あな}や{破|やぶ}れがないことを{確認|かくにん}する。",
+      "def_en": "Thawing by running water over the item. Before thawing, check that the bag has no holes or tears.",
+      "page": 31
+    },
+    {
+      "term": "{風冷|ふうれい}・{水冷|すいれい}",
+      "reading": "ふうれい・すいれい",
+      "en": "Air cooling / water cooling",
+      "def": "{加熱|かねつ}{殺菌|さっきん}した{後|あと}の{冷却|れいきゃく}{方法|ほうほう}。{風|かぜ}をあてて{冷|ひ}やすのが{風冷|ふうれい}、{冷水|れいすい}で{冷|ひ}やすのが{水冷|すいれい}。",
+      "def_en": "Cooling methods after heat sterilization: air cooling uses a fan, water cooling uses cold water.",
+      "page": 34
+    },
+    {
+      "term": "{微生物|びせいぶつ}{検査|けんさ}",
+      "reading": "びせいぶつけんさ",
+      "en": "Microbiological testing",
+      "def": "{食品|しょくひん}{製造|せいぞう}{業者|ぎょうしゃ}が{自主的|じしゅてき}におこなう{場合|ばあい}、{一般的|いっぱんてき}に{一般|いっぱん}{生菌数|せいきんすう}、{大腸菌|だいちょうきん}、{大腸菌群|だいちょうきんぐん}を{検査|けんさ}する。{黄色|おうしょく}ブドウ{球菌|きゅうきん}、サルモネラ{属菌|ぞくきん}、カンピロバクター{属菌|ぞくきん}を{検査|けんさ}することもある。",
+      "def_en": "When a maker tests voluntarily, usual items are total viable count, E. coli and coliforms. Staphylococcus aureus, Salmonella and Campylobacter may also be tested.",
+      "page": 36
+    },
+    {
+      "term": "{製品|せいひん}サンプルの{保管|ほかん}",
+      "reading": "せいひんさんぷるのほかん",
+      "en": "Keeping product samples",
+      "def": "{出荷|しゅっか}した{製品|せいひん}にクレームが{来|き}たとき、{同|おな}じ{時期|じき}に{製造|せいぞう}した{製品|せいひん}に{同|おな}じ{問題|もんだい}がないか{調|しら}べるため、{一定|いってい}の{割合|わりあい}でサンプルを{抜|ぬ}き{出|だ}して{保管|ほかん}すること。",
+      "def_en": "Taking and keeping a set proportion of products as samples, so that if a complaint arrives you can check products made at the same time.",
+      "page": 36
+    },
+    {
+      "term": "{未熟練|みじゅくれん}{作業者|さぎょうしゃ}",
+      "reading": "みじゅくれんさぎょうしゃ",
+      "en": "Inexperienced worker",
+      "def": "{経験|けいけん}が3{年|ねん}{未満|みまん}の{作業者|さぎょうしゃ}。{食料品|しょくりょうひん}{製造業|せいぞうぎょう}で{起|お}こる{労働|ろうどう}{災害|さいがい}に{占|し}める{割合|わりあい}は{約半分|やくはんぶん}。",
+      "def_en": "A worker with less than 3 years of experience. About half of workplace accidents in food manufacturing involve such workers.",
+      "page": 43
+    }
+  ]
+}

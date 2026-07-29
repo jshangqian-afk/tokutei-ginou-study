@@ -1,0 +1,866 @@
+{
+  "questions": [
+    {
+      "id": "C01",
+      "chapter": "第3章 労働安全",
+      "topic": "労働災害と経験の関係",
+      "type": "gakka",
+      "q": "テキストでは、「{未熟練作業者|みじゅくれんさぎょうしゃ}」とは{経験|けいけん}がどのくらいの{作業者|さぎょうしゃ}のことですか。",
+      "q_en": "In the textbook, an \"inexperienced worker\" means a worker with how much experience?",
+      "choices": [
+        "{経験|けいけん}が3{年|ねん}{未満|みまん}の{作業者|さぎょうしゃ}",
+        "{経験|けいけん}が10{年|ねん}{未満|みまん}の{作業者|さぎょうしゃ}",
+        "{経験|けいけん}が5{年|ねん}{未満|みまん}の{作業者|さぎょうしゃ}"
+      ],
+      "choices_en": [
+        "A worker with less than 3 years of experience",
+        "A worker with less than 10 years of experience",
+        "A worker with less than 5 years of experience"
+      ],
+      "answer": 0,
+      "explain": "{未熟練作業者|みじゅくれんさぎょうしゃ}とは{経験|けいけん}が3{年|ねん}{未満|みまん}の{作業者|さぎょうしゃ}です。すべての{製造業|せいぞうぎょう}の{中|なか}で、{未熟練作業者|みじゅくれんさぎょうしゃ}の{死傷者|ししょうしゃ}が{最|もっと}も{多|おお}いのは{食料品製造業|しょくりょうひんせいぞうぎょう}です。",
+      "explain_en": "An inexperienced worker has less than 3 years of experience. Among all manufacturing industries, the food manufacturing industry has the most deaths and injuries among inexperienced workers.",
+      "page": 43
+    },
+    {
+      "id": "C02",
+      "chapter": "第3章 労働安全",
+      "topic": "労働災害と経験の関係",
+      "type": "gakka",
+      "q": "{食料品製造業|しょくりょうひんせいぞうぎょう}で{起|お}こる{労働災害|ろうどうさいがい}に{占|し}める{未熟練作業者|みじゅくれんさぎょうしゃ}の{割合|わりあい}は、どのくらいですか。",
+      "q_en": "What share of the work accidents in the food manufacturing industry involves inexperienced workers?",
+      "choices": [
+        "ほとんどない",
+        "{約|やく}{半分|はんぶん}",
+        "{約|やく}10{分|ぶん}の1"
+      ],
+      "choices_en": [
+        "Almost none",
+        "About half",
+        "About one tenth"
+      ],
+      "answer": 1,
+      "explain": "{労働災害|ろうどうさいがい}に{占|し}める{未熟練作業者|みじゅくれんさぎょうしゃ}の{割合|わりあい}は{約|やく}{半分|はんぶん}です。{経験|けいけん}が{少|すく}なく{作業|さぎょう}に{慣|な}れていない{人|ひと}は{危険|きけん}になかなか{気|き}がつかないため、{長|なが}く{働|はたら}いている{人|ひと}よりも{労働災害|ろうどうさいがい}が{起|お}こりやすいです。",
+      "explain_en": "About half of the accidents involve inexperienced workers. People who are not used to the work do not notice dangers easily, so accidents happen to them more often than to long-time workers.",
+      "page": 43
+    },
+    {
+      "id": "C03",
+      "chapter": "第3章 労働安全",
+      "topic": "労働災害の種類",
+      "type": "gakka",
+      "q": "{食品製造工場|しょくひんせいぞうこうじょう}で{起|お}きる{労働災害|ろうどうさいがい}のうち、{最|もっと}も{多|おお}いものはどれですか。",
+      "q_en": "Which type of accident happens most often in food factories?",
+      "choices": [
+        "{墜落|ついらく}・{転落|てんらく}",
+        "{転倒|てんとう}",
+        "{切|き}れ・こすれ"
+      ],
+      "choices_en": [
+        "Falling from a height",
+        "Slips and falls (tento)",
+        "Cuts and scrapes"
+      ],
+      "answer": 1,
+      "explain": "{多|おお}い{順|じゅん}に、①{転倒|てんとう}、②はさまれ・{巻|ま}き{込|こ}まれ、③{切|き}れ・こすれです。この3つで、すべての{労働災害|ろうどうさいがい}の{約|やく}60%になります。",
+      "explain_en": "In order: (1) slips and falls, (2) caught/pulled into machines, (3) cuts and scrapes. These three make up about 60% of all work accidents.",
+      "page": 43
+    },
+    {
+      "id": "C04",
+      "chapter": "第3章 労働安全",
+      "topic": "労働災害の種類",
+      "type": "gakka",
+      "q": "「はさまれ、{巻|ま}き{込|こ}まれ」{災害|さいがい}が{起|お}こりやすいのは、どんなときですか。",
+      "q_en": "When does a \"caught or pulled into a machine\" accident often happen?",
+      "choices": [
+        "{階段|かいだん}をおりているときや、はしごを{使|つか}っているとき",
+        "{重|おも}いものを{持|も}ちあげるときや、{繰|く}り{返|かえ}して{運|はこ}ぶとき",
+        "{機械|きかい}に{手|て}を{入|い}れるときや、コンベアのギアを{掃除|そうじ}しているとき"
+      ],
+      "choices_en": [
+        "When going down stairs or using a ladder",
+        "When lifting heavy things or carrying them again and again",
+        "When putting your hand into a machine, or cleaning a conveyor gear"
+      ],
+      "answer": 2,
+      "explain": "「はさまれ、{巻|ま}き{込|こ}まれ」{災害|さいがい}は、{機械|きかい}に{手|て}を{入|い}れるときやコンベアのギアを{掃除|そうじ}しているときなどに{起|お}こります。{指|ゆび}や{腕|うで}の{骨|ほね}がつぶれたり、{体|からだ}がはさまって{死|し}んだりする、とても{大|おお}きな{災害|さいがい}につながることがあります。",
+      "explain_en": "This accident happens when you put your hand into a machine or clean a conveyor gear. It can crush fingers or arms, and can even kill a person.",
+      "page": 44
+    },
+    {
+      "id": "C05",
+      "chapter": "第3章 労働安全",
+      "topic": "労働災害の種類",
+      "type": "gakka",
+      "q": "「{腰痛|ようつう}」{災害|さいがい}が{起|お}こりやすいのは、どんなときですか。",
+      "q_en": "When does a \"back pain\" injury often happen?",
+      "choices": [
+        "オーブンで{熱|あつ}いものを{扱|あつか}っているとき",
+        "{包丁|ほうちょう}やカッターを{使|つか}っているとき",
+        "{重|おも}いものを{持|も}ちあげるときや、{繰|く}り{返|かえ}して{重|おも}いものを{運|はこ}ぶとき"
+      ],
+      "choices_en": [
+        "When handling hot things in an oven",
+        "When using a knife or a cutter",
+        "When lifting heavy things, or carrying heavy things again and again"
+      ],
+      "answer": 2,
+      "explain": "{腰痛|ようつう}は{重|おも}いものを{持|も}ちあげるときや、{繰|く}り{返|かえ}して{重|おも}いものを{運|はこ}ぶときなどに{起|お}こります。{長|なが}い{間|あいだ}{治|なお}らなかったり、{何度|なんど}も{腰痛|ようつう}になりやすくなることがあります。",
+      "explain_en": "Back pain happens when lifting or repeatedly carrying heavy things. It may not heal for a long time, and it can come back again and again.",
+      "page": 45
+    },
+    {
+      "id": "C06",
+      "chapter": "第3章 労働安全",
+      "topic": "労働災害の種類",
+      "type": "gakka",
+      "q": "「{熱中症|ねっちゅうしょう}」{災害|さいがい}についての{説明|せつめい}で、{正|ただ}しいものはどれですか。",
+      "q_en": "Which statement about heat stroke is correct?",
+      "choices": [
+        "{気温|きおん}が{低|ひく}い{冷蔵庫|れいぞうこ}の{中|なか}でだけ{起|お}こる",
+        "{気温|きおん}や{湿度|しつど}が{高|たか}い{場所|ばしょ}で{長|なが}い{時間|じかん}{作業|さぎょう}したときに{起|お}こり、{死|し}ぬこともある",
+        "{水分|すいぶん}を{飲|の}めばすぐに{治|なお}るので、{心配|しんぱい}はいらない"
+      ],
+      "choices_en": [
+        "It happens only inside a cold refrigerator room",
+        "It happens after long work in a hot and humid place, and it can even kill",
+        "It is not serious because drinking water cures it right away"
+      ],
+      "answer": 1,
+      "explain": "{熱中症|ねっちゅうしょう}は、{気温|きおん}や{湿度|しつど}が{高|たか}い{場所|ばしょ}で{長|なが}い{時間|じかん}{作業|さぎょう}をしたときに{起|お}こります。{体温|たいおん}が{上|あ}がって{体内|たいない}の{水分|すいぶん}や{塩分|えんぶん}のバランスが{崩|くず}れ、{体温調節|たいおんちょうせつ}がうまくできなくなって、{死|し}ぬこともあります。",
+      "explain_en": "Heat stroke happens after working a long time in a hot, humid place. Body temperature rises, water and salt balance breaks down, and the body cannot control its temperature. It can be fatal.",
+      "page": 45
+    },
+    {
+      "id": "C07",
+      "chapter": "第3章 労働安全",
+      "topic": "5S",
+      "type": "gakka",
+      "q": "5Sの「{整頓|せいとん}」の{説明|せつめい}として{正|ただ}しいものはどれですか。",
+      "q_en": "Which is the correct explanation of \"seiton\" (setting in order) in 5S?",
+      "choices": [
+        "{道具|どうぐ}や{原材料|げんざいりょう}などを{置|お}く{場所|ばしょ}を{決|き}めて、すべての{人|ひと}が{同|おな}じ{動|うご}き{方|かた}（{動線|どうせん}）をできるようにする",
+        "{設備|せつび}・{機械|きかい}をいつもきれいな{状態|じょうたい}に{保|たも}つ",
+        "{不要|ふよう}なものを{作業場|さぎょうじょう}にない{状態|じょうたい}に{保|たも}つ"
+      ],
+      "choices_en": [
+        "Decide where to put tools and materials so everyone moves the same way (the \"flow line\")",
+        "Always keep equipment and machines clean",
+        "Keep unnecessary things out of the workplace"
+      ],
+      "answer": 0,
+      "explain": "{整頓|せいとん}は、{道具|どうぐ}や{原材料|げんざいりょう}を{置|お}く{場所|ばしょ}を{決|き}めて、{箱|はこ}やパレットを{決|き}められた{枠|わく}の{中|なか}や{床|ゆか}のテープに{沿|そ}って{置|お}くことです。すべての{人|ひと}が{同|おな}じ{動|うご}き{方|かた}（{動線|どうせん}）をすることで{作業|さぎょう}がしやすくなり、{転倒災害|てんとうさいがい}の{危険|きけん}が{減|へ}ります。なお、「{不要|ふよう}なものが{作業場|さぎょうじょう}にない{状態|じょうたい}を{保|たも}つ」のは「{整理|せいり}」、「{設備|せつび}・{機械|きかい}をきれいな{状態|じょうたい}に{保|たも}つ」のは「{清掃|せいそう}」です。",
+      "explain_en": "Seiton means deciding places for tools and materials, and putting boxes and pallets inside marked frames or along floor tape. When everyone moves the same way, work is easier and the risk of falling goes down. Keeping unnecessary things out is \"seiri\", and keeping machines clean is \"seiso\".",
+      "page": 46
+    },
+    {
+      "id": "C08",
+      "chapter": "第3章 労働安全",
+      "topic": "5S",
+      "type": "gakka",
+      "q": "5Sの「{清掃|せいそう}」で{設備|せつび}・{機械|きかい}をきれいに{保|たも}つと、どんな{効果|こうか}がありますか。",
+      "q_en": "What is the effect of keeping equipment and machines clean (seiso) in 5S?",
+      "choices": [
+        "{設備|せつび}・{機械|きかい}が{急|きゅう}に{故障|こしょう}することが{減|へ}り、{巻|ま}き{込|こ}まれなどの{労働災害|ろうどうさいがい}を{防|ふせ}ぐ",
+        "{作業者|さぎょうしゃ}の{感染症|かんせんしょう}だけを{防|ふせ}ぐ",
+        "{機械|きかい}の{点検|てんけん}をしなくてもよくなる"
+      ],
+      "choices_en": [
+        "Machines break down suddenly less often, which helps prevent \"caught in machine\" accidents",
+        "It only prevents infectious disease among workers",
+        "You no longer need to inspect the machines"
+      ],
+      "answer": 0,
+      "explain": "{清掃|せいそう}で{設備|せつび}・{機械|きかい}をいつもきれいな{状態|じょうたい}に{保|たも}つと、{急|きゅう}な{故障|こしょう}が{減|へ}り、{巻|ま}き{込|こ}まれなどの{労働災害|ろうどうさいがい}を{防|ふせ}ぐことにつながります。",
+      "explain_en": "Keeping machines clean reduces sudden breakdowns, which helps prevent accidents such as being pulled into a machine.",
+      "page": 46
+    },
+    {
+      "id": "C09",
+      "chapter": "第3章 労働安全",
+      "topic": "正しい服装",
+      "type": "gakka",
+      "q": "{長袖|ながそで}の{作業服|さぎょうふく}を{着|き}て{作業|さぎょう}するときの{正|ただ}しい{方法|ほうほう}はどれですか。",
+      "q_en": "What is the correct way to wear a long-sleeved work uniform?",
+      "choices": [
+        "{袖口|そでぐち}をしめて、{袖|そで}をまくり{上|あ}げないで{作業|さぎょう}する",
+        "{暑|あつ}いときは{袖|そで}をまくり{上|あ}げて{作業|さぎょう}する",
+        "{動|うご}きやすいように{大|おお}きめのサイズを{選|えら}んで{着|き}る"
+      ],
+      "choices_en": [
+        "Close the cuffs and do not roll up the sleeves",
+        "Roll up the sleeves when it is hot",
+        "Choose a large size so you can move easily"
+      ],
+      "answer": 0,
+      "explain": "{長袖|ながそで}の{作業服|さぎょうふく}は、{袖口|そでぐち}をしめて、{袖|そで}をまくり{上|あ}げないで{作業|さぎょう}します。また{作業服|さぎょうふく}は、{動|うご}きやすくて{体|からだ}の{大|おお}きさに{合|あ}ったものを{着用|ちゃくよう}します。",
+      "explain_en": "Close the cuffs and do not roll up the sleeves. Also, the uniform must be easy to move in and must fit your body size.",
+      "page": 46
+    },
+    {
+      "id": "C10",
+      "chapter": "第3章 労働安全",
+      "topic": "安全保護具",
+      "type": "gakka",
+      "q": "ヘルメットを{着用|ちゃくよう}する「{高所作業|こうしょさぎょう}」とは、{高|たか}さが{何|なん}メートル{以上|いじょう}のところでの{作業|さぎょう}ですか。",
+      "q_en": "\"Work at height\", which requires a helmet, means working at what height or more?",
+      "choices": [
+        "5メートル{以上|いじょう}",
+        "1メートル{以上|いじょう}",
+        "2メートル{以上|いじょう}"
+      ],
+      "choices_en": [
+        "5 meters or more",
+        "1 meter or more",
+        "2 meters or more"
+      ],
+      "answer": 2,
+      "explain": "{高|たか}さが2メートル{以上|いじょう}のところで{作業|さぎょう}することを「{高所作業|こうしょさぎょう}」といいます。ヘルメットは{頭傷防止|とうしょうぼうし}のため、{高所作業|こうしょさぎょう}のときに{着用|ちゃくよう}します。",
+      "explain_en": "Working at a height of 2 meters or more is called \"work at height\". A helmet is worn for such work to protect the head.",
+      "page": 47
+    },
+    {
+      "id": "C11",
+      "chapter": "第3章 労働安全",
+      "topic": "安全保護具",
+      "type": "gakka",
+      "q": "ゴム{手袋|てぶくろ}を{使|つか}うときの{注意|ちゅうい}として、{正|ただ}しいものはどれですか。",
+      "q_en": "Which is correct about using rubber gloves?",
+      "choices": [
+        "{熱|あつ}い{液体|えきたい}の{中|なか}に{手|て}を{入|い}れても{安全|あんぜん}である",
+        "{熱|あつ}い{液体|えきたい}の{中|なか}に{入|い}れてはいけない",
+        "{刃物|はもの}を{扱|あつか}う{作業|さぎょう}のための{手袋|てぶくろ}である"
+      ],
+      "choices_en": [
+        "It is safe to put your hands into hot liquid",
+        "Do not put them into hot liquid",
+        "They are gloves for handling blades"
+      ],
+      "answer": 1,
+      "explain": "ゴム{手袋|てぶくろ}は{熱|あつ}いもの・{薬剤|やくざい}を{取|と}り{扱|あつか}うときに{着用|ちゃくよう}しますが、{熱|あつ}い{液体|えきたい}の{中|なか}に{入|い}れてはいけません。{手袋|てぶくろ}の{口|くち}から{熱|あつ}い{液体|えきたい}が{入|はい}り、やけどします。",
+      "explain_en": "Rubber gloves are worn when handling hot things or chemicals, but you must not put them into hot liquid. Hot liquid can enter from the top of the glove and burn you.",
+      "page": 47
+    },
+    {
+      "id": "C12",
+      "chapter": "第3章 労働安全",
+      "topic": "安全保護具",
+      "type": "gakka",
+      "q": "「くさり{手袋|てぶくろ}」や「メクセル{手袋|てぶくろ}」は、{何|なに}のための{安全保護具|あんぜんほごぐ}ですか。",
+      "q_en": "What are \"chain gloves\" and \"Mexcel gloves\" used for?",
+      "choices": [
+        "やけど{防止|ぼうし}",
+        "{指|ゆび}の{切傷|せっしょう}{防止|ぼうし}",
+        "{足|あし}の{圧傷|あっしょう}{防止|ぼうし}"
+      ],
+      "choices_en": [
+        "Preventing burns",
+        "Preventing cuts to the fingers",
+        "Preventing crush injuries to the feet"
+      ],
+      "answer": 1,
+      "explain": "くさり{手袋|てぶくろ}はステンレス{鋼|こう}の{網|あみ}でつくられた{手袋|てぶくろ}、メクセル{手袋|てぶくろ}は{切|き}れにくい{繊維|せんい}で{編|あ}み{上|あ}げられた{手袋|てぶくろ}で、どちらも{指|ゆび}の{切傷|せっしょう}{防止|ぼうし}のための{耐切創手袋|たいせっそうてぶくろ}の{一種|いっしゅ}です。",
+      "explain_en": "Chain gloves are made of stainless steel mesh, and Mexcel gloves are knitted from cut-resistant fiber. Both are types of cut-resistant gloves that protect the fingers.",
+      "page": 47
+    },
+    {
+      "id": "C13",
+      "chapter": "第3章 労働安全",
+      "topic": "安全保護具",
+      "type": "gakka",
+      "q": "{安全靴|あんぜんぐつ}の{特徴|とくちょう}として、{正|ただ}しいものはどれですか。",
+      "q_en": "Which is a correct feature of safety shoes?",
+      "choices": [
+        "{騒音|そうおん}から{耳|みみ}を{守|まも}る{働|はたら}きがある",
+        "つま{先|さき}・かかとに{鋼板|こうはん}やプラスチック{板|ばん}を{装着|そうちゃく}してあり、{足|あし}の{圧傷|あっしょう}を{防|ふせ}ぐ",
+        "{耐熱|たいねつ}の{布|ぬの}でつくられていて、やけどを{防|ふせ}ぐ"
+      ],
+      "choices_en": [
+        "They protect the ears from loud noise",
+        "Steel or plastic plates in the toe and heel protect the feet from being crushed",
+        "They are made of heat-resistant cloth to prevent burns"
+      ],
+      "answer": 1,
+      "explain": "{安全靴|あんぜんぐつ}は、つま{先|さき}・かかとに{鋼板|こうはん}やプラスチック{板|ばん}を{装着|そうちゃく}してあり、つま{先|さき}・かかとのケガ（{足|あし}の{圧傷|あっしょう}）を{防|ふせ}ぎます。",
+      "explain_en": "Safety shoes have steel or plastic plates in the toe and heel to prevent injuries to the toes and heels.",
+      "page": 47
+    },
+    {
+      "id": "C14",
+      "chapter": "第3章 労働安全",
+      "topic": "作業手順書とルール",
+      "type": "gakka",
+      "q": "「{指差呼称|しさこしょう}」とは、どのようにおこなうことですか。",
+      "q_en": "What is \"shisa kosho\" (pointing and calling)?",
+      "choices": [
+        "{信号|しんごう}や{標識|ひょうしき}、{器具|きぐ}などを{指|ゆび}で{指|さ}しながら、その{名称|めいしょう}や{状態|じょうたい}を{声|こえ}に{出|だ}して{言|い}う",
+        "{責任者|せきにんしゃ}の{名前|なまえ}を{大|おお}きな{声|こえ}で{呼|よ}んで{確認|かくにん}してもらう",
+        "{危険|きけん}な{場所|ばしょ}を{指|ゆび}で{指|さ}して、{声|こえ}は{出|だ}さずに{心|こころ}の{中|なか}で{確認|かくにん}する"
+      ],
+      "choices_en": [
+        "Point at signals, signs or tools with your finger and say their name and condition out loud",
+        "Call the supervisor's name loudly and ask them to check",
+        "Point at the dangerous place but check silently in your mind"
+      ],
+      "answer": 0,
+      "explain": "{指差呼称|しさこしょう}は、{信号|しんごう}、{標識|ひょうしき}、{器具|きぐ}、{作業対象|さぎょうたいしょう}などを{指|ゆび}で{指|さ}しながら、その{名称|めいしょう}や{状態|じょうたい}を{声|こえ}に{出|だ}して{言|い}うことです。{危険|きけん}の{予防|よぼう}や{安全|あんぜん}の{確認|かくにん}のためにおこないます。{作業|さぎょう}や{機械|きかい}のスイッチを{入|い}れる{前|まえ}には{指差呼称|しさこしょう}で{確認|かくにん}します。",
+      "explain_en": "Pointing and calling means pointing at signals, signs, tools or work items and saying their name and condition out loud. It is done to prevent danger and confirm safety, for example before turning on a machine switch.",
+      "page": 49
+    },
+    {
+      "id": "C15",
+      "chapter": "第3章 労働安全",
+      "topic": "機械を正しく使う",
+      "type": "gakka",
+      "q": "「{始業前点検|しぎょうまえてんけん}」とは、どんな{作業|さぎょう}ですか。",
+      "q_en": "What is a \"pre-start inspection\"?",
+      "choices": [
+        "{設備|せつび}・{機械|きかい}を{使|つか}う{作業|さぎょう}を{始|はじ}める{前|まえ}に、{異常|いじょう}がないことを{確認|かくにん}する{作業|さぎょう}",
+        "1{年|ねん}に1{回|かい}、{機械|きかい}を{分解|ぶんかい}して{修理|しゅうり}する{作業|さぎょう}",
+        "{作業|さぎょう}が{終|お}わったあとに、{機械|きかい}を{洗|あら}う{作業|さぎょう}"
+      ],
+      "choices_en": [
+        "Checking that there is nothing abnormal before starting work with equipment or machines",
+        "Taking machines apart and repairing them once a year",
+        "Washing machines after work is finished"
+      ],
+      "answer": 0,
+      "explain": "{始業前点検|しぎょうまえてんけん}は、{設備|せつび}・{機械|きかい}を{使|つか}う{作業|さぎょう}を{始|はじ}める{前|まえ}に{異常|いじょう}がないことを{確認|かくにん}する{作業|さぎょう}で、{毎日|まいにち}の{安定|あんてい}した{製造|せいぞう}に{大切|たいせつ}です。{汚|よご}れやはさまり、{変|へん}な{臭|にお}い、いつもと{違|ちが}う{音|おと}や{振動|しんどう}、{刃|は}のかけ、{足|た}りない{部品|ぶひん}、{安全装置|あんぜんそうち}やランプの{正常|せいじょう}な{動作|どうさ}などを{確認|かくにん}します。",
+      "explain_en": "A pre-start inspection is done before using equipment, to confirm there is nothing abnormal. Check for dirt or jams, strange smells, unusual sounds or vibration, chipped blades, missing parts, and whether safety devices and lamps work normally.",
+      "page": 49
+    },
+    {
+      "id": "C16",
+      "chapter": "第3章 労働安全",
+      "topic": "機械を正しく使う",
+      "type": "gakka",
+      "q": "{非常停止|ひじょうていし}ボタンについての{説明|せつめい}で、{正|ただ}しいものはどれですか。",
+      "q_en": "Which statement about the emergency stop button is correct?",
+      "choices": [
+        "{機械|きかい}を{早|はや}く{動|うご}かすためのボタンである",
+        "{操作盤|そうさばん}についていて、{押|お}すとすぐに{機械|きかい}が{止|と}まる",
+        "{押|お}してから10{分後|ぷんご}に{機械|きかい}が{止|と}まる"
+      ],
+      "choices_en": [
+        "It is a button to make the machine run faster",
+        "It is on the control panel, and pressing it stops the machine right away",
+        "The machine stops 10 minutes after you press it"
+      ],
+      "answer": 1,
+      "explain": "{操作盤|そうさばん}には{非常停止|ひじょうていし}ボタンがついていて、{押|お}すとすぐに{機械|きかい}が{止|と}まります。{異常|いじょう}なことが{起|お}こったときに{一番|いちばん}{大切|たいせつ}なことは、「まず{機械|きかい}を{止|と}める」ことです。",
+      "explain_en": "The control panel has an emergency stop button; pressing it stops the machine immediately. When something abnormal happens, the most important thing is to stop the machine first.",
+      "page": 50
+    },
+    {
+      "id": "C17",
+      "chapter": "第3章 労働安全",
+      "topic": "機械を正しく使う",
+      "type": "gakka",
+      "q": "「フェールセーフ（fail safe）」とは、どのような{仕組|しく}みですか。",
+      "q_en": "What is a \"fail safe\" system?",
+      "choices": [
+        "{部品|ぶひん}が{壊|こわ}れたり{製品|せいひん}がつまったりしたときに、{機械|きかい}が{自動的|じどうてき}に{止|と}まる{仕組|しく}み",
+        "{機械|きかい}が{壊|こわ}れても{止|と}まらずに{動|うご}き{続|つづ}ける{仕組|しく}み",
+        "{人|ひと}がうっかりしても{災害|さいがい}にならないように{工夫|くふう}された{仕組|しく}み"
+      ],
+      "choices_en": [
+        "A system where the machine stops automatically when a part breaks or a product jams",
+        "A system where the machine keeps running even when it is broken",
+        "A system designed so that a careless mistake does not cause an accident"
+      ],
+      "answer": 0,
+      "explain": "フェールセーフは、{部品|ぶひん}が{壊|こわ}れたり{製品|せいひん}がつまったりしたときに{機械|きかい}が{自動的|じどうてき}に{止|と}まる{仕組|しく}みです。{扉|とびら}を{開|あ}けると{機械|きかい}が{自動的|じどうてき}に{止|と}まる{安全装置|あんぜんそうち}もフェールセーフです。「{人|ひと}がうっかりしても{災害|さいがい}にならないように{工夫|くふう}された{仕組|しく}み」は「フールプルーフ」です。",
+      "explain_en": "Fail safe means the machine stops automatically when a part breaks or a product jams. A safety device that stops the machine when a door is opened is also fail safe. \"A design so that carelessness does not cause an accident\" is \"fool proof\".",
+      "page": 51
+    },
+    {
+      "id": "C18",
+      "chapter": "第3章 労働安全",
+      "topic": "機械を正しく使う",
+      "type": "gakka",
+      "q": "コンベアのチェーンとギアの{回転部分|かいてんぶぶん}についている{安全|あんぜん}カバーは、どのような{仕組|しく}みの{例|れい}ですか。",
+      "q_en": "The safety cover on the chain and gear of a conveyor is an example of what kind of system?",
+      "choices": [
+        "フールプルーフ（fool proof）",
+        "フェールセーフ（fail safe）",
+        "{指差呼称|しさこしょう}"
+      ],
+      "choices_en": [
+        "Fool proof",
+        "Fail safe",
+        "Pointing and calling"
+      ],
+      "answer": 0,
+      "explain": "フールプルーフは、{人|ひと}がうっかりしたり{思|おも}い{違|ちが}いをしたりしても{災害|さいがい}にならないように{工夫|くふう}された{仕組|しく}みです。{安全|あんぜん}カバーは、{間違|まちが}って{手|て}を{入|い}れてしまわないためのフールプルーフの{仕組|しく}みです。",
+      "explain_en": "Fool proof means a design that prevents an accident even if a person is careless or misunderstands. A safety cover stops your hand from going in by mistake, so it is fool proof.",
+      "page": 51
+    },
+    {
+      "id": "C19",
+      "chapter": "第3章 労働安全",
+      "topic": "洗剤や薬剤を使う作業",
+      "type": "gakka",
+      "q": "{塩素系|えんそけい}の{洗剤|せんざい}と{酸性洗剤|さんせいせんざい}を{混|ま}ぜて{同時|どうじ}に{使|つか}うと、どうなりますか。",
+      "q_en": "What happens if you mix a chlorine-based cleaner with an acidic cleaner?",
+      "choices": [
+        "{何|なに}も{起|お}こらないので{問題|もんだい}ない",
+        "{洗浄|せんじょう}の{力|ちから}が{強|つよ}くなるので{効率|こうりつ}がよい",
+        "{有毒|ゆうどく}な{塩素|えんそ}ガスが{発生|はっせい}して{危険|きけん}である"
+      ],
+      "choices_en": [
+        "Nothing happens, so there is no problem",
+        "Cleaning power becomes stronger, so it is efficient",
+        "Poisonous chlorine gas is made, which is dangerous"
+      ],
+      "answer": 2,
+      "explain": "{塩素系|えんそけい}の{洗剤|せんざい}と{酸性洗剤|さんせいせんざい}を{混|ま}ぜて{同時|どうじ}に{使|つか}うと、{有毒|ゆうどく}な{塩素|えんそ}ガスが{発生|はっせい}して{危険|きけん}です。{洗剤|せんざい}を{使|つか}うルールを{守|まも}ってください。",
+      "explain_en": "Mixing chlorine-based and acidic cleaners makes poisonous chlorine gas, which is dangerous. Always follow the rules for using cleaners.",
+      "page": 52
+    },
+    {
+      "id": "C20",
+      "chapter": "第3章 労働安全",
+      "topic": "ヒヤリ・ハット",
+      "type": "gakka",
+      "q": "「ハインリッヒの{法則|ほうそく}」では、1つの{大|おお}きな{労働災害|ろうどうさいがい}が{起|お}こるまでに、{軽|かる}いケガや{小|ちい}さな{災害|さいがい}とヒヤリ・ハットはそれぞれ{何件|なんけん}{起|お}こっているといわれていますか。",
+      "q_en": "In Heinrich's Law, how many minor injuries and how many near-misses happen before one serious accident?",
+      "choices": [
+        "{軽|かる}いケガや{小|ちい}さな{災害|さいがい}が3{件|けん}、ヒヤリ・ハットが30{件|けん}",
+        "{軽|かる}いケガや{小|ちい}さな{災害|さいがい}が100{件|けん}、ヒヤリ・ハットが1000{件|けん}",
+        "{軽|かる}いケガや{小|ちい}さな{災害|さいがい}が29{件|けん}、ヒヤリ・ハットが300{件|けん}"
+      ],
+      "choices_en": [
+        "3 minor injuries and 30 near-misses",
+        "100 minor injuries and 1,000 near-misses",
+        "29 minor injuries and 300 near-misses"
+      ],
+      "answer": 2,
+      "explain": "1つの{大|おお}きな{労働災害|ろうどうさいがい}が{起|お}こるまでに、{同|おな}じ{原因|げんいん}で{軽|かる}いケガや{小|ちい}さな{災害|さいがい}が29{件|けん}、ケガはなく{災害|さいがい}にならなかったヒヤリ・ハットが300{件|けん}{起|お}こっているという{法則|ほうそく}を「ハインリッヒの{法則|ほうそく}」といいます。ヒヤリ・ハットが{少|すく}なくなれば、{大|おお}きな{労働災害|ろうどうさいがい}が{起|お}こりにくくなります。",
+      "explain_en": "Heinrich's Law says that before one serious accident, there are 29 minor injuries and 300 near-misses from the same cause. If near-misses decrease, serious accidents become less likely.",
+      "page": 54
+    },
+    {
+      "id": "C21",
+      "chapter": "第3章 労働安全",
+      "topic": "異常時の対応",
+      "type": "jitsugi",
+      "q": "{作業中|さぎょうちゅう}に{機械|きかい}で{異常|いじょう}なことが{起|お}こりました。{一番|いちばん}{大切|たいせつ}な{対応|たいおう}はどれですか。",
+      "q_en": "Something abnormal happens with a machine during work. What is the most important action?",
+      "choices": [
+        "{機械|きかい}を{動|うご}かしたまま、{原因|げんいん}をよく{見|み}て{調|しら}べる",
+        "まず{機械|きかい}を{止|と}める（{必要|ひつよう}に{応|おう}じて{非常停止|ひじょうていし}ボタンを{押|お}す）",
+        "{自分|じぶん}の{作業|さぎょう}は{終|お}わっているので、そのままにしておく"
+      ],
+      "choices_en": [
+        "Keep the machine running and look closely to find the cause",
+        "Stop the machine first (press the emergency stop button if needed)",
+        "Leave it as it is because your own work is finished"
+      ],
+      "answer": 1,
+      "explain": "{異常|いじょう}なことが{起|お}こったときに{一番|いちばん}{大切|たいせつ}なことは、「まず{機械|きかい}を{止|と}める」ことです。テキストでは、①{何|なに}が{起|お}こっているかを{確認|かくにん}して{周|まわ}りの{責任者|せきにんしゃ}や{作業者|さぎょうしゃ}に{大|おお}きな{声|こえ}で{知|し}らせる、②{自分|じぶん}で{判断|はんだん}できるときは{必要|ひつよう}に{応|おう}じて{緊急停止|きんきゅうていし}ボタンを{押|お}して{動|うご}いている{機械|きかい}を{止|と}める、③{責任者|せきにんしゃ}の{指示|しじ}に{従|したが}って{対応|たいおう}する、という{手順|てじゅん}が{示|しめ}されています。{一人|ひとり}で{勝手|かって}な{行動|こうどう}をしてはいけません。",
+      "explain_en": "When something abnormal happens, the most important thing is to stop the machine first. The textbook gives these steps: (1) check what is happening and tell the supervisor and other workers in a loud voice, (2) if you can judge for yourself, press the emergency stop button as needed to stop the moving machine, (3) follow the supervisor's instructions. Never act alone on your own judgment.",
+      "page": 50
+    },
+    {
+      "id": "C22",
+      "chapter": "第3章 労働安全",
+      "topic": "機械を正しく使う",
+      "type": "jitsugi",
+      "q": "{機械|きかい}に{原材料|げんざいりょう}がつまって{動|うご}かなくなりました。{見|み}た{目|め}は{止|と}まっています。どうしますか。",
+      "q_en": "Material has jammed a machine and it is not moving. It looks stopped. What do you do?",
+      "choices": [
+        "ゆっくり{動|うご}いていれば{力|ちから}が{弱|よわ}いので、{手|て}を{入|い}れてもよい",
+        "{止|と}まっているので、{手|て}を{入|い}れてつまったものをすぐに{取|と}り{除|のぞ}く",
+        "{電源|でんげん}のスイッチが{入|はい}っている{状態|じょうたい}では{絶対|ぜったい}に{手|て}を{入|い}れない"
+      ],
+      "choices_en": [
+        "If it moves slowly the force is weak, so it is fine to put your hand in",
+        "It is stopped, so put your hand in and remove the jam right away",
+        "Never put your hand in while the power switch is on"
+      ],
+      "answer": 2,
+      "explain": "{物|もの}がつまって{動|うご}かなくなっている{機械|きかい}は{止|と}まっているように{見|み}えますが、{見|み}えないところで{刃先|はさき}やスクリューが{回転|かいてん}していることがあります。また、つまったものを{取|と}り{除|のぞ}くと{機械|きかい}が{動|うご}き{始|はじ}めて{手|て}が{巻|ま}き{込|こ}まれる{災害|さいがい}が{多|おお}く{起|お}こっています。ゆっくり{動|うご}いている{機械|きかい}も{動|うご}く{力|ちから}が{強|つよ}く、{巻|ま}き{込|こ}まれても{止|と}まらないことがあるので、{絶対|ぜったい}に{手|て}を{入|い}れてはいけません。",
+      "explain_en": "A jammed machine looks stopped, but blades or screws may still be turning where you cannot see. Also, when the jam is removed the machine may start moving and pull in your hand. Even a slowly moving machine has strong force and may not stop, so never put your hand in.",
+      "page": 50
+    },
+    {
+      "id": "C23",
+      "chapter": "第3章 労働安全",
+      "topic": "労働災害が起こったときの対応",
+      "type": "jitsugi",
+      "q": "{作業場|さぎょうじょう}でケガをして{倒|たお}れている{同僚|どうりょう}を{見|み}つけました。まずどうしますか。",
+      "q_en": "You find a co-worker who is injured and lying on the floor. What do you do first?",
+      "choices": [
+        "{責任者|せきにんしゃ}が{来|く}るまで{何|なに}も{言|い}わずに{自分|じぶん}の{作業|さぎょう}を{続|つづ}ける",
+        "あわてて{近|ちか}づかず、{何|なに}が{起|お}こっているかを{確認|かくにん}して{周|まわ}りの{責任者|せきにんしゃ}や{作業者|さぎょうしゃ}に{大|おお}きな{声|こえ}で{知|し}らせる",
+        "すぐに{走|はし}って{近|ちか}づき、{一人|ひとり}で{助|たす}け{出|だ}す"
+      ],
+      "choices_en": [
+        "Say nothing and continue your own work until the supervisor comes",
+        "Do not rush over; check what is happening and tell the supervisor and other workers in a loud voice",
+        "Run over at once and rescue the person by yourself"
+      ],
+      "answer": 1,
+      "explain": "{労働災害|ろうどうさいがい}が{起|お}こったときは、あわてて{近|ちか}づいてはいけません。{助|たす}けようとした{人|ひと}も{労働災害|ろうどうさいがい}にあってしまうことがあるからです（これを「{二次災害|にじさいがい}」といいます）。①{何|なに}が{起|お}こっているかを{確認|かくにん}して{大|おお}きな{声|こえ}で{知|し}らせる、②{必要|ひつよう}に{応|おう}じて{緊急停止|きんきゅうていし}ボタンを{押|お}して{機械|きかい}を{止|と}める、③{責任者|せきにんしゃ}の{指示|しじ}に{従|したが}って{対応|たいおう}する、の{順|じゅん}でおこないます。",
+      "explain_en": "When an accident happens, do not rush over. The person trying to help may also be hurt; this is called a \"secondary accident\". Steps: (1) check what is happening and tell others loudly, (2) press the emergency stop button if needed, (3) follow the supervisor's instructions.",
+      "page": 52
+    },
+    {
+      "id": "C24",
+      "chapter": "第3章 労働安全",
+      "topic": "機械を正しく使う",
+      "type": "jitsugi",
+      "q": "コンベアを{修理|しゅうり}するように{言|い}われました。{正|ただ}しい{作業|さぎょう}の{仕方|しかた}はどれですか。",
+      "q_en": "You are told to repair a conveyor. Which is the correct way to work?",
+      "choices": [
+        "{必|かなら}ず{電源|でんげん}のスイッチを{切|き}り、「{故障対応中|こしょうたいおうちゅう}」などのパネルを{電源|でんげん}のスイッチの{場所|ばしょ}にぶら{下|さ}げる",
+        "{電源|でんげん}のスイッチを{切|き}れば{他|ほか}の{人|ひと}は{触|さわ}らないので、{何|なに}も{表示|ひょうじ}しなくてよい",
+        "{電源|でんげん}のスイッチを{切|き}らずに、{安全|あんぜん}カバーを{外|はず}して{早|はや}く{直|なお}す"
+      ],
+      "choices_en": [
+        "Always turn off the power switch and hang a sign such as \"under repair\" at the power switch",
+        "Turning off the power is enough; no sign is needed because nobody will touch it",
+        "Remove the safety cover without turning off the power so you can fix it quickly"
+      ],
+      "answer": 0,
+      "explain": "コンベアのチェーンとギアの{回転部分|かいてんぶぶん}には{安全|あんぜん}カバーがついています。{電源|でんげん}のスイッチを{切|き}らないでカバーを{外|はず}して{作業|さぎょう}したために{多|おお}くの{災害|さいがい}が{起|お}きています。また、スイッチを{切|き}ったあとで{他|ほか}の{人|ひと}が{電源|でんげん}スイッチを{触|さわ}らないようにするため、「{故障対応中|こしょうたいおうちゅう}」などのパネルを{電源|でんげん}のスイッチの{場所|ばしょ}にぶら{下|さ}げて{安全|あんぜん}に{作業|さぎょう}します。",
+      "explain_en": "The chain and gear of a conveyor have a safety cover. Many accidents happen because workers remove the cover without turning off the power. Also, hang a sign such as \"under repair\" at the power switch so that no one else turns it on.",
+      "page": 51
+    },
+    {
+      "id": "C25",
+      "chapter": "第3章 労働安全",
+      "topic": "機械を正しく使う",
+      "type": "jitsugi",
+      "q": "{機械|きかい}の{点検|てんけん}と{整備|せいび}（メンテナンス）をおこなうときに、{大切|たいせつ}なことはどれですか。",
+      "q_en": "Which is important when doing machine inspection and maintenance?",
+      "choices": [
+        "{操作|そうさ}パネルに「{点検整備中|てんけんせいびちゅう}」と{表示|ひょうじ}し、{電源|でんげん}のスイッチにカギをかけて{動|うご}かなくする",
+        "{生産|せいさん}が{忙|いそが}しいときは、{点検|てんけん}と{整備|せいび}をやめてよい",
+        "{安全装置|あんぜんそうち}は{壊|こわ}れないので、{点検|てんけん}しなくてよい"
+      ],
+      "choices_en": [
+        "Show \"under inspection\" on the control panel and lock the power switch so it cannot be turned on",
+        "You may skip inspection and maintenance when production is busy",
+        "Safety devices never break, so you do not need to inspect them"
+      ],
+      "answer": 0,
+      "explain": "{点検|てんけん}と{整備|せいび}は、いつおこなうのか{計画|けいかく}を{作|つく}って、{生産|せいさん}が{忙|いそが}しくても{必|かなら}ずおこなわなければいけません。{大事|だいじ}なことは、①{操作|そうさ}パネルに「{点検整備中|てんけんせいびちゅう}」と{表示|ひょうじ}して{他|ほか}の{人|ひと}にもわかるようにする、②{電源|でんげん}のスイッチにカギをかけて{動|うご}かなくする、③{安全装置|あんぜんそうち}も{必|かなら}ず{点検|てんけん}する、の3{点|てん}です。",
+      "explain_en": "Make a plan for inspection and maintenance and always do it, even when production is busy. Three key points: show \"under inspection\" on the control panel, lock the power switch, and always inspect the safety devices too.",
+      "page": 51
+    },
+    {
+      "id": "C26",
+      "chapter": "第3章 労働安全",
+      "topic": "洗剤や薬剤を使う作業",
+      "type": "jitsugi",
+      "q": "{消毒用|しょうどくよう}アルコールの{置|お}き{場所|ばしょ}について、{正|ただ}しいものはどれですか。",
+      "q_en": "Which is correct about where to keep disinfectant alcohol?",
+      "choices": [
+        "{高温|こうおん}になる{機械|きかい}の{近|ちか}くに{置|お}くと、はやく{乾|かわ}くのでよい",
+        "{使|つか}いやすいように、フライヤーのすぐ{横|よこ}に{置|お}くとよい",
+        "オーブンやフライヤーなど{高温|こうおん}になる{機械|きかい}の{近|ちか}くに{置|お}いてはいけない"
+      ],
+      "choices_en": [
+        "Keeping it near hot machines is good because it dries faster",
+        "Keep it right next to the fryer so it is easy to use",
+        "Do not keep it near machines that get hot, such as ovens or fryers"
+      ],
+      "answer": 2,
+      "explain": "{消毒用|しょうどくよう}アルコールは、オーブンやフライヤーなどの{高温|こうおん}になる{機械|きかい}の{近|ちか}くに{置|お}いてはいけません。アルコールに{火|ひ}がついて{火災|かさい}が{起|お}こることがあります。",
+      "explain_en": "Do not keep disinfectant alcohol near machines that become hot, such as ovens or fryers. The alcohol can catch fire and cause a fire.",
+      "page": 52
+    },
+    {
+      "id": "C27",
+      "chapter": "第3章 労働安全",
+      "topic": "作業場のルール",
+      "type": "jitsugi",
+      "q": "{作業場|さぎょうじょう}の{通路|つうろ}をフォークリフトが{通|とお}ります。{歩|ある}いている{作業者|さぎょうしゃ}の{正|ただ}しい{行動|こうどう}はどれですか。",
+      "q_en": "A forklift is passing along the aisle. What should a worker on foot do?",
+      "choices": [
+        "{運転|うんてん}する{人|ひと}と{目|め}を{合|あ}わせて{確認|かくにん}しながら{歩|ある}く",
+        "コンベアの{下|した}をくぐって、{反対側|はんたいがわ}に{移動|いどう}する",
+        "{早|はや}く{通|とお}り{過|す}ぎるように、{走|はし}ってフォークリフトの{前|まえ}を{横切|よこぎ}る"
+      ],
+      "choices_en": [
+        "Make eye contact with the driver and confirm while walking",
+        "Duck under the conveyor and move to the other side",
+        "Run across in front of the forklift to pass quickly"
+      ],
+      "answer": 0,
+      "explain": "{作業場|さぎょうじょう}のルールでは、フォークリフトが{通|とお}るときは{運転|うんてん}する{人|ひと}と{目|め}を{合|あ}わせて{確認|かくにん}しながら{歩|ある}きます。また、{作業場|さぎょうじょう}の{中|なか}では{走|はし}らない、{決|き}められた{通路|つうろ}を{歩|ある}く、コンベアの{下|した}をくぐらない、{階段|かいだん}を{走|はし}って{下|お}りたり{上|あ}がったりしない、というルールもあります。{作業者|さぎょうしゃ}がフォークリフトとぶつかる「{激突|げきとつ}」{災害|さいがい}は、{死|し}ぬこともあります。",
+      "explain_en": "Workplace rules say: when a forklift passes, make eye contact with the driver. Also do not run in the workplace, walk on the marked aisles, do not duck under conveyors, and do not run up or down stairs. Being hit by a forklift can be fatal.",
+      "page": 48
+    },
+    {
+      "id": "C28",
+      "chapter": "第3章 労働安全",
+      "topic": "危険予知訓練（KYT）",
+      "type": "jitsugi",
+      "q": "{危険予知訓練|きけんよちくんれん}（KYT）で、{冷凍庫|れいとうこ}の{入|い}り{口|ぐち}の{前|まえ}の{床|ゆか}について{考|かんが}えるとき、{正|ただ}しい{気|き}づき{方|かた}はどれですか。",
+      "q_en": "In KYT (hazard prediction training), what is the right way to think about the floor in front of a freezer entrance?",
+      "choices": [
+        "うすい{氷|こおり}ができていて、{滑|すべ}るかもしれない",
+        "{冷|つめ}たいだけなので、{危険|きけん}は{何|なに}もない",
+        "{実際|じっさい}に{転|ころ}んだ{人|ひと}がいないので、{考|かんが}えなくてよい"
+      ],
+      "choices_en": [
+        "There may be thin ice, so it may be slippery",
+        "It is only cold, so there is no danger at all",
+        "No one has actually fallen there, so you do not need to think about it"
+      ],
+      "answer": 0,
+      "explain": "{危険予知訓練|きけんよちくんれん}（KYT）は、{実際|じっさい}に{体験|たいけん}しなくても、{作業場|さぎょうじょう}や{作業|さぎょう}のどこにどのような{危険|きけん}（{潜在的|せんざいてき}な{危険|きけん}）がかくれているかに{気|き}がつくようになるための{訓練|くんれん}です。いつも「（そんな{危険|きけん}がある）かもしれない」と{感|かん}じて{警戒|けいかい}できるようになることが{大切|たいせつ}です。",
+      "explain_en": "KYT is training to notice hidden dangers in the workplace without actually experiencing them. It is important to always think \"it might be dangerous\" and stay alert.",
+      "page": 56
+    },
+    {
+      "id": "C29",
+      "chapter": "第3章 労働安全",
+      "topic": "ヒヤリ・ハット活動",
+      "type": "jitsugi",
+      "q": "{作業中|さぎょうちゅう}に、もう{少|すこ}しでケガをするところでした（ヒヤリ・ハット）。ケガはしていません。どうしますか。",
+      "q_en": "During work you almost got injured (a near-miss), but you were not hurt. What should you do?",
+      "choices": [
+        "{小|ちい}さなことでも、たいしたことが{無|な}いと{思|おも}わずに{報告|ほうこく}する",
+        "ケガをしていないので、{報告|ほうこく}しないでおく",
+        "{自分|じぶん}だけが{気|き}をつければよいので、{記録|きろく}しない"
+      ],
+      "choices_en": [
+        "Report it, even if it seems small and unimportant",
+        "Do not report it because you were not injured",
+        "Do not record it; it is enough for you alone to be careful"
+      ],
+      "answer": 0,
+      "explain": "ヒヤリ・ハット{活動|かつどう}では、{自分|じぶん}が{体験|たいけん}したヒヤリ・ハットをできるだけたくさん{出|だ}し{合|あ}うことが{大切|たいせつ}です。{小|ちい}さなことでも、たいしたことが{無|な}いと{思|おも}わずに{報告|ほうこく}します。{報告|ほうこく}したものを{記録|きろく}して{工場内|こうじょうない}の{全員|ぜんいん}で{共有|きょうゆう}し、{原因|げんいん}と{対策|たいさく}を{全員|ぜんいん}で{考|かんが}えて{工場|こうじょう}を{良|よ}くしていきます。",
+      "explain_en": "In near-miss activities, it is important to share as many of your own near-misses as possible. Report even small things. Reports are recorded and shared with everyone in the factory, and everyone thinks about the causes and how to prevent them.",
+      "page": 54
+    },
+    {
+      "id": "C30",
+      "chapter": "第3章 労働安全",
+      "topic": "転倒災害の予防",
+      "type": "jitsugi",
+      "q": "トレーを{両手|りょうて}で{持|も}って{歩|ある}こうとしたとき、{濡|ぬ}れた{床|ゆか}で{滑|すべ}って{転倒|てんとう}しそうになりました。{正|ただ}しい{対策|たいさく}はどれですか。",
+      "q_en": "You almost slipped and fell on a wet floor while carrying a tray with both hands. What is the correct measure?",
+      "choices": [
+        "{濡|ぬ}れた{床|ゆか}は{早|はや}く{通|とお}り{過|す}ぎるように、{走|はし}って{移動|いどう}する",
+        "{床|ゆか}が{濡|ぬ}れている{場合|ばあい}は、{床|ゆか}の{水|みず}をきちんとふき{取|と}る",
+        "トレーを{片手|かたて}で{持|も}てばバランスが{取|と}れるので、{床|ゆか}はそのままでよい"
+      ],
+      "choices_en": [
+        "Run across the wet floor so you pass it quickly",
+        "If the floor is wet, wipe up the water properly",
+        "Hold the tray with one hand for balance and leave the floor as it is"
+      ],
+      "answer": 1,
+      "explain": "この{事例|じれい}の{原因|げんいん}は「{床|ゆか}の{水|みず}をきちんとふき{取|と}っていなかった」ことで、{対策|たいさく}は「{床|ゆか}が{濡|ぬ}れている{場合|ばあい}は{床|ゆか}の{水|みず}をきちんとふき{取|と}る」ことです。{転倒|てんとう}は{食品製造工場|しょくひんせいぞうこうじょう}で{最|もっと}も{多|おお}い{労働災害|ろうどうさいがい}です。また、{作業場|さぎょうじょう}の{中|なか}では{走|はし}ってはいけません。",
+      "explain_en": "The cause in this case was that the water on the floor was not wiped up, and the measure is to wipe the wet floor properly. Slipping and falling is the most common accident in food factories. Also, you must not run in the workplace.",
+      "page": 56
+    }
+  ],
+  "terms": [
+    {
+      "term": "{未熟練作業者|みじゅくれんさぎょうしゃ}",
+      "reading": "みじゅくれんさぎょうしゃ",
+      "en": "inexperienced worker",
+      "def": "{経験|けいけん}が3{年|ねん}{未満|みまん}の{作業者|さぎょうしゃ}。{危険|きけん}になかなか{気|き}がつかないため、{労働災害|ろうどうさいがい}が{起|お}こりやすい。{食料品製造業|しょくりょうひんせいぞうぎょう}の{労働災害|ろうどうさいがい}の{約|やく}{半分|はんぶん}を{占|し}める。",
+      "def_en": "A worker with less than 3 years of experience. They do not notice dangers easily, so accidents happen more often. They are about half of the accidents in the food manufacturing industry.",
+      "page": 43
+    },
+    {
+      "term": "{転倒|てんとう}{災害|さいがい}",
+      "reading": "てんとうさいがい",
+      "en": "slip / trip and fall accident",
+      "def": "{走|はし}ってすべったり、{物|もの}につまずいたり、{荷物|にもつ}を{持|も}っていてまっすぐ{歩|ある}けなかったりして{起|お}こる{災害|さいがい}。{頭|あたま}や{背中|せなか}を{打|う}ったり、{手|て}をついて{手|て}の{骨|ほね}を{折|お}ったりする。{食品製造工場|しょくひんせいぞうこうじょう}で{最|もっと}も{多|おお}い。",
+      "def_en": "An accident caused by slipping while running, tripping over something, or not walking straight while carrying a load. You may hit your head or back, or break a bone in your hand. It is the most common accident in food factories.",
+      "page": 44
+    },
+    {
+      "term": "はさまれ・{巻|ま}き{込|こ}まれ{災害|さいがい}",
+      "reading": "はさまれ・まきこまれさいがい",
+      "en": "caught-in / pulled-into accident",
+      "def": "{機械|きかい}に{手|て}を{入|い}れるときやコンベアのギアを{掃除|そうじ}しているときなどに{起|お}こる{災害|さいがい}。{指|ゆび}や{腕|うで}の{骨|ほね}がつぶれたり、{体|からだ}がはさまって{死|し}んだりすることがある。",
+      "def_en": "An accident that happens when you put your hand into a machine or clean a conveyor gear. It can crush fingers or arms, or trap and kill a person.",
+      "page": 44
+    },
+    {
+      "term": "{熱中症|ねっちゅうしょう}",
+      "reading": "ねっちゅうしょう",
+      "en": "heat stroke",
+      "def": "{気温|きおん}や{湿度|しつど}が{高|たか}い{場所|ばしょ}で{長|なが}い{時間|じかん}{作業|さぎょう}したときに{起|お}こる。{体温|たいおん}が{上|あ}がって{体内|たいない}の{水分|すいぶん}や{塩分|えんぶん}のバランスが{崩|くず}れ、{体温調節|たいおんちょうせつ}ができなくなり、{死|し}ぬこともある。",
+      "def_en": "Happens after working a long time in a hot, humid place. Body temperature rises, the balance of water and salt breaks down, the body cannot control its temperature, and it can be fatal.",
+      "page": 45
+    },
+    {
+      "term": "{激突|げきとつ}{災害|さいがい}",
+      "reading": "げきとつさいがい",
+      "en": "collision accident",
+      "def": "{作業者|さぎょうしゃ}が{移動中|いどうちゅう}にフォークリフトとぶつかったりして{起|お}こる{災害|さいがい}。{速|はや}く{動|うご}いているフォークリフトにぶつかると{死|し}ぬこともある。",
+      "def_en": "An accident where a moving worker is hit by a forklift or similar. Being hit by a fast-moving forklift can be fatal.",
+      "page": 45
+    },
+    {
+      "term": "5S",
+      "reading": "ごえす",
+      "en": "5S (sort, set in order, clean, cleanliness, discipline)",
+      "def": "{整理|せいり}・{整頓|せいとん}・{清掃|せいそう}・{清潔|せいけつ}・{習慣付|しゅうかんづ}け（しつけ）の5つ。{作業場|さぎょうじょう}をいつも{同|おな}じ{状態|じょうたい}に{保|たも}ち、{労働災害|ろうどうさいがい}を{防|ふせ}ぐために{大切|たいせつ}な{活動|かつどう}。",
+      "def_en": "Sort, set in order, clean, cleanliness, and discipline. It keeps the workplace always in the same condition and is an important activity for preventing accidents.",
+      "page": 45
+    },
+    {
+      "term": "{動線|どうせん}",
+      "reading": "どうせん",
+      "en": "flow line (movement path)",
+      "def": "{道具|どうぐ}や{原材料|げんざいりょう}を{置|お}く{場所|ばしょ}を{決|き}めることで、すべての{人|ひと}が{同|おな}じ{動|うご}き{方|かた}をすること。5Sの「{整頓|せいとん}」でつくられ、{作業|さぎょう}がしやすくなり{転倒災害|てんとうさいがい}の{危険|きけん}が{減|へ}る。",
+      "def_en": "When places for tools and materials are decided, everyone moves in the same way. Made by \"seiton\" in 5S; work becomes easier and the risk of falls goes down.",
+      "page": 46
+    },
+    {
+      "term": "{安全保護具|あんぜんほごぐ}",
+      "reading": "あんぜんほごぐ",
+      "en": "personal protective equipment (PPE)",
+      "def": "ヘルメット、{保護|ほご}メガネ、{手袋|てぶくろ}、{耳栓|みみせん}、{耐熱|たいねつ}エプロン、{安全靴|あんぜんぐつ}など、ケガを{防|ふせ}ぐために{身|み}につけるもの。{着用|ちゃくよう}するように{指示|しじ}されている{場合|ばあい}は、{正|ただ}しく{着用|ちゃくよう}しなければいけない。",
+      "def_en": "Helmets, goggles, gloves, earplugs, heat-resistant aprons, safety shoes, etc., worn to prevent injury. When you are told to wear them, you must wear them correctly.",
+      "page": 47
+    },
+    {
+      "term": "{高所作業|こうしょさぎょう}",
+      "reading": "こうしょさぎょう",
+      "en": "work at height",
+      "def": "{高|たか}さが2メートル{以上|いじょう}のところで{作業|さぎょう}すること。{頭傷防止|とうしょうぼうし}のためヘルメットを{着用|ちゃくよう}する。",
+      "def_en": "Working at a height of 2 meters or more. A helmet is worn to protect the head.",
+      "page": 47
+    },
+    {
+      "term": "{耐切創手袋|たいせっそうてぶくろ}",
+      "reading": "たいせっそうてぶくろ",
+      "en": "cut-resistant gloves",
+      "def": "{指|ゆび}の{切傷|せっしょう}{防止|ぼうし}のための{手袋|てぶくろ}。ステンレス{鋼|こう}の{網|あみ}でつくられた「くさり{手袋|てぶくろ}」や、{切|き}れにくい{繊維|せんい}で{編|あ}んだ「メクセル{手袋|てぶくろ}」がある。",
+      "def_en": "Gloves that prevent cuts to the fingers. Types include \"chain gloves\" made of stainless steel mesh and \"Mexcel gloves\" knitted from cut-resistant fiber.",
+      "page": 47
+    },
+    {
+      "term": "{安全靴|あんぜんぐつ}",
+      "reading": "あんぜんぐつ",
+      "en": "safety shoes",
+      "def": "つま{先|さき}・かかとに{鋼板|こうはん}やプラスチック{板|ばん}を{装着|そうちゃく}してあり、つま{先|さき}・かかとのケガ（{足|あし}の{圧傷|あっしょう}）を{防|ふせ}ぐ{靴|くつ}。",
+      "def_en": "Shoes with steel or plastic plates in the toe and heel that prevent crush injuries to the toes and heels.",
+      "page": 47
+    },
+    {
+      "term": "{作業手順書|さぎょうてじゅんしょ}",
+      "reading": "さぎょうてじゅんしょ",
+      "en": "work procedure manual",
+      "def": "{労働災害|ろうどうさいがい}を{予防|よぼう}するためにやらなければならないことなどが{書|か}かれた{書類|しょるい}。{書|か}かれていることを{守|まも}って{作業|さぎょう}しなければいけない。",
+      "def_en": "A document that describes what must be done to prevent work accidents. You must follow what it says when you work.",
+      "page": 48
+    },
+    {
+      "term": "{指差呼称|しさこしょう}",
+      "reading": "しさこしょう",
+      "en": "pointing and calling",
+      "def": "{信号|しんごう}、{標識|ひょうしき}、{器具|きぐ}、{作業対象|さぎょうたいしょう}などを{指|ゆび}で{指|さ}しながら、その{名称|めいしょう}や{状態|じょうたい}を{声|こえ}に{出|だ}して{言|い}うこと。{危険|きけん}の{予防|よぼう}や{安全|あんぜん}の{確認|かくにん}のためにおこなう。",
+      "def_en": "Pointing at signals, signs, tools or work items and saying their name and condition out loud. It is done to prevent danger and confirm safety.",
+      "page": 49
+    },
+    {
+      "term": "{安全標識|あんぜんひょうしき}",
+      "reading": "あんぜんひょうしき",
+      "en": "safety sign",
+      "def": "{作業者|さぎょうしゃ}が{仕事中|しごとちゅう}にケガをしないように、しなければならないことや{注意|ちゅうい}しなければならないことを、{見|み}やすく{分|わ}かりやすく{示|しめ}したもの。",
+      "def_en": "A sign that clearly shows what must be done and what must be watched out for, so that workers do not get hurt during work.",
+      "page": 49
+    },
+    {
+      "term": "{始業前点検|しぎょうまえてんけん}",
+      "reading": "しぎょうまえてんけん",
+      "en": "pre-start inspection",
+      "def": "{設備|せつび}・{機械|きかい}を{使|つか}う{作業|さぎょう}を{始|はじ}める{前|まえ}に、{汚|よご}れやはさまり、{変|へん}な{臭|にお}い、{音|おと}や{振動|しんどう}、{刃|は}のかけ、{足|た}りない{部品|ぶひん}、{安全装置|あんぜんそうち}やランプなどに{異常|いじょう}がないことを{確認|かくにん}する{作業|さぎょう}。",
+      "def_en": "Checking before starting work with equipment that there is nothing abnormal: dirt or jams, strange smells, sounds or vibration, chipped blades, missing parts, safety devices and lamps.",
+      "page": 49
+    },
+    {
+      "term": "{非常停止|ひじょうていし}ボタン",
+      "reading": "ひじょうていしぼたん",
+      "en": "emergency stop button",
+      "def": "{操作盤|そうさばん}についているボタンで、{押|お}すとすぐに{機械|きかい}が{止|と}まる。{異常|いじょう}なことが{起|お}こったときに{一番|いちばん}{大切|たいせつ}なことは「まず{機械|きかい}を{止|と}める」こと。",
+      "def_en": "A button on the control panel that stops the machine immediately. When something abnormal happens, the most important thing is to stop the machine first.",
+      "page": 50
+    },
+    {
+      "term": "フェールセーフ（fail safe）",
+      "reading": "ふぇーるせーふ",
+      "en": "fail safe",
+      "def": "{部品|ぶひん}が{壊|こわ}れたり{製品|せいひん}がつまったりしたときに、{機械|きかい}が{自動的|じどうてき}に{止|と}まる{仕組|しく}み。{扉|とびら}を{開|あ}けると{機械|きかい}が{止|と}まる{安全装置|あんぜんそうち}もこの{仕組|しく}み。",
+      "def_en": "A design where the machine stops automatically when a part breaks or a product jams. A safety device that stops the machine when a door is opened is also fail safe.",
+      "page": 51
+    },
+    {
+      "term": "フールプルーフ（fool proof）",
+      "reading": "ふーるぷるーふ",
+      "en": "fool proof",
+      "def": "{人|ひと}がうっかりしたり{思|おも}い{違|ちが}いをしたりしても{災害|さいがい}にならないように{工夫|くふう}された{仕組|しく}み。コンベアの{安全|あんぜん}カバーは、{手|て}が{入|はい}らないようにするフールプルーフの{仕組|しく}み。",
+      "def_en": "A design that prevents an accident even if a person is careless or misunderstands. The safety cover on a conveyor is fool proof because it stops hands from entering.",
+      "page": 51
+    },
+    {
+      "term": "{塩素|えんそ}ガス",
+      "reading": "えんそがす",
+      "en": "chlorine gas",
+      "def": "{塩素系|えんそけい}の{洗剤|せんざい}と{酸性洗剤|さんせいせんざい}を{混|ま}ぜて{同時|どうじ}に{使|つか}うと{発生|はっせい}する{有毒|ゆうどく}なガス。とても{危険|きけん}なので、{洗剤|せんざい}を{使|つか}うルールを{守|まも}る。",
+      "def_en": "A poisonous gas made when chlorine-based and acidic cleaners are mixed and used together. It is very dangerous, so follow the rules for using cleaners.",
+      "page": 52
+    },
+    {
+      "term": "{二次災害|にじさいがい}",
+      "reading": "にじさいがい",
+      "en": "secondary accident",
+      "def": "{労働災害|ろうどうさいがい}が{起|お}こったとき、{助|たす}けようとした{人|ひと}も{労働災害|ろうどうさいがい}にあってしまうこと。だから、あわてて{近|ちか}づいてはいけない。",
+      "def_en": "When an accident happens and the person who tries to help is also injured. This is why you must not rush over.",
+      "page": 53
+    },
+    {
+      "term": "ヒヤリ・ハット",
+      "reading": "ひやり・はっと",
+      "en": "near-miss (hiyari-hatto)",
+      "def": "{作業|さぎょう}をしていて、もう{少|すこ}しでケガをするところだった、ということ。「ヒヤリとした」「ハッとした」から{名前|なまえ}がついた。",
+      "def_en": "A situation where you almost got injured during work. The name comes from the Japanese words for a sudden scare.",
+      "page": 54
+    },
+    {
+      "term": "ハインリッヒの{法則|ほうそく}",
+      "reading": "はいんりっひのほうそく",
+      "en": "Heinrich's Law",
+      "def": "1つの{大|おお}きな{労働災害|ろうどうさいがい}が{起|お}こるまでに、{同|おな}じ{原因|げんいん}で{軽|かる}いケガや{小|ちい}さな{災害|さいがい}が29{件|けん}、ヒヤリ・ハットが300{件|けん}{起|お}こっているという{法則|ほうそく}。",
+      "def_en": "A rule saying that before one serious accident there are 29 minor injuries and 300 near-misses from the same cause.",
+      "page": 54
+    },
+    {
+      "term": "ヒヤリ・ハット{活動|かつどう}",
+      "reading": "ひやり・はっとかつどう",
+      "en": "near-miss reporting activity",
+      "def": "{自分|じぶん}が{体験|たいけん}したヒヤリ・ハットを{報告|ほうこく}し{合|あ}って{記録|きろく}し、{工場内|こうじょうない}の{全員|ぜんいん}で{共有|きょうゆう}して、{原因|げんいん}とその{対策|たいさく}を{全員|ぜんいん}で{考|かんが}え、{工場内|こうじょうない}を{良|よ}くしていく{活動|かつどう}。",
+      "def_en": "An activity where workers report their own near-misses, record them, share them with everyone in the factory, and think together about causes and countermeasures to improve the factory.",
+      "page": 55
+    },
+    {
+      "term": "{危険予知訓練|きけんよちくんれん}（KYT）",
+      "reading": "きけんよちくんれん",
+      "en": "Kiken Yochi Training (hazard prediction training)",
+      "def": "{実際|じっさい}に{体験|たいけん}しなくても、{作業場|さぎょうじょう}や{作業|さぎょう}のどこにどのような{危険|きけん}（{潜在的|せんざいてき}な{危険|きけん}）がかくれているかに{気|き}がつき、その{危険|きけん}から{起|お}こる{労働災害|ろうどうさいがい}を{防|ふせ}ぐ{方法|ほうほう}を{考|かんが}える{力|ちから}をつける{訓練|くんれん}。Kiken Yochi Trainingの{初|はじ}めの{文字|もじ}をとってKYTという。",
+      "def_en": "Training to notice hidden (potential) dangers in the workplace without experiencing them, and to think about how to prevent accidents from them. KYT comes from the first letters of Kiken Yochi Training.",
+      "page": 55
+    },
+    {
+      "term": "{潜在的|せんざいてき}な{危険|きけん}",
+      "reading": "せんざいてきなきけん",
+      "en": "hidden (potential) danger",
+      "def": "{作業場|さぎょうじょう}や{作業|さぎょう}にかくれている{危険|きけん}。{仕事|しごと}を{始|はじ}める{前|まえ}や{新|あたら}しい{作業|さぎょう}を{学|まな}ぶときに、どのような{危険|きけん}がかくれているかを{考|かんが}える。",
+      "def_en": "Danger hidden in the workplace or in a task. Before starting work or learning a new task, think about what dangers may be hidden.",
+      "page": 55
+    }
+  ]
+}

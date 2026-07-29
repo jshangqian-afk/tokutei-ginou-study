@@ -1,0 +1,16 @@
+{
+  "name": "tokutei-ginou-study",
+  "version": "1.0.0",
+  "private": true,
+  "description": "特定技能1号 飲食料品製造業 評価試験 学習アプリ",
+  "type": "module",
+  "scripts": {
+    "build": "python3 src/build.py",
+    "icons": "python3 src/icons.py",
+    "test": "node test/test-app.mjs",
+    "serve": "python3 -m http.server 8898"
+  },
+  "devDependencies": {
+    "playwright": "^1.49.0"
+  }
+}

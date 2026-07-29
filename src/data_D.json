@@ -1,0 +1,955 @@
+{
+  "questions": [
+    {
+      "id": "D01",
+      "chapter": "{第|だい}3{章|しょう} {労働|ろうどう}{安全|あんぜん}",
+      "topic": "{転倒|てんとう}{災害|さいがい}",
+      "type": "gakka",
+      "q": "トレーを{両手|りょうて}で{持|も}って{歩|ある}いていたとき、{床|ゆか}で{滑|すべ}って{転倒|てんとう}しそうになりました。テキストが{示|しめ}すこの{事例|じれい}の{原因|げんいん}はどれですか。",
+      "q_en": "A worker carrying a tray with both hands almost slipped and fell on the floor. According to the text, what was the cause?",
+      "choices": [
+        "{床|ゆか}の{水|みず}をきちんとふき{取|と}っていなかった",
+        "{靴|くつ}のサイズが{合|あ}っていなかった",
+        "{照明|しょうめい}が{暗|くら}くて{足元|あしもと}が{見|み}えなかった"
+      ],
+      "choices_en": [
+        "The water on the floor had not been wiped up properly",
+        "The shoes were the wrong size",
+        "The lighting was too dark to see the feet"
+      ],
+      "answer": 0,
+      "explain": "{事例|じれい}の{原因|げんいん}は「{床|ゆか}の{水|みず}をきちんとふき{取|と}っていなかった」ことです。{対策|たいさく}は「{床|ゆか}が{濡|ぬ}れている{場合|ばあい}は{床|ゆか}の{水|みず}をきちんとふき{取|と}る」ことです。",
+      "explain_en": "The cause was that the water on the floor had not been wiped up properly. The countermeasure is to wipe the floor water up properly whenever the floor is wet.",
+      "page": 56
+    },
+    {
+      "id": "D02",
+      "chapter": "{第|だい}3{章|しょう} {労働|ろうどう}{安全|あんぜん}",
+      "topic": "{転倒|てんとう}{災害|さいがい}",
+      "type": "jitsugi",
+      "q": "{調理場|ちょうりば}を{歩|ある}いていて、{床|ゆか}が{水|みず}で{濡|ぬ}れているのに{気|き}がつきました。{最|もっと}も{適切|てきせつ}な{行動|こうどう}はどれですか。",
+      "q_en": "While walking in the kitchen you notice that the floor is wet with water. What is the best action?",
+      "choices": [
+        "{濡|ぬ}れていない{場所|ばしょ}を{選|えら}んで{早足|はやあし}で{通|とお}る",
+        "{床|ゆか}の{水|みず}をきちんとふき{取|と}る",
+        "{乾|かわ}くまでそのままにして{作業|さぎょう}を{続|つづ}ける"
+      ],
+      "choices_en": [
+        "Choose a dry spot and walk quickly past it",
+        "Wipe the water on the floor up properly",
+        "Leave it until it dries and keep working"
+      ],
+      "answer": 1,
+      "explain": "{転倒|てんとう}{災害|さいがい}の{対策|たいさく}として、{床|ゆか}が{濡|ぬ}れている{場合|ばあい}は{床|ゆか}の{水|みず}をきちんとふき{取|と}ることがテキストに{示|しめ}されています。",
+      "explain_en": "The text says that when the floor is wet, the water must be wiped up properly. This is the countermeasure for slip-and-fall accidents.",
+      "page": 56
+    },
+    {
+      "id": "D03",
+      "chapter": "{第|だい}3{章|しょう} {労働|ろうどう}{安全|あんぜん}",
+      "topic": "{転倒|てんとう}{災害|さいがい}",
+      "type": "jitsugi",
+      "q": "パンが{入|はい}った{箱|はこ}を{両手|りょうて}で{持|も}ち、トラックまで{運|はこ}びます。{転倒|てんとう}しないために{最|もっと}も{適切|てきせつ}な{方法|ほうほう}はどれですか。",
+      "q_en": "You must carry boxes of bread with both hands to a truck. What is the best way to avoid tripping and falling?",
+      "choices": [
+        "{足元|あしもと}が{見|み}えないので、{早|はや}く{歩|ある}いて{通|とお}り{過|す}ぎる",
+        "{一度|いちど}で{運|はこ}べるように、できるだけ{高|たか}く{箱|はこ}を{重|かさ}ねて{持|も}つ",
+        "{前|まえ}が{見|み}える{数|かず}の{箱|はこ}だけを{持|も}ち、{作業|さぎょう}{開始|かいし}{前|まえ}に{通路|つうろ}の{安全|あんぜん}を{確認|かくにん}する"
+      ],
+      "choices_en": [
+        "Since you cannot see your feet, walk fast to get past quickly",
+        "Stack the boxes as high as possible so you can carry them in one trip",
+        "Carry only as many boxes as still let you see ahead, and check the passage is safe before starting"
+      ],
+      "answer": 2,
+      "explain": "{事例|じれい}では{パン箱|ぱんばこ}を{重|かさ}ねて{持|も}ったため{足元|あしもと}が{見|み}えず、{通路|つうろ}の{空箱|からばこ}につまずきそうになりました。{対策|たいさく}は{前|まえ}が{見|み}える{数|かず}の{箱|はこ}を{持|も}つこと、{作業|さぎょう}{開始|かいし}{前|まえ}に{通路|つうろ}の{安全|あんぜん}を{確認|かくにん}することです。",
+      "explain_en": "In the case study the worker stacked bread boxes, could not see the floor, and almost tripped on an empty box in the passage. The countermeasures are to carry only as many boxes as let you see ahead and to check the passage before starting work.",
+      "page": 57
+    },
+    {
+      "id": "D04",
+      "chapter": "{第|だい}3{章|しょう} {労働|ろうどう}{安全|あんぜん}",
+      "topic": "{転倒|てんとう}{災害|さいがい}",
+      "type": "gakka",
+      "q": "{通路|つうろ}に{置|お}かれていた{空箱|からばこ}につまずいた{事例|じれい}の{対策|たいさく}として、テキストに{書|か}かれているものはどれですか。",
+      "q_en": "Which countermeasure does the text give for the case of tripping over an empty box left in the passage?",
+      "choices": [
+        "{通路|つうろ}に{置|お}く{物|もの}には{名前|なまえ}を{書|か}いておく",
+        "{作業|さぎょう}で{使|つか}う{物|もの}でも、{通路|つうろ}に{物|もの}を{置|お}いたままにしない",
+        "{通路|つうろ}を{通|とお}るときは{必|かなら}ず{二人|ふたり}で{歩|ある}く"
+      ],
+      "choices_en": [
+        "Write your name on anything you put in the passage",
+        "Do not leave things in the passage, even items used for work",
+        "Always walk through the passage in pairs"
+      ],
+      "answer": 1,
+      "explain": "{対策|たいさく}は「{作業|さぎょう}で{使|つか}う{物|もの}でも、{通路|つうろ}に{物|もの}を{置|お}いたままにしない」「{作業|さぎょう}{開始|かいし}{前|まえ}には{通路|つうろ}の{安全|あんぜん}を{確認|かくにん}する」などです。",
+      "explain_en": "The countermeasures are: do not leave objects in the passage even if they are used for work, and check the safety of the passage before starting work.",
+      "page": 57
+    },
+    {
+      "id": "D05",
+      "chapter": "{第|だい}3{章|しょう} {労働|ろうどう}{安全|あんぜん}",
+      "topic": "{転倒|てんとう}{災害|さいがい}",
+      "type": "jitsugi",
+      "q": "{作業|さぎょう}を{始|はじ}める{前|まえ}に、{通路|つうろ}に{他|ほか}の{人|ひと}が{使|つか}う{空箱|からばこ}が{置|お}かれているのを{見|み}つけました。どうしますか。",
+      "q_en": "Before starting work you find empty boxes belonging to another worker left in the passage. What should you do?",
+      "choices": [
+        "{自分|じぶん}の{荷物|にもつ}もその{横|よこ}に{置|お}いておく",
+        "{他|ほか}の{人|ひと}の{物|もの}なので、そのままにして{よけて|よけて}{通|とお}る",
+        "{通路|つうろ}に{物|もの}を{置|お}いたままにしないので、{片付|かたづ}けて{通路|つうろ}の{安全|あんぜん}を{確認|かくにん}する"
+      ],
+      "choices_en": [
+        "Put your own load next to them as well",
+        "Leave them because they belong to someone else, and just walk around them",
+        "Put them away and check the passage is safe, because nothing should be left in a passage"
+      ],
+      "answer": 2,
+      "explain": "{通路|つうろ}に{物|もの}を{置|お}いたままにしないこと、{作業|さぎょう}{開始|かいし}{前|まえ}に{通路|つうろ}の{安全|あんぜん}を{確認|かくにん}することが{転倒|てんとう}{防止|ぼうし}の{基本|きほん}です。",
+      "explain_en": "Never leave objects in a passage, and check that the passage is safe before starting work. These are the basics of preventing trips and falls.",
+      "page": 57
+    },
+    {
+      "id": "D06",
+      "chapter": "{第|だい}3{章|しょう} {労働|ろうどう}{安全|あんぜん}",
+      "topic": "はさまれ・{巻|ま}き{込|こ}まれ{災害|さいがい}",
+      "type": "gakka",
+      "q": "{製品|せいひん}がつまって{止|と}まった{包装|ほうそう}ラインのカバーを{開|あ}けたところ、{突然|とつぜん}{機械|きかい}が{動|うご}き{出|だ}して{手|て}がはさまれそうになりました。この{事例|じれい}の{原因|げんいん}はどれですか。",
+      "q_en": "A worker opened the cover of a stopped packaging line and the machine suddenly started, nearly catching his hand. What was the cause?",
+      "choices": [
+        "{停止|ていし}ボタンを{押|お}して{完全|かんぜん}に{停止|ていし}するのを{確認|かくにん}しなかった",
+        "{手袋|てぶくろ}をしていなかった",
+        "{二人|ふたり}で{作業|さぎょう}をしなかった"
+      ],
+      "choices_en": [
+        "He did not press the stop button and confirm the line had completely stopped",
+        "He was not wearing gloves",
+        "He did not do the work with a second person"
+      ],
+      "answer": 0,
+      "explain": "{原因|げんいん}は{停止|ていし}ボタンを{押|お}して{包装|ほうそう}ラインが{完全|かんぜん}に{停止|ていし}するのを{確認|かくにん}しなかったこと、カバーを{開|あ}けると{自動的|じどうてき}に{止|と}まる{安全|あんぜん}{装置|そうち}がなかったことです。",
+      "explain_en": "The causes were that he did not press the stop button and confirm the line had fully stopped, and that there was no safety device to stop the machine automatically when the cover is opened.",
+      "page": 58
+    },
+    {
+      "id": "D07",
+      "chapter": "{第|だい}3{章|しょう} {労働|ろうどう}{安全|あんぜん}",
+      "topic": "はさまれ・{巻|ま}き{込|こ}まれ{災害|さいがい}",
+      "type": "jitsugi",
+      "q": "{包装|ほうそう}ラインの{機械|きかい}が{製品|せいひん}のつまりで{止|と}まりました。つまった{製品|せいひん}を{取|と}り{除|のぞ}くとき、{最|もっと}も{適切|てきせつ}な{行動|こうどう}はどれですか。",
+      "q_en": "A packaging line has stopped because a product is jammed. What is the best way to remove the jammed product?",
+      "choices": [
+        "{手袋|てぶくろ}を{二重|にじゅう}にしてから{手早|てばや}く{取|と}り{除|のぞ}く",
+        "{機械|きかい}が{止|と}まっているので、そのままカバーを{開|あ}けて{手|て}を{入|い}れる",
+        "{停止|ていし}ボタンを{押|お}して{機械|きかい}が{完全|かんぜん}に{止|と}まったことを{確認|かくにん}してから{作業|さぎょう}する"
+      ],
+      "choices_en": [
+        "Put on two pairs of gloves and remove it quickly",
+        "The machine is already stopped, so just open the cover and reach in",
+        "Press the stop button, confirm the machine has completely stopped, then start work"
+      ],
+      "answer": 2,
+      "explain": "{対策|たいさく}は「{作業|さぎょう}をする{前|まえ}に{停止|ていし}ボタンを{押|お}して、{止|と}まるのを{確認|かくにん}してから{作業|さぎょう}を{始|はじ}める」ことです。つまりで{止|と}まっただけの{機械|きかい}は{突然|とつぜん}{動|うご}き{出|だ}すことがあります。",
+      "explain_en": "The countermeasure is to press the stop button before working and confirm the machine has stopped. A machine that only stopped because of a jam can suddenly start moving again.",
+      "page": 58
+    },
+    {
+      "id": "D08",
+      "chapter": "{第|だい}3{章|しょう} {労働|ろうどう}{安全|あんぜん}",
+      "topic": "はさまれ・{巻|ま}き{込|こ}まれ{災害|さいがい}",
+      "type": "jitsugi",
+      "q": "ベルトコンベアをぞうきんで{清掃|せいそう}するように{言|い}われました。どうするのが{正|ただ}しいですか。",
+      "q_en": "You are told to clean a belt conveyor with a cloth. What is the correct way?",
+      "choices": [
+        "{停止|ていし}ボタンを{押|お}して{確実|かくじつ}に{止|と}まったことを{確認|かくにん}してから{清掃|せいそう}する",
+        "{動|うご}かしたまま{清掃|せいそう}したほうが{早|はや}いので、そのまま{拭|ふ}く",
+        "ぞうきんを{長|なが}く{持|も}って、{手|て}を{離|はな}して{拭|ふ}く"
+      ],
+      "choices_en": [
+        "Press the stop button, confirm it has surely stopped, then clean",
+        "Cleaning while it runs is faster, so wipe it as it moves",
+        "Hold the cloth by a long end and wipe with your hand away from the belt"
+      ],
+      "answer": 0,
+      "explain": "{事例|じれい}では{ベルトコンベア|べるとこんべあ}を{止|と}めずに{清掃|せいそう}し、ぞうきんが{引|ひ}っ{掛|か}かって{手|て}が{巻|ま}き{込|こ}まれそうになりました。{清掃|せいそう}・{異物|いぶつ}の{除去|じょきょ}・{検査|けんさ}・{修理|しゅうり}{等|とう}のときは{停止|ていし}ボタンを{押|お}し、{機械|きかい}が{確実|かくじつ}に{止|と}まったことを{確認|かくにん}してから{作業|さぎょう}します。",
+      "explain_en": "In the case study the worker cleaned the conveyor without stopping it, the cloth was caught, and his hand was nearly pulled in. For cleaning, removing foreign objects, inspection and repair, press the stop button and confirm the machine has surely stopped first.",
+      "page": 58
+    },
+    {
+      "id": "D09",
+      "chapter": "{第|だい}3{章|しょう} {労働|ろうどう}{安全|あんぜん}",
+      "topic": "はさまれ・{巻|ま}き{込|こ}まれ{災害|さいがい}",
+      "type": "gakka",
+      "q": "{包装|ほうそう}ラインの{事例|じれい}で、{設備|せつび}に{付|つ}けるべきものとしてテキストが{挙|あ}げている{安全|あんぜん}{装置|そうち}はどれですか。",
+      "q_en": "In the packaging line case, which safety device does the text say should be fitted to the equipment?",
+      "choices": [
+        "{機械|きかい}が{止|と}まると{音楽|おんがく}が{鳴|な}る{装置|そうち}",
+        "カバーを{開|あ}けると{機械|きかい}が{自動的|じどうてき}に{止|と}まる{装置|そうち}",
+        "{製品|せいひん}の{数|かず}を{自動的|じどうてき}に{数|かぞ}える{装置|そうち}"
+      ],
+      "choices_en": [
+        "A device that plays music when the machine stops",
+        "A device that stops the machine automatically when the cover is opened",
+        "A device that counts the products automatically"
+      ],
+      "answer": 1,
+      "explain": "{対策|たいさく}として「カバーを{開|あ}けると{機械|きかい}が{自動的|じどうてき}に{止|と}まる{安全|あんぜん}{装置|そうち}をつける」ことが{示|しめ}されています。",
+      "explain_en": "The text says to fit a safety device that automatically stops the machine when the cover is opened.",
+      "page": 58
+    },
+    {
+      "id": "D10",
+      "chapter": "{第|だい}3{章|しょう} {労働|ろうどう}{安全|あんぜん}",
+      "topic": "はさまれ・{巻|ま}き{込|こ}まれ{災害|さいがい}",
+      "type": "jitsugi",
+      "q": "{機械|きかい}を{止|と}めてから{作業|さぎょう}しなければならないのは、どのような{作業|さぎょう}のときですか。テキストの{記述|きじゅつ}に{最|もっと}も{近|ちか}いものを{選|えら}びなさい。",
+      "q_en": "For which kinds of work must the machine be stopped first? Choose the answer closest to the text.",
+      "choices": [
+        "{製品|せいひん}を{箱|はこ}に{詰|つ}める{作業|さぎょう}だけ",
+        "{清掃|せいそう}、{異物|いぶつ}の{除去|じょきょ}、{検査|けんさ}、{修理|しゅうり}{等|とう}の{作業|さぎょう}",
+        "{作業|さぎょう}{日誌|にっし}を{書|か}く{作業|さぎょう}だけ"
+      ],
+      "choices_en": [
+        "Only work that puts products into boxes",
+        "Cleaning, removing foreign objects, inspection, repair and similar work",
+        "Only writing the work log"
+      ],
+      "answer": 1,
+      "explain": "テキストには「{清掃|せいそう}、{異物|いぶつ}の{除去|じょきょ}、{検査|けんさ}、{修理|しゅうり}{等|とう}の{作業|さぎょう}をするときは、{停止|ていし}ボタンを{押|お}して、{機械|きかい}が{確実|かくじつ}に{止|と}まったことを{確認|かくにん}してから{作業|さぎょう}をする」と{書|か}かれています。",
+      "explain_en": "The text states: when doing cleaning, removing foreign objects, inspection, repair and similar work, press the stop button and confirm the machine has surely stopped before starting.",
+      "page": 58
+    },
+    {
+      "id": "D11",
+      "chapter": "{第|だい}3{章|しょう} {労働|ろうどう}{安全|あんぜん}",
+      "topic": "{切|き}れ・こすれ{災害|さいがい}",
+      "type": "gakka",
+      "q": "{食|しょく}パンをスライサーで{切|き}るとき、{指|ゆび}が{刃|は}で{切|き}れないようにするための{道具|どうぐ}はどれですか。",
+      "q_en": "When slicing bread with a slicer, which tool is used so that your fingers are not cut by the blade?",
+      "choices": [
+        "{押|お}し{板|いた}",
+        "まな{板|いた}",
+        "トレー"
+      ],
+      "choices_en": [
+        "A pusher board",
+        "A cutting board",
+        "A tray"
+      ],
+      "answer": 0,
+      "explain": "{事例|じれい}の{原因|げんいん}は「{押|お}し{板|いた}を{使|つか}わないで、{手|て}で{食|しょく}パンを{押|お}しながらスライスしていた」ことです。{対策|たいさく}はスライサーを{使|つか}うときは{押|お}し{板|いた}を{使|つか}ってパンを{押|お}し{出|だ}すことです。",
+      "explain_en": "The cause was pushing the bread by hand instead of using the pusher board. The countermeasure is to use the pusher board to feed the bread when using a slicer.",
+      "page": 59
+    },
+    {
+      "id": "D12",
+      "chapter": "{第|だい}3{章|しょう} {労働|ろうどう}{安全|あんぜん}",
+      "topic": "{切|き}れ・こすれ{災害|さいがい}",
+      "type": "jitsugi",
+      "q": "{作業台|さぎょうだい}でスライサーを{使|つか}って{食|しょく}パンを{切|き}ります。{最|もっと}も{安全|あんぜん}な{方法|ほうほう}はどれですか。",
+      "q_en": "You are slicing bread with a slicer at the work table. What is the safest method?",
+      "choices": [
+        "{指先|ゆびさき}だけでパンを{軽|かる}く{押|お}して{切|き}る",
+        "{手|て}のひらで{強|つよ}くパンを{押|お}して{早|はや}く{切|き}る",
+        "{押|お}し{板|いた}を{使|つか}ってパンを{押|お}し{出|だ}す"
+      ],
+      "choices_en": [
+        "Push the bread lightly with just your fingertips",
+        "Press the bread hard with your palm to cut faster",
+        "Use the pusher board to feed the bread"
+      ],
+      "answer": 2,
+      "explain": "スライサーを{使|つか}うときは{押|お}し{板|いた}を{使|つか}ってパンを{押|お}し{出|だ}します。{手|て}で{押|お}すと{指|ゆび}が{刃|は}に{触|ふ}れて{切|き}れる{危険|きけん}があります。",
+      "explain_en": "Always use the pusher board to feed the bread into a slicer. Pushing by hand risks your fingers touching the blade.",
+      "page": 59
+    },
+    {
+      "id": "D13",
+      "chapter": "{第|だい}3{章|しょう} {労働|ろうどう}{安全|あんぜん}",
+      "topic": "{切|き}れ・こすれ{災害|さいがい}",
+      "type": "jitsugi",
+      "q": "{冷凍|れいとう}した{魚|さかな}を{包丁|ほうちょう}で{切|き}る{作業|さぎょう}をします。{手|て}を{切|き}らないために{最|もっと}も{適切|てきせつ}な{準備|じゅんび}はどれですか。",
+      "q_en": "You will cut frozen fish with a kitchen knife. What is the best preparation to avoid cutting your hand?",
+      "choices": [
+        "{耐切創|たいせっそう}{手袋|てぶくろ}を{着用|ちゃくよう}し、{冷凍|れいとう}した{魚|さかな}に{合|あ}わせた{押|お}さえ{方|かた}・{切|き}り{方|かた}をする",
+        "{手|て}が{滑|すべ}らないように{手袋|てぶくろ}をせず{素手|すで}で{押|お}さえる",
+        "{包丁|ほうちょう}をよく{濡|ぬ}らしてから{力|ちから}を{入|い}れて{切|き}る"
+      ],
+      "choices_en": [
+        "Wear cut-resistant gloves and use a holding and cutting method suited to frozen fish",
+        "Hold it with bare hands so your hands do not slip inside gloves",
+        "Wet the knife well and cut with strong force"
+      ],
+      "answer": 0,
+      "explain": "{事例|じれい}の{原因|げんいん}は{左手|ひだりて}に{切|き}れ{防止|ぼうし}{用|よう}の{保護|ほご}{手袋|てぶくろ}（{耐切創|たいせっそう}{手袋|てぶくろ}）をしていなかったことです。{対策|たいさく}は{作業|さぎょう}{姿勢|しせい}や{加工|かこう}する{冷凍|れいとう}した{魚|さかな}に{合|あ}わせた{押|お}さえ{方|かた}・{切|き}り{方|かた}をすること、{耐切創|たいせっそう}{手袋|てぶくろ}を{着用|ちゃくよう}することです。",
+      "explain_en": "The cause was not wearing a cut-resistant protective glove on the left hand. The countermeasures are to use a holding and cutting method suited to the posture and to the frozen fish, and to wear cut-resistant gloves.",
+      "page": 59
+    },
+    {
+      "id": "D14",
+      "chapter": "{第|だい}3{章|しょう} {労働|ろうどう}{安全|あんぜん}",
+      "topic": "{切|き}れ・こすれ{災害|さいがい}",
+      "type": "gakka",
+      "q": "「{耐切創|たいせっそう}{手袋|てぶくろ}」とはどのような{手袋|てぶくろ}ですか。",
+      "q_en": "What kind of glove is a cut-resistant glove?",
+      "choices": [
+        "{水|みず}を{通|とお}さないための{手袋|てぶくろ}",
+        "{熱|ねつ}から{手|て}を{守|まも}るための{手袋|てぶくろ}",
+        "{切|き}れ{防止|ぼうし}{用|よう}の{保護|ほご}{手袋|てぶくろ}"
+      ],
+      "choices_en": [
+        "A glove that keeps water out",
+        "A glove to protect hands from heat",
+        "A protective glove for preventing cuts"
+      ],
+      "answer": 2,
+      "explain": "テキストでは「{切|き}れ{防止|ぼうし}{用|よう}の{保護|ほご}{手袋|てぶくろ}（{耐切創|たいせっそう}{手袋|てぶくろ}）」と{説明|せつめい}されています。{刃物|はもの}{作業|さぎょう}では{着用|ちゃくよう}します。",
+      "explain_en": "The text calls it a protective glove for preventing cuts. Wear it for work with knives and blades.",
+      "page": 59
+    },
+    {
+      "id": "D15",
+      "chapter": "{第|だい}3{章|しょう} {労働|ろうどう}{安全|あんぜん}",
+      "topic": "{落|お}ちる{災害|さいがい}",
+      "type": "jitsugi",
+      "q": "{棚|たな}から{製品|せいひん}を{取|と}り{出|だ}すために{脚立|きゃたつ}を{使|つか}います。{落|お}ちないために{最|もっと}も{適切|てきせつ}な{方法|ほうほう}はどれですか。",
+      "q_en": "You will use a stepladder to take a product from a shelf. What is the best way to avoid falling?",
+      "choices": [
+        "{両手|りょうて}で{製品|せいひん}を{持|も}ち、バランスを{取|と}りながら{素早|すばや}く{降|お}りる",
+        "「{開|ひら}き{止|ど}め{金具|かなぐ}」を{必|かなら}ずセットし、{乗|の}り{降|お}りのときは{片手|かたて}を{空|あ}けて{脚立|きゃたつ}をつかむ",
+        "{脚立|きゃたつ}が{動|うご}かないように、{上|うえ}に{乗|の}る{前|まえ}に{製品|せいひん}を{棚|たな}の{端|はし}まで{寄|よ}せておく"
+      ],
+      "choices_en": [
+        "Hold the product with both hands and come down quickly while balancing",
+        "Always set the spreader lock, and keep one hand free to hold the stepladder when going up or down",
+        "Move the product to the edge of the shelf first so the stepladder does not move"
+      ],
+      "answer": 1,
+      "explain": "{事例|じれい}の{原因|げんいん}は{脚立|きゃたつ}の「{開|ひら}き{止|ど}め{金具|かなぐ}」をセットしていなかったこと、{脚立|きゃたつ}が{倒|たお}れないように{押|お}さえる{人|ひと}がいなかったことです。{対策|たいさく}は{開|ひら}き{止|ど}め{金具|かなぐ}を{必|かなら}ずセットして{使|つか}い、{乗|の}り{降|お}りのときは{片手|かたて}を{空|あ}けて{脚立|きゃたつ}をつかむことです。",
+      "explain_en": "The causes were not setting the stepladder's spreader lock and having nobody to steady the ladder. The countermeasure is to always set the spreader lock and to keep one hand free to hold the ladder when climbing up or down.",
+      "page": 59
+    },
+    {
+      "id": "D16",
+      "chapter": "{第|だい}3{章|しょう} {労働|ろうどう}{安全|あんぜん}",
+      "topic": "{落|お}ちる{災害|さいがい}",
+      "type": "gakka",
+      "q": "{脚立|きゃたつ}を{使|つか}うときに{必|かなら}ずセットしなければならない{部品|ぶひん}の{名前|なまえ}はどれですか。",
+      "q_en": "What is the name of the part that must always be set when using a stepladder?",
+      "choices": [
+        "{滑|すべ}り{止|ど}めベルト",
+        "{手|て}すり{金具|かなぐ}",
+        "{開|ひら}き{止|ど}め{金具|かなぐ}"
+      ],
+      "choices_en": [
+        "An anti-slip belt",
+        "A handrail fitting",
+        "The spreader lock (opening stopper)"
+      ],
+      "answer": 2,
+      "explain": "{脚立|きゃたつ}は{必|かなら}ず「{開|ひら}き{止|ど}め{金具|かなぐ}」をセットして{使|つか}います。セットしないと{脚立|きゃたつ}が{動|うご}いてバランスを{崩|くず}し、{落|お}ちる{危険|きけん}があります。",
+      "explain_en": "A stepladder must always be used with the spreader lock set. Without it the ladder can move, you lose balance, and you may fall.",
+      "page": 59
+    },
+    {
+      "id": "D17",
+      "chapter": "{第|だい}3{章|しょう} {労働|ろうどう}{安全|あんぜん}",
+      "topic": "{落|お}ちる{災害|さいがい}",
+      "type": "jitsugi",
+      "q": "{高|たか}い{棚|たな}から{大|おお}きくて{重|おも}い{製品|せいひん}を{下|お}ろす{計画|けいかく}を{立|た}てます。テキストの{対策|たいさく}に{合|あ}うものはどれですか。",
+      "q_en": "You are planning how to take a large, heavy product down from a high shelf. Which plan matches the text's countermeasure?",
+      "choices": [
+        "{落|お}としても{割|わ}れないように{下|した}にトレーを{並|なら}べておく",
+        "{大|おお}きな{製品|せいひん}の{場合|ばあい}は{二人|ふたり}で{作業|さぎょう}する",
+        "{一人|ひとり}で{早|はや}く{下|お}ろして{時間|じかん}を{短|みじか}くする"
+      ],
+      "choices_en": [
+        "Lay trays underneath so it will not break if dropped",
+        "For a large product, do the work with two people",
+        "Take it down alone quickly to save time"
+      ],
+      "answer": 1,
+      "explain": "テキストには「{大|おお}きな{製品|せいひん}の{場合|ばあい}は、{二人|ふたり}で{作業|さぎょう}する」と{示|しめ}されています。また{脚立|きゃたつ}が{倒|たお}れないように{押|お}さえる{人|ひと}が{必要|ひつよう}です。",
+      "explain_en": "The text says that for large products the work should be done by two people. Someone is also needed to steady the stepladder so it does not fall over.",
+      "page": 60
+    },
+    {
+      "id": "D18",
+      "chapter": "{第|だい}3{章|しょう} {労働|ろうどう}{安全|あんぜん}",
+      "topic": "やけど{災害|さいがい}",
+      "type": "gakka",
+      "q": "オーブンの{鉄板|てっぱん}を{素手|すで}で{触|さわ}りそうになった{事例|じれい}の{原因|げんいん}は{何|なに}ですか。",
+      "q_en": "In the case where a worker almost touched an oven tray with bare hands, what was the cause?",
+      "choices": [
+        "オーブンから{取|と}り{出|だ}した{直後|ちょくご}の{鉄板|てっぱん}の{温度|おんど}を{確認|かくにん}しないで{素手|すで}で{運|はこ}ぼうとした",
+        "オーブンの{電源|でんげん}を{切|き}っていなかった",
+        "{鉄板|てっぱん}が{重|おも}すぎて{持|も}てなかった"
+      ],
+      "choices_en": [
+        "He tried to carry the tray bare-handed without checking the temperature right after taking it out of the oven",
+        "He had not switched off the oven",
+        "The tray was too heavy to hold"
+      ],
+      "answer": 0,
+      "explain": "{原因|げんいん}は「オーブンから{取|と}り{出|だ}した{直後|ちょくご}の{鉄板|てっぱん}は{高温|こうおん}なのに、{鉄板|てっぱん}の{温度|おんど}を{確認|かくにん}しないで{素手|すで}で{運|はこ}ぼうとした」ことです。",
+      "explain_en": "The cause was that the tray was very hot right after being taken out of the oven, but he tried to carry it bare-handed without checking its temperature.",
+      "page": 60
+    },
+    {
+      "id": "D19",
+      "chapter": "{第|だい}3{章|しょう} {労働|ろうどう}{安全|あんぜん}",
+      "topic": "やけど{災害|さいがい}",
+      "type": "jitsugi",
+      "q": "オーブンの{鉄板|てっぱん}を{別|べつ}の{作業台|さぎょうだい}に{移|うつ}します。{最|もっと}も{適切|てきせつ}な{手順|てじゅん}はどれですか。",
+      "q_en": "You need to move an oven tray to another work table. What is the best procedure?",
+      "choices": [
+        "{鉄板|てっぱん}の{端|はし}だけを{素手|すで}で{持|も}ち、{急|いそ}いで{運|はこ}ぶ",
+        "{保護|ほご}{手袋|てぶくろ}を{着用|ちゃくよう}し、{運|はこ}ぶ{前|まえ}に{温度|おんど}を{確認|かくにん}して、{高温|こうおん}ならまわりの{人|ひと}にも{声|こえ}をかける",
+        "{冷|つめ}たい{水|みず}を{鉄板|てっぱん}にかけてから{素手|すで}で{運|はこ}ぶ"
+      ],
+      "choices_en": [
+        "Hold only the edge with bare hands and carry it quickly",
+        "Wear protective gloves, check the temperature before carrying it, and if it is hot, warn the people around you",
+        "Pour cold water on the tray, then carry it bare-handed"
+      ],
+      "answer": 1,
+      "explain": "{対策|たいさく}は「{鉄板|てっぱん}、{鍋|なべ}、{釜|かま}などを{持|も}って{運|はこ}ぶときは{保護|ほご}{手袋|てぶくろ}を{着用|ちゃくよう}する」「{運|はこ}ぶ{前|まえ}に{温度|おんど}を{確認|かくにん}して、{高温|こうおん}の{場合|ばあい}はまわりの{人|ひと}にも{気|き}をつけるように{声|こえ}をかける」ことです。",
+      "explain_en": "The countermeasures are: wear protective gloves when carrying trays, pots or kettles, and check the temperature before carrying. If it is hot, call out to warn the people nearby.",
+      "page": 60
+    },
+    {
+      "id": "D20",
+      "chapter": "{第|だい}3{章|しょう} {労働|ろうどう}{安全|あんぜん}",
+      "topic": "やけど{災害|さいがい}・{安全標識|あんぜんひょうしき}",
+      "type": "jitsugi",
+      "q": "{高温|こうおん}の{鉄板|てっぱん}を{置|お}く{作業台|さぎょうだい}のそばに{掲示|けいじ}する{標識|ひょうしき}として、{最|もっと}も{適|てき}しているのはどれですか。",
+      "q_en": "Which sign is most suitable to display near a work table where hot trays are placed?",
+      "choices": [
+        "「{高温|こうおん}{注意|ちゅうい}」「やけど{注意|ちゅうい}」の{標識|ひょうしき}",
+        "「{頭上|ずじょう}{注意|ちゅうい}」の{標識|ひょうしき}",
+        "「{非常口|ひじょうぐち}」の{標識|ひょうしき}"
+      ],
+      "choices_en": [
+        "A HOT SURFACE / burn warning sign",
+        "A WATCH YOUR HEAD sign",
+        "An EMERGENCY EXIT sign"
+      ],
+      "answer": 0,
+      "explain": "{補足|ほそく}{資料|しりょう}の{安全標識|あんぜんひょうしき}の{例|れい}には、やけどをする{危険|きけん}を{知|し}らせる{標識|ひょうしき}として「やけど{注意|ちゅうい}」「{火傷|やけど}{注意|ちゅうい}」「{高温|こうおん}{注意|ちゅうい}（HOT SURFACE）」が{挙|あ}げられています。",
+      "explain_en": "The reference section lists burn-hazard signs such as \"Caution: burns\" and \"HOT SURFACE\" as the signs that warn of burn risk.",
+      "page": 63
+    },
+    {
+      "id": "D21",
+      "chapter": "{第|だい}3{章|しょう} {労働|ろうどう}{安全|あんぜん}",
+      "topic": "{腰痛|ようつう}{災害|さいがい}",
+      "type": "gakka",
+      "q": "{重|おも}い{物|もの}を{持|も}ち{上|あ}げるときの{正|ただ}しい{姿勢|しせい}として、テキストが{示|しめ}しているのはどれですか。",
+      "q_en": "According to the text, what is the correct posture for lifting a heavy object?",
+      "choices": [
+        "{体|からだ}から{離|はな}して{腕|うで}を{伸|の}ばし、{反動|はんどう}をつけて{持|も}ち{上|あ}げる",
+        "{膝|ひざ}を{伸|の}ばしたまま{腰|こし}だけを{曲|ま}げて、{勢|いきお}いよく{持|も}ち{上|あ}げる",
+        "{体|からだ}を{重|おも}い{物|もの}に{近|ちか}づけ、{膝|ひざ}を{曲|ま}げて{腰|こし}を{下|お}ろして{抱|かか}え、{膝|ひざ}を{伸|の}ばしながらゆっくり{立|た}ち{上|あ}がる"
+      ],
+      "choices_en": [
+        "Hold it away from your body with straight arms and lift using momentum",
+        "Keep your knees straight, bend only at the waist, and lift with force",
+        "Bring your body close to the object, bend your knees and lower your hips, hold it, then stand up slowly while straightening your knees"
+      ],
+      "answer": 2,
+      "explain": "{対策|たいさく}は「{重|おも}い{物|もの}を{持|も}ち{上|あ}げるときは、{体|からだ}を{重|おも}い{物|もの}に{近|ちか}づけて、{膝|ひざ}を{曲|ま}げて、{腰|こし}を{下|お}ろして{重|おも}い{物|もの}を{抱|かか}えて、{膝|ひざ}を{伸|の}ばしながらゆっくり{立|た}ち{上|あ}がる」ことです。",
+      "explain_en": "The countermeasure is: bring your body close to the object, bend your knees, lower your hips, hold the object, and stand up slowly while straightening your knees.",
+      "page": 61
+    },
+    {
+      "id": "D22",
+      "chapter": "{第|だい}3{章|しょう} {労働|ろうどう}{安全|あんぜん}",
+      "topic": "{腰痛|ようつう}{災害|さいがい}",
+      "type": "jitsugi",
+      "q": "{重|おも}い{釜|かま}を{床|ゆか}から{持|も}ち{上|あ}げる{必要|ひつよう}があります。{腰|こし}を{痛|いた}めないためにどうしますか。",
+      "q_en": "You must lift a heavy kettle from the floor. What should you do to avoid hurting your back?",
+      "choices": [
+        "{釜|かま}に{体|からだ}を{近|ちか}づけ、{膝|ひざ}を{曲|ま}げて{腰|こし}を{下|お}ろしてから、ゆっくり{立|た}ち{上|あ}がる",
+        "{不安定|ふあんてい}でも、{立|た}ったまま{腰|こし}を{曲|ま}げて{一気|いっき}に{持|も}ち{上|あ}げる",
+        "{釜|かま}を{床|ゆか}の{上|うえ}で{引|ひ}きずって{移動|いどう}させる"
+      ],
+      "choices_en": [
+        "Bring your body close to the kettle, bend your knees and lower your hips, then stand up slowly",
+        "Even if unstable, stay standing, bend at the waist and lift it in one go",
+        "Drag the kettle along the floor to move it"
+      ],
+      "answer": 0,
+      "explain": "{事例|じれい}の{原因|げんいん}は「{不安定|ふあんてい}な{姿勢|しせい}のまま、{重|おも}い{物|もの}を{持|も}ち{上|あ}げようとした」ことです。{体|からだ}を{近|ちか}づけ{膝|ひざ}を{曲|ま}げて{腰|こし}を{下|お}ろす{姿勢|しせい}が{正|ただ}しい{方法|ほうほう}です。",
+      "explain_en": "The cause was trying to lift a heavy object from an unstable posture. The correct way is to come close, bend the knees and lower the hips.",
+      "page": 61
+    },
+    {
+      "id": "D23",
+      "chapter": "{第|だい}3{章|しょう} {労働|ろうどう}{安全|あんぜん}",
+      "topic": "{腰痛|ようつう}{災害|さいがい}",
+      "type": "jitsugi",
+      "q": "{重|おも}い{物|もの}を{遠|とお}くまで{運|はこ}ぶ{作業|さぎょう}の{計画|けいかく}を{立|た}てます。テキストの{対策|たいさく}に{合|あ}うのはどれですか。",
+      "q_en": "You are planning work that involves carrying heavy items a long distance. Which plan matches the text?",
+      "choices": [
+        "{一度|いちど}にたくさん{持|も}って{往復|おうふく}の{回数|かいすう}を{減|へ}らす",
+        "できるだけ{台車|だいしゃ}を{使用|しよう}する",
+        "{腰|こし}を{曲|ま}げた{姿勢|しせい}で{持|も}つと{楽|らく}なのでその{姿勢|しせい}で{運|はこ}ぶ"
+      ],
+      "choices_en": [
+        "Carry a lot at once to reduce the number of trips",
+        "Use a hand cart as much as possible",
+        "Carry with the back bent because it feels easier"
+      ],
+      "answer": 1,
+      "explain": "テキストには「{重|おも}い{物|もの}を{運|はこ}ぶときは、できるだけ{台車|だいしゃ}を{使用|しよう}する」と{示|しめ}されています。",
+      "explain_en": "The text says to use a hand cart as much as possible when carrying heavy items.",
+      "page": 61
+    },
+    {
+      "id": "D24",
+      "chapter": "{第|だい}3{章|しょう} {労働|ろうどう}{安全|あんぜん}",
+      "topic": "{熱中症|ねっちゅうしょう}{災害|さいがい}",
+      "type": "gakka",
+      "q": "{生|なま}あん{工程|こうてい}で{熱中症|ねっちゅうしょう}と{診断|しんだん}された{事例|じれい}の{原因|げんいん}として、テキストに{書|か}かれているものはどれですか。",
+      "q_en": "In the case where a worker was diagnosed with heat illness in the bean paste process, which cause is given in the text?",
+      "choices": [
+        "{厚|あつ}い{防寒|ぼうかん}{着|ぎ}を{着|き}たまま{冷凍庫|れいとうこ}に{入|はい}った",
+        "{冷|つめ}たい{水|みず}を{飲|の}み{過|す}ぎて{体|からだ}が{冷|ひ}えた",
+        "{気温|きおん}と{湿度|しつど}が{高|たか}い{場所|ばしょ}で{休憩|きゅうけい}を{取|と}らないで{作業|さぎょう}を{続|つづ}け、{水分|すいぶん}や{塩分|えんぶん}をとらなかった"
+      ],
+      "choices_en": [
+        "He entered a freezer wearing thick winter clothing",
+        "He drank too much cold water and his body got cold",
+        "He kept working without breaks in a hot, humid place and did not take water or salt"
+      ],
+      "answer": 2,
+      "explain": "{原因|げんいん}は「{気温|きおん}と{湿度|しつど}が{高|たか}い{場所|ばしょ}で、{休憩|きゅうけい}を{取|と}らないで{作業|さぎょう}を{続|つづ}けた」「{汗|あせ}をたくさんかいていたが、{水分|すいぶん}や{塩分|えんぶん}をとらなかった」ことです。",
+      "explain_en": "The causes were continuing work without breaks in a place with high temperature and humidity, and sweating a lot without taking water or salt.",
+      "page": 61
+    },
+    {
+      "id": "D25",
+      "chapter": "{第|だい}3{章|しょう} {労働|ろうどう}{安全|あんぜん}",
+      "topic": "{熱中症|ねっちゅうしょう}{災害|さいがい}",
+      "type": "jitsugi",
+      "q": "{気温|きおん}と{湿度|しつど}が{高|たか}い{場所|ばしょ}で、ホッパーに{豆|まめ}を{入|い}れる{作業|さぎょう}を{何度|なんど}もくりかえします。{熱中症|ねっちゅうしょう}を{防|ふせ}ぐために{最|もっと}も{適切|てきせつ}な{計画|けいかく}はどれですか。",
+      "q_en": "You will repeat the job of putting beans into a hopper in a hot and humid place. What is the best plan to prevent heat illness?",
+      "choices": [
+        "{休憩|きゅうけい}を{取|と}らずに{早|はや}く{終|お}わらせて、{終|お}わってからまとめて{水|みず}を{飲|の}む",
+        "トイレに{行|い}く{回数|かいすう}が{増|ふ}えないように{水分|すいぶん}は{我慢|がまん}する",
+        "よく{休憩|きゅうけい}を{取|と}って{水分|すいぶん}や{塩分|えんぶん}をとり、{汗|あせ}や{水分|すいぶん}を{吸|す}って{乾|かわ}きやすい{衣服|いふく}を{着用|ちゃくよう}する"
+      ],
+      "choices_en": [
+        "Skip breaks to finish fast, then drink a lot of water afterwards",
+        "Avoid drinking so you do not need the toilet so often",
+        "Take good breaks, drink water and take salt, and wear clothing that absorbs sweat and dries easily"
+      ],
+      "answer": 2,
+      "explain": "{対策|たいさく}は「{気温|きおん}と{湿度|しつど}が{高|たか}い{場所|ばしょ}で{作業|さぎょう}するときは、よく{休憩|きゅうけい}を{取|と}って、{水分|すいぶん}や{塩分|えんぶん}をとる」「{空気|くうき}を{通|とお}して、{汗|あせ}や{水分|すいぶん}を{吸|す}って、{乾|かわ}きやすい{衣服|いふく}を{着用|ちゃくよう}する」ことです。",
+      "explain_en": "The countermeasures are: take frequent breaks and take water and salt when working in hot, humid places, and wear breathable clothing that absorbs sweat and dries quickly.",
+      "page": 61
+    },
+    {
+      "id": "D26",
+      "chapter": "{第|だい}3{章|しょう} {労働|ろうどう}{安全|あんぜん}",
+      "topic": "{熱中症|ねっちゅうしょう}{災害|さいがい}",
+      "type": "jitsugi",
+      "q": "{作業場|さぎょうじょう}で{同僚|どうりょう}に{熱中症|ねっちゅうしょう}のような{症状|しょうじょう}が{出|で}ました。テキストが{示|しめ}す{対応|たいおう}の{最初|さいしょ}にすることはどれですか。",
+      "q_en": "A colleague shows symptoms like heat illness in the workplace. According to the text, what is the first thing to do?",
+      "choices": [
+        "すぐに{仕事|しごと}に{戻|もど}らせる",
+        "{責任者|せきにんしゃ}に{知|し}らせる",
+        "{熱|あつ}いお{茶|ちゃ}を{飲|の}ませる"
+      ],
+      "choices_en": [
+        "Send the person straight back to work",
+        "Tell the supervisor",
+        "Give the person hot tea to drink"
+      ],
+      "answer": 1,
+      "explain": "テキストの{対応|たいおう}は、①{責任者|せきにんしゃ}に{知|し}らせる、②{涼|すず}しいところに{移動|いどう}する、③{安静|あんせい}にする、④{作業服|さぎょうふく}をゆるめ{体|からだ}を{冷|ひ}やす、⑤{塩分|えんぶん}を{含|ふく}む{水|みず}やスポーツドリンクを{飲|の}む、の{順|じゅん}です。",
+      "explain_en": "The steps in the text are: 1) tell the supervisor, 2) move to a cool place, 3) rest quietly, 4) loosen the work clothes and cool the body, 5) drink water containing salt or a sports drink.",
+      "page": 62
+    },
+    {
+      "id": "D27",
+      "chapter": "{第|だい}3{章|しょう} {労働|ろうどう}{安全|あんぜん}",
+      "topic": "{熱中症|ねっちゅうしょう}{災害|さいがい}",
+      "type": "gakka",
+      "q": "{熱中症|ねっちゅうしょう}のような{症状|しょうじょう}が{出|で}た{人|ひと}の{体|からだ}を{冷|ひ}やすとき、テキストが「{特|とく}に」と{示|しめ}している{場所|ばしょ}はどこですか。",
+      "q_en": "When cooling the body of a person with heat illness symptoms, which places does the text say to cool especially?",
+      "choices": [
+        "{首|くび}、{脇|わき}の{下|した}、{足|あし}のつけ{根|ね}",
+        "{手|て}のひらと{足|あし}の{裏|うら}",
+        "{背中|せなか}とお{腹|なか}"
+      ],
+      "choices_en": [
+        "The neck, the armpits and the groin",
+        "The palms and the soles of the feet",
+        "The back and the stomach"
+      ],
+      "answer": 0,
+      "explain": "テキストには「{作業服|さぎょうふく}をゆるめ、{体|からだ}（{特|とく}に{首|くび}、{脇|わき}の{下|した}、{足|あし}のつけ{根|ね}）を{冷|ひ}やします」と{書|か}かれています。",
+      "explain_en": "The text says to loosen the work clothes and cool the body, especially the neck, armpits and groin.",
+      "page": 62
+    },
+    {
+      "id": "D28",
+      "chapter": "{第|だい}3{章|しょう} {労働|ろうどう}{安全|あんぜん}",
+      "topic": "{熱中症|ねっちゅうしょう}{災害|さいがい}",
+      "type": "gakka",
+      "q": "{暑|あつ}い{職場|しょくば}で{熱中症|ねっちゅうしょう}を{防|ふせ}ぐために{着用|ちゃくよう}するとよい{衣服|いふく}はどれですか。",
+      "q_en": "Which clothing is recommended to prevent heat illness in a hot workplace?",
+      "choices": [
+        "{体|からだ}に{強|つよ}く{密着|みっちゃく}して{汗|あせ}を{外|そと}に{出|だ}さない{衣服|いふく}",
+        "{水|みず}を{通|とお}さない{厚|あつ}いビニールの{衣服|いふく}",
+        "{空気|くうき}を{通|とお}して、{汗|あせ}や{水分|すいぶん}を{吸|す}って、{乾|かわ}きやすい{衣服|いふく}"
+      ],
+      "choices_en": [
+        "Very tight clothing that keeps sweat inside",
+        "Thick waterproof vinyl clothing",
+        "Clothing that lets air through, absorbs sweat and moisture, and dries easily"
+      ],
+      "answer": 2,
+      "explain": "テキストの{対策|たいさく}には「{空気|くうき}を{通|とお}して、{汗|あせ}や{水分|すいぶん}を{吸|す}って、{乾|かわ}きやすい{衣服|いふく}を{着用|ちゃくよう}する」と{書|か}かれています。",
+      "explain_en": "The text's countermeasure is to wear clothing that is breathable, absorbs sweat and moisture, and dries easily.",
+      "page": 62
+    },
+    {
+      "id": "D29",
+      "chapter": "{第|だい}3{章|しょう} {労働|ろうどう}{安全|あんぜん}",
+      "topic": "{激突|げきとつ}{災害|さいがい}",
+      "type": "jitsugi",
+      "q": "フォークリフトで{空箱|からばこ}を{運|はこ}び、{倉庫|そうこ}の{入|い}り{口|ぐち}を{通|とお}ります。{運転者|うんてんしゃ}がとるべき{行動|こうどう}はどれですか。",
+      "q_en": "You are driving a forklift with empty boxes and are about to pass through a warehouse entrance. What should the driver do?",
+      "choices": [
+        "{倉庫|そうこ}の{入|い}り{口|ぐち}の{前|まえ}で{一時|いちじ}{停止|ていし}し、{指差|しさ}{呼称|こしょう}をして{安全|あんぜん}{確認|かくにん}を{必|かなら}ずおこなう",
+        "{荷|に}が{軽|かる}いので、{止|と}まらずにゆっくり{通過|つうか}する",
+        "クラクションを{鳴|な}らし{続|つづ}けながらそのまま{通過|つうか}する"
+      ],
+      "choices_en": [
+        "Stop in front of the warehouse entrance and always check safety using point-and-call",
+        "The load is light, so pass through slowly without stopping",
+        "Keep sounding the horn and drive straight through"
+      ],
+      "answer": 0,
+      "explain": "{事例|じれい}の{原因|げんいん}は「フォークリフトが、{倉庫|そうこ}の{入|い}り{口|ぐち}の{前|まえ}で{一時|いちじ}{停止|ていし}をしなかった」ことです。{対策|たいさく}は{一時|いちじ}{停止|ていし}し、{指差|しさ}{呼称|こしょう}をして{安全|あんぜん}{確認|かくにん}を{必|かなら}ずおこなうことです。",
+      "explain_en": "The cause was that the forklift did not stop in front of the warehouse entrance. The countermeasure is to stop and always confirm safety with point-and-call.",
+      "page": 62
+    },
+    {
+      "id": "D30",
+      "chapter": "{第|だい}3{章|しょう} {労働|ろうどう}{安全|あんぜん}",
+      "topic": "{激突|げきとつ}{災害|さいがい}",
+      "type": "jitsugi",
+      "q": "{倉庫|そうこ}の{入|い}り{口|ぐち}の{横|よこ}を{歩|ある}いているとき、フォークリフトが{近|ちか}づいてきました。{歩行者|ほこうしゃ}として{最|もっと}も{安全|あんぜん}な{行動|こうどう}はどれですか。",
+      "q_en": "You are walking beside a warehouse entrance when a forklift approaches. What is the safest action for a pedestrian?",
+      "choices": [
+        "{運転者|うんてんしゃ}が{気|き}づいているはずなので、そのまま{歩|ある}き{続|つづ}ける",
+        "{立|た}ち{止|ど}まってフォークリフトと{運転者|うんてんしゃ}を{見|み}て、{安全|あんぜん}を{確認|かくにん}してから{通|とお}る",
+        "フォークリフトの{前|まえ}を{走|はし}って{早|はや}く{通|とお}り{抜|ぬ}ける"
+      ],
+      "choices_en": [
+        "The driver must have seen you, so keep walking",
+        "Stop, look at the forklift and driver, confirm it is safe, then go",
+        "Run across in front of the forklift to get past quickly"
+      ],
+      "answer": 1,
+      "explain": "{事例|じれい}では、{一時|いちじ}{停止|ていし}しないで{通過|つうか}したフォークリフトと{横|よこ}から{来|き}た{人|ひと}がぶつかりそうになりました。{運転者|うんてんしゃ}も{歩行者|ほこうしゃ}も{立|た}ち{止|ど}まって{安全|あんぜん}{確認|かくにん}をすることが{激突|げきとつ}{災害|さいがい}の{防止|ぼうし}になります。{作業場|さぎょうじょう}では「{走|はし}ることを{禁止|きんし}する{標識|ひょうしき}」も{使|つか}われています。",
+      "explain_en": "In the case study a forklift passed through without stopping and nearly hit a person coming from the side. Both drivers and pedestrians should stop and check safety. Workplaces also use signs prohibiting running.",
+      "page": 62
+    }
+  ],
+  "terms": [
+    {
+      "term": "ヒヤリ・ハット",
+      "reading": "ひやりはっと",
+      "en": "Near miss (an incident that surprised you but caused no injury)",
+      "def": "ケガにはならなかったが、「ヒヤリ」としたり「ハッ」としたりした{出来事|できごと}。{労働|ろうどう}{災害|さいがい}を{防|ふせ}ぐために{事例|じれい}を{共有|きょうゆう}する。",
+      "def_en": "An event that did not cause injury but gave you a scare. These cases are shared to prevent real accidents.",
+      "page": 56
+    },
+    {
+      "term": "{転倒|てんとう}",
+      "reading": "てんとう",
+      "en": "Slip / trip and fall",
+      "def": "{濡|ぬ}れた{床|ゆか}で{滑|すべ}ったり、{通路|つうろ}の{物|もの}につまずいたりして{倒|たお}れること。{床|ゆか}の{水|みず}をふき{取|と}る、{通路|つうろ}に{物|もの}を{置|お}かないことが{対策|たいさく}。",
+      "def_en": "Falling over after slipping on a wet floor or tripping on objects in a passage. Wipe up floor water and keep passages clear.",
+      "page": 56
+    },
+    {
+      "term": "はさまれ・{巻|ま}き{込|こ}まれ",
+      "reading": "はさまれ・まきこまれ",
+      "en": "Caught in / entangled by machinery",
+      "def": "{機械|きかい}のカバーの{中|なか}やベルトコンベアなどに{手|て}や{体|からだ}がはさまれたり{巻|ま}き{込|こ}まれたりする{災害|さいがい}。",
+      "def_en": "An accident where the hand or body is caught or pulled into a machine, for example inside a cover or by a belt conveyor.",
+      "page": 57
+    },
+    {
+      "term": "{停止|ていし}ボタン",
+      "reading": "ていしぼたん",
+      "en": "Stop button",
+      "def": "{機械|きかい}を{止|と}めるためのボタン。{清掃|せいそう}・{異物|いぶつ}の{除去|じょきょ}・{検査|けんさ}・{修理|しゅうり}の{前|まえ}に{押|お}し、{確実|かくじつ}に{止|と}まったか{確認|かくにん}する。",
+      "def_en": "The button that stops a machine. Press it before cleaning, removing foreign objects, inspection or repair, and confirm the machine has really stopped.",
+      "page": 58
+    },
+    {
+      "term": "{安全|あんぜん}{装置|そうち}",
+      "reading": "あんぜんそうち",
+      "en": "Safety device",
+      "def": "{危険|きけん}を{防|ふせ}ぐために{機械|きかい}に{付|つ}ける{装置|そうち}。{例|れい}：カバーを{開|あ}けると{機械|きかい}が{自動的|じどうてき}に{止|と}まる{装置|そうち}。",
+      "def_en": "A device fitted to a machine to prevent danger, for example one that stops the machine automatically when the cover is opened.",
+      "page": 58
+    },
+    {
+      "term": "ベルトコンベア",
+      "reading": "べるとこんべあ",
+      "en": "Belt conveyor",
+      "def": "{製品|せいひん}を{運|はこ}ぶベルト{式|しき}の{装置|そうち}。{止|と}めないで{清掃|せいそう}すると、ぞうきんが{引|ひ}っ{掛|か}かって{手|て}が{巻|ま}き{込|こ}まれる{危険|きけん}がある。",
+      "def_en": "A belt device that moves products. Cleaning it without stopping it can catch the cloth and pull your hand in.",
+      "page": 58
+    },
+    {
+      "term": "{押|お}し{板|いた}",
+      "reading": "おしいた",
+      "en": "Pusher board",
+      "def": "スライサーで{食|しょく}パンなどを{切|き}るとき、{手|て}を{使|つか}わずに{材料|ざいりょう}を{押|お}し{出|だ}すための{板|いた}。",
+      "def_en": "A board used to push food into a slicer so that your hands do not go near the blade.",
+      "page": 59
+    },
+    {
+      "term": "{耐切創|たいせっそう}{手袋|てぶくろ}",
+      "reading": "たいせっそうてぶくろ",
+      "en": "Cut-resistant glove",
+      "def": "{切|き}れ{防止|ぼうし}{用|よう}の{保護|ほご}{手袋|てぶくろ}。{包丁|ほうちょう}などで{冷凍|れいとう}した{魚|さかな}を{切|き}る{作業|さぎょう}のときに{着用|ちゃくよう}する。",
+      "def_en": "A protective glove that prevents cuts. Wear it for work such as cutting frozen fish with a knife.",
+      "page": 59
+    },
+    {
+      "term": "{脚立|きゃたつ}",
+      "reading": "きゃたつ",
+      "en": "Stepladder",
+      "def": "{高|たか}い{棚|たな}の{作業|さぎょう}に{使|つか}う{折|お}りたたみ{式|しき}のはしご。{開|ひら}き{止|ど}め{金具|かなぐ}をセットして{使|つか}う。",
+      "def_en": "A folding ladder used for work on high shelves. Always use it with the spreader lock set.",
+      "page": 59
+    },
+    {
+      "term": "{開|ひら}き{止|ど}め{金具|かなぐ}",
+      "reading": "ひらきどめかなぐ",
+      "en": "Spreader lock (opening stopper) of a stepladder",
+      "def": "{脚立|きゃたつ}が{開|ひら}きすぎて{動|うご}かないように{固定|こてい}する{金具|かなぐ}。セットしないと{脚立|きゃたつ}が{動|うご}いて{落|お}ちる{危険|きけん}がある。",
+      "def_en": "The metal fitting that locks a stepladder open so it cannot move. Without it the ladder can shift and you may fall.",
+      "page": 59
+    },
+    {
+      "term": "{保護|ほご}{手袋|てぶくろ}",
+      "reading": "ほごてぶくろ",
+      "en": "Protective (heat-resistant) glove",
+      "def": "{鉄板|てっぱん}、{鍋|なべ}、{釜|かま}などの{高温|こうおん}の{物|もの}を{持|も}って{運|はこ}ぶときに{着用|ちゃくよう}する{手袋|てぶくろ}。",
+      "def_en": "Gloves worn when carrying hot items such as oven trays, pots and kettles.",
+      "page": 60
+    },
+    {
+      "term": "{腰痛|ようつう}",
+      "reading": "ようつう",
+      "en": "Back pain / lower back injury",
+      "def": "{不安定|ふあんてい}な{姿勢|しせい}で{重|おも}い{物|もの}を{持|も}ち{上|あ}げたときなどに{腰|こし}に{起|お}こる{痛|いた}み。{膝|ひざ}を{曲|ま}げた{正|ただ}しい{姿勢|しせい}で{防|ふせ}ぐ。",
+      "def_en": "Pain in the lower back caused for example by lifting heavy objects in an unstable posture. Prevent it by bending the knees.",
+      "page": 61
+    },
+    {
+      "term": "{台車|だいしゃ}",
+      "reading": "だいしゃ",
+      "en": "Hand cart / trolley",
+      "def": "{重|おも}い{物|もの}を{運|はこ}ぶときに{使|つか}う{車|くるま}のついた{道具|どうぐ}。{腰痛|ようつう}を{防|ふせ}ぐためにできるだけ{使用|しよう}する。",
+      "def_en": "A wheeled cart used to move heavy items. Use it whenever possible to prevent back injury.",
+      "page": 61
+    },
+    {
+      "term": "{熱中症|ねっちゅうしょう}",
+      "reading": "ねっちゅうしょう",
+      "en": "Heat stroke / heat illness",
+      "def": "{気温|きおん}と{湿度|しつど}が{高|たか}い{場所|ばしょ}で{休憩|きゅうけい}や{水分|すいぶん}・{塩分|えんぶん}をとらずに{作業|さぎょう}を{続|つづ}けたときに{起|お}こる{体|からだ}の{不調|ふちょう}。ふらつきなどの{症状|しょうじょう}が{出|で}る。",
+      "def_en": "A health problem caused by working in hot, humid places without breaks, water or salt. Symptoms include dizziness and unsteadiness.",
+      "page": 61
+    },
+    {
+      "term": "{塩分|えんぶん}",
+      "reading": "えんぶん",
+      "en": "Salt (in drinks)",
+      "def": "{汗|あせ}と{一緒|いっしょ}に{体|からだ}から{出|で}ていくため、{暑|あつ}い{場所|ばしょ}の{作業|さぎょう}では{水分|すいぶん}とともにとる{必要|ひつよう}がある。",
+      "def_en": "Salt leaves the body with sweat, so it must be taken together with water when working in hot places.",
+      "page": 61
+    },
+    {
+      "term": "{安静|あんせい}",
+      "reading": "あんせい",
+      "en": "Rest quietly",
+      "def": "{体|からだ}を{動|うご}かさずに{休|やす}むこと。{熱中症|ねっちゅうしょう}のような{症状|しょうじょう}が{出|で}たら{涼|すず}しいところで{安静|あんせい}にする。",
+      "def_en": "Resting without moving. If heat illness symptoms appear, rest quietly in a cool place.",
+      "page": 62
+    },
+    {
+      "term": "{激突|げきとつ}",
+      "reading": "げきとつ",
+      "en": "Collision (hitting or being hit)",
+      "def": "フォークリフトや{物|もの}に{人|ひと}がぶつかる{災害|さいがい}。{一時|いちじ}{停止|ていし}と{安全|あんぜん}{確認|かくにん}で{防|ふせ}ぐ。",
+      "def_en": "An accident where a person collides with a forklift or an object. Prevented by stopping and checking safety.",
+      "page": 62
+    },
+    {
+      "term": "{指差|しさ}{呼称|こしょう}",
+      "reading": "しさこしょう",
+      "en": "Point-and-call safety check",
+      "def": "{確認|かくにん}する{対象|たいしょう}を{指|ゆび}で{差|さ}し、{声|こえ}に{出|だ}して{確認|かくにん}する{安全|あんぜん}{確認|かくにん}の{方法|ほうほう}。フォークリフトの{運転者|うんてんしゃ}は{倉庫|そうこ}の{入|い}り{口|ぐち}{前|まえ}でおこなう。",
+      "def_en": "A safety check where you point at the thing you are checking and say it aloud. Forklift drivers do this in front of warehouse entrances.",
+      "page": 62
+    },
+    {
+      "term": "{安全標識|あんぜんひょうしき}",
+      "reading": "あんぜんひょうしき",
+      "en": "Safety sign",
+      "def": "{作業場|さぎょうじょう}の{危険|きけん}や{守|まも}るべきことを{絵|え}と{文字|もじ}で{知|し}らせる{表示|ひょうじ}。{禁止|きんし}・{注意|ちゅうい}・{指示|しじ}・{案内|あんない}などの{種類|しゅるい}がある。",
+      "def_en": "A display that uses pictures and words to show dangers and rules in the workplace. Types include prohibition, warning, mandatory action and guidance.",
+      "page": 63
+    },
+    {
+      "term": "{非常口|ひじょうぐち}",
+      "reading": "ひじょうぐち",
+      "en": "Emergency exit",
+      "def": "{火事|かじ}や{地震|じしん}のときに{避難|ひなん}するための{出口|でぐち}。{緑色|みどりいろ}の{標識|ひょうしき}で{場所|ばしょ}を{知|し}らせる。",
+      "def_en": "The exit used to escape in a fire or earthquake. Its location is shown by a green sign.",
+      "page": 65
+    },
+    {
+      "term": "{消火器|しょうかき}",
+      "reading": "しょうかき",
+      "en": "Fire extinguisher",
+      "def": "{火|ひ}を{消|け}すための{道具|どうぐ}。{赤|あか}い{標識|ひょうしき}で{置|お}いてある{場所|ばしょ}を{知|し}らせる。",
+      "def_en": "Equipment used to put out fires. A red sign shows where it is kept.",
+      "page": 65
+    }
+  ],
+  "signs": [
+    {
+      "name_ja": "{立入禁止|たちいりきんし}",
+      "name_en": "Do not enter",
+      "kind": "{禁止|きんし}（{赤|あか}）",
+      "desc_ja": "{入|はい}ることを{禁止|きんし}する{標識|ひょうしき}。{危険|きけん}な{場所|ばしょ}や{許可|きょか}のない{人|ひと}が{入|はい}れない{場所|ばしょ}に{掲示|けいじ}する。",
+      "desc_en": "A sign that forbids entry. It is posted at dangerous places or places where only authorised people may enter."
+    },
+    {
+      "name_ja": "{走|はし}ることを{禁止|きんし}する{標識|ひょうしき}",
+      "name_en": "No running",
+      "kind": "{禁止|きんし}（{赤|あか}）",
+      "desc_ja": "{作業場|さぎょうじょう}で{走|はし}ることを{禁止|きんし}する{標識|ひょうしき}。{転倒|てんとう}や{激突|げきとつ}を{防|ふせ}ぐ。",
+      "desc_en": "A sign forbidding running in the workplace. It prevents falls and collisions."
+    },
+    {
+      "name_ja": "{開放|かいほう}{厳禁|げんきん}",
+      "name_en": "Opening strictly prohibited",
+      "kind": "{禁止|きんし}（{赤|あか}）",
+      "desc_ja": "{扉|とびら}をあけっ{放|ぱな}しにすることを{禁止|きんし}する{標識|ひょうしき}。",
+      "desc_en": "A sign that forbids leaving the door open."
+    },
+    {
+      "name_ja": "{手|て}をふれるな",
+      "name_en": "Do not touch",
+      "kind": "{禁止|きんし}（{赤|あか}）",
+      "desc_ja": "{手|て}で{触|ふ}れることを{禁止|きんし}する{標識|ひょうしき}。「{危険|きけん} {手|て}をふれるな」などと{表示|ひょうじ}する。",
+      "desc_en": "A sign that forbids touching with the hand, for example \"DANGER! DO NOT TOUCH\"."
+    },
+    {
+      "name_ja": "{点検中|てんけんちゅう} スイッチを{入|い}れるな",
+      "name_en": "During inspection: do not turn switch on",
+      "kind": "{禁止|きんし}（{赤|あか}）",
+      "desc_ja": "{点検|てんけん}や{修理|しゅうり}の{間|あいだ}に{機械|きかい}のスイッチを{入|い}れることを{禁止|きんし}する{標識|ひょうしき}。",
+      "desc_en": "A sign forbidding anyone from switching the machine on while it is being inspected or repaired."
+    },
+    {
+      "name_ja": "はさまれ{注意|ちゅうい}",
+      "name_en": "Watch your hands / caution: pinch point",
+      "kind": "{注意|ちゅうい}（{黄|き}）",
+      "desc_ja": "{手|て}などがはさまれる{危険|きけん}を{知|し}らせる{標識|ひょうしき}。",
+      "desc_en": "A sign warning that hands or other body parts may be pinched or crushed."
+    },
+    {
+      "name_ja": "やけど{注意|ちゅうい}・{高温|こうおん}{注意|ちゅうい}",
+      "name_en": "Caution: burns / hot surface",
+      "kind": "{注意|ちゅうい}（{黄|き}・{赤|あか}）",
+      "desc_ja": "やけどをする{危険|きけん}を{知|し}らせる{標識|ひょうしき}。「{火傷|やけど}{注意|ちゅうい}」「{高温|こうおん}{注意|ちゅうい}（HOT SURFACE）」などがある。",
+      "desc_en": "A sign warning of burn risk, such as \"Caution: burns\" or \"HOT SURFACE\"."
+    },
+    {
+      "name_ja": "{足元|あしもと}{注意|ちゅうい}",
+      "name_en": "Watch your step",
+      "kind": "{注意|ちゅうい}（{黄|き}）",
+      "desc_ja": "{転|ころ}ぶ{危険|きけん}を{知|し}らせる{標識|ひょうしき}。「{足元|あしもと}が{滑|すべ}りやすいですご{注意|ちゅうい}ください」などと{表示|ひょうじ}する。",
+      "desc_en": "A sign warning of a trip or slip hazard, for example \"The floor is slippery, please take care\"."
+    },
+    {
+      "name_ja": "{危険|きけん}!{転倒|てんとう}{注意|ちゅうい}",
+      "name_en": "Danger! Caution: falling over",
+      "kind": "{注意|ちゅうい}（{黄|き}）",
+      "desc_ja": "{転|ころ}ぶ{危険|きけん}を{知|し}らせる{標識|ひょうしき}。バランスを{崩|くず}して{転倒|てんとう}する{危険|きけん}のある{場所|ばしょ}に{掲示|けいじ}する。",
+      "desc_en": "A sign warning of the danger of tripping or falling over, posted where you may lose your balance."
+    },
+    {
+      "name_ja": "{開口部|かいこうぶ}{注意|ちゅうい}・{転落|てんらく}{注意|ちゅうい}",
+      "name_en": "Danger: opening / caution: falling down",
+      "kind": "{注意|ちゅうい}（{黄|き}）",
+      "desc_ja": "{開口部|かいこうぶ}や{階段|かいだん}などから{転落|てんらく}する{危険|きけん}を{知|し}らせる{標識|ひょうしき}。",
+      "desc_en": "A sign warning of the danger of falling through an opening or down stairs."
+    },
+    {
+      "name_ja": "{切断|せつだん}{注意|ちゅうい}",
+      "name_en": "Caution: cutting hazard",
+      "kind": "{注意|ちゅうい}（{黄|き}）",
+      "desc_ja": "{刃物|はもの}や{機械|きかい}で{指|ゆび}などを{切断|せつだん}する{危険|きけん}を{知|し}らせる{標識|ひょうしき}。",
+      "desc_en": "A sign warning that blades or machines could cut off a finger."
+    },
+    {
+      "name_ja": "{回転物|かいてんぶつ}に{手|て}を{出|だ}すな",
+      "name_en": "Keep away from rotary object",
+      "kind": "{禁止|きんし}（{赤|あか}）",
+      "desc_ja": "{機械|きかい}に{巻|ま}き{込|こ}まれる{危険|きけん}を{知|し}らせる{標識|ひょうしき}。「{運転中|うんてんちゅう} {手|て}を{入|い}れるな」もこの{仲間|なかま}。",
+      "desc_en": "A sign warning of entanglement in machinery. \"Do not put hands in while running\" is the same type."
+    },
+    {
+      "name_ja": "{感電|かんでん}{注意|ちゅうい}",
+      "name_en": "Danger! Electric shock",
+      "kind": "{注意|ちゅうい}（{黄|き}）",
+      "desc_ja": "{感電|かんでん}する{危険|きけん}を{知|し}らせる{標識|ひょうしき}。",
+      "desc_en": "A sign warning of the danger of electric shock."
+    },
+    {
+      "name_ja": "{頭上|ずじょう}{注意|ちゅうい}",
+      "name_en": "Watch your head",
+      "kind": "{注意|ちゅうい}（{黄|き}）",
+      "desc_ja": "{頭|あたま}をぶつける{危険|きけん}を{知|し}らせる{標識|ひょうしき}。{低|ひく}い{天井|てんじょう}や{配管|はいかん}のある{場所|ばしょ}に{掲示|けいじ}する。",
+      "desc_en": "A sign warning that you may hit your head, posted where ceilings or pipes are low."
+    },
+    {
+      "name_ja": "ゴーグル{着用|ちゃくよう}・{保護|ほご}メガネ{着用|ちゃくよう}",
+      "name_en": "Wear goggles / wear safety glasses",
+      "kind": "{指示|しじ}（{青|あお}）",
+      "desc_ja": "{目|め}を{保護|ほご}する{必要|ひつよう}があることを{知|し}らせる{標識|ひょうしき}。{青|あお}い{丸|まる}の{標識|ひょうしき}で{守|まも}ることを{指示|しじ}する。",
+      "desc_en": "A sign showing that eye protection is required. Blue round signs give instructions you must follow."
+    },
+    {
+      "name_ja": "{非常口|ひじょうぐち}",
+      "name_en": "Emergency exit",
+      "kind": "{案内|あんない}（{緑|みどり}）",
+      "desc_ja": "{避難|ひなん}するための{非常口|ひじょうぐち}の{場所|ばしょ}を{知|し}らせる{標識|ひょうしき}。{緑色|みどりいろ}で{表示|ひょうじ}される。",
+      "desc_en": "A green sign showing the location of the emergency exit used for evacuation."
+    },
+    {
+      "name_ja": "{消火器|しょうかき}",
+      "name_en": "Fire extinguisher",
+      "kind": "{案内|あんない}・{防火|ぼうか}（{赤|あか}）",
+      "desc_ja": "{消火器|しょうかき}が{置|お}いてある{場所|ばしょ}を{知|し}らせる{標識|ひょうしき}。",
+      "desc_en": "A sign showing where the fire extinguisher is kept."
+    }
+  ]
+}

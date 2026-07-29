@@ -50,12 +50,12 @@ npm run serve   # ローカル確認 http://localhost:8898
 `sw.js` の `VERSION` も内容ハッシュから自動更新されるので、
 更新時にキャッシュが残る事故は起きません。
 
-## デプロイ手順（GitHub Pages）
+## 公開先（設定ずみ）
 
-1. リポジトリを作成（例：`tokutei-ginou-study`）
-2. このフォルダの中身をそのまま push
-3. Settings → Pages → Source: `main` / `/ (root)` → Save
-4. 数分後 `https://<ユーザー名>.github.io/<リポジトリ名>/` で公開
+https://jshangqian-afk.github.io/tokutei-ginou-study/
+
+リポジトリ `jshangqian-afk/tokutei-ginou-study` の `main` / `/ (root)` を
+GitHub Pages で配信しています。push すればそのまま反映されます。
 
 ### 更新するとき
 
@@ -70,13 +70,15 @@ git add -A && git commit -m "..." && git push
 ## 記録の集約（GAS）
 
 `gas/Code.gs` をスプレッドシートの Apps Script に貼り、`setup` を実行してから
-ウェブアプリとしてデプロイし、発行された URL を `index.html` 冒頭の
+ウェブアプリとしてデプロイし、発行された URL を `src/template.html` の
 
 ```js
 const GAS_URL = "";
 ```
 
-に貼ります。詳細は `セットアップ手順.md` を参照。
+（205行目あたり）に貼って `npm run build` します。
+**`index.html` を直接書きかえてはいけません**（Service Worker の VERSION がズレて
+古いキャッシュが残ります）。詳細は `セットアップ手順.md` を参照。
 
 ### スプレッドシート側
 
